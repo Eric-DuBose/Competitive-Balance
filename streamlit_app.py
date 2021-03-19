@@ -53,3 +53,4 @@ def comp_balance(league):
   
 sbc_comp_bal = comp_balance('SBC')
 st.table(sbc_comp_bal.sort_values('Total Revenue', ascending = False).head(10))
+st.table(sbc_comp_bal.sort_values('Market Size', ascending = True).head(10))
