@@ -56,13 +56,13 @@ sbc_comp_bal = comp_balance('SBC')
 sbc_comp_bal = sbc_comp_bal[sbc_comp_bal['Playoffs'] == 0]
 
 
-col1, col2, col3 = st.beta_columns(3)
+col1, col2 = st.beta_columns(2)
 with col1:
     st.header("Revenue Eligible")
     st.table(sbc_comp_bal[['Team','Total Revenue']].sort_values('Total Revenue', ascending = True).head(10))
 
 
 
-with col3:
-    st.header("Market Eligible")
+with col2:
+    st.header("Josh eats his own poo.")
     st.table(sbc_comp_bal[['Team','Market Size']].sort_values('Market Size', ascending = True).head(10))
