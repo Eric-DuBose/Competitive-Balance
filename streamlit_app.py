@@ -53,5 +53,5 @@ def comp_balance(league):
   
 sbc_comp_bal = comp_balance('SBC')
 sbc_comp_bal = sbc_comp_bal[sbc_comp_bal['Playoffs'] == 0]
-st.table(sbc_comp_bal[['Team','Total Revenue']].sort_values('Total Revenue', ascending = False).head(10))
+st.table(sbc_comp_bal[['Team','Total Revenue']].sort_values('Total Revenue', ascending = True).head(10), title = 'Test')
 st.table(sbc_comp_bal[['Team','Market Size']].sort_values('Market Size', ascending = True).head(10))
