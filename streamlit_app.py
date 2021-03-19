@@ -52,4 +52,4 @@ def comp_balance(league):
     return comp_bal
   
 sbc_comp_bal = comp_balance('SBC')
-st.line_chart(sbc_comp_bal['Media Revenue'])
+st.table(sbc_comp_bal.sort_values('Total Revenue', ascending = False))
