@@ -58,11 +58,20 @@ sbc_comp_bal = sbc_comp_bal[sbc_comp_bal['Playoffs'] == 0]
 revenue = sbc_comp_bal[['Team','Total Revenue']].sort_values('Total Revenue', ascending = True).head(10)
 revenue['Balls'] = [25,20,15,10,8,7,6,4,3,2]
 
-col1, col2 = st.beta_columns(2)
+market = sbc_comp_bal[['Team','Market Size']].sort_values('Market Size', ascending = True).head(10)
+market['Balls'] = [25,20,15,10,8,7,6,4,3,2]
+
+lottery = pd.merge(revenue, market, how = 'inner', left_index = True, right_index = True)
+
+col1, col2, col3 = st.beta_columns(3)
 with col1:
     st.header("Revenue Eligible")
     st.table(revenue)
 
 with col2:
     st.header("Market Eligible")
-    st.table(sbc_comp_bal[['Team','Market Size']].sort_values('Market Size', ascending = True).head(10))
+    st.table(market)
+    
+with col3:
+    st.header("Total Balls")
+    st.table(lottery)
