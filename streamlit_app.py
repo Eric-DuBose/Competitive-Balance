@@ -8,7 +8,7 @@ leagues = {
     "SBC":[145, 
            '2038-04-04', 
            2038,
-           path + 'SBC.lg/import_export/csv/'],
+           'https://raw.githubusercontent.com/EDuBose74/Competitive-Balance/main/SBC/'],
     "PBC":[146, 
            '2030-10-28',
            2030,
