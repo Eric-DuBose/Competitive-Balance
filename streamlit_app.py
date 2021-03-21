@@ -94,4 +94,4 @@ st.dataframe(lottery.style.format({'Total Revenue': "{:,}",
                                    'Revenue Balls': "{:,.0f}",
                                    'Market Balls': "{:,.0f}",
                                    'Total Balls': "{:,.0f}"
-                                   }), height = 768)
+                                   }), height = 768, width = 1600)
