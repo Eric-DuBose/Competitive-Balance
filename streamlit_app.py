@@ -65,15 +65,12 @@ market = sbc_comp_bal[['Team', 'Total Revenue', 'Market Size']].sort_values('Mar
     10).set_index('Team')
 market['Market Balls'] = [25, 20, 15, 10, 8, 7, 6, 4, 3, 2]
 
-# lottery = revenue[['Revenue Balls']].merge(market[['Market Balls']], how='outer', left_index=True,
-#                                            right_index=True).fillna(0)
-
 lottery = pd.concat([revenue, market]).fillna(0).groupby(
     by=['Team', 'Total Revenue', 'Market Size']).sum().reset_index().set_index('Team')
 lottery['Total Balls'] = lottery['Revenue Balls'] + lottery['Market Balls']
 lottery.sort_values('Total Balls', ascending=False, inplace=True)
 
-# st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 st.title("SBC Comp Balance Eligibility")
 
 # col1, col2 = st.beta_columns((1, 1))
