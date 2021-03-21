@@ -87,7 +87,7 @@ st.title("SBC Comp Balance Eligibility")
 
 st.header("Total Balls")
 st.write("Total Lottery Balls for each team. If 0 in a category, then a team is not eligible. Click the column to sort.")
-st.dataframe(lottery.style.format({'Total Revenue': "{:,}",
+st.dataframe(lottery.style.format({'Total Revenue': "{:$,}",
                                    'Revenue Balls': "{:,.0f}",
                                    'Market Balls': "{:,.0f}",
                                    'Total Balls': "{:,.0f}"
