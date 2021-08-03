@@ -39,6 +39,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 31,2035,145,1,1,"Carolina","CAR","Swamp Foxes",22102,40392,34214,28,1,0,0,2
 31,2036,145,1,1,"Carolina","CAR","Swamp Foxes",20741,38236,33943,28,0,0,0,2
 31,2037,145,1,1,"Carolina","CAR","Swamp Foxes",22102,28020,39491,28,0,0,0,4
+31,2038,145,1,1,"Carolina","CAR","Swamp Foxes",22102,23997,38385,28,0,0,0,4
+31,2039,145,1,1,"Carolina","CAR","Swamp Foxes",22102,40439,30054,28,0,0,0,3
 32,1876,145,0,0,"Boston","BSN","Red Caps",0,0,0,0,0,0,0,0
 32,1877,145,0,0,"Boston","BSN","Red Caps",0,0,0,0,0,0,0,0
 32,1878,145,0,0,"Boston","BSN","Red Caps",0,0,0,0,0,0,0,0
@@ -201,6 +203,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 32,2035,145,1,0,"Atlanta","ATL","Braves",39840,25861,40089,60,0,0,0,3
 32,2036,145,1,0,"Atlanta","ATL","Braves",39840,25861,39481,60,0,0,0,3
 32,2037,145,1,0,"Atlanta","ATL","Braves",39840,25861,28594,60,1,0,0,2
+32,2038,145,1,0,"Atlanta","ATL","Braves",39840,25861,44113,60,0,0,0,3
+32,2039,145,1,0,"Atlanta","ATL","Braves",39840,44250,1286,60,1,0,0,1
 33,1901,145,0,0,"Milwaukee","MLA","Brewers",0,0,0,0,0,0,0,0
 33,1902,145,0,0,"St. Louis","SLA","Browns",0,0,0,0,0,0,0,0
 33,1903,145,0,0,"St. Louis","SLA","Browns",0,0,0,0,0,0,0,0
@@ -338,6 +342,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 33,2035,145,0,0,"Baltimore","BAL","Orioles",38844,40247,42067,65,0,0,0,5
 33,2036,145,0,0,"Baltimore","BAL","Orioles",19680,39285,40319,65,0,0,0,5
 33,2037,145,0,0,"Baltimore","BAL","Orioles",28103,40319,39138,65,0,0,0,5
+33,2038,145,0,0,"Baltimore","BAL","Orioles",38844,20882,44536,65,0,0,0,4
+33,2039,145,0,0,"Baltimore","BAL","Orioles",28103,20882,32683,65,0,0,0,4
 34,1901,145,0,0,"Boston","BOS","Americans",0,0,0,0,0,0,0,0
 34,1902,145,0,0,"Boston","BOS","Americans",0,0,0,0,0,0,0,0
 34,1903,145,0,0,"Boston","BOS","Americans",0,0,0,0,1,1,0,0
@@ -475,6 +481,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 34,2035,145,0,0,"Boston","BOS","Red Sox",41598,2030,36807,4,0,0,0,3
 34,2036,145,0,0,"Boston","BOS","Red Sox",36807,2030,40672,4,0,0,0,4
 34,2037,145,0,0,"Boston","BOS","Red Sox",41598,2030,1613,76,0,0,0,4
+34,2038,145,0,0,"Boston","BOS","Red Sox",34137,2030,28416,76,0,0,0,5
+34,2039,145,0,0,"Boston","BOS","Red Sox",36807,40140,44178,76,0,0,0,2
 35,1901,145,0,0,"Chicago","CWS","White Sox",0,0,0,0,0,0,0,0
 35,1902,145,0,0,"Chicago","CWS","White Sox",0,0,0,0,0,0,0,0
 35,1903,145,0,0,"Chicago","CWS","White Sox",0,0,0,0,0,0,0,0
@@ -612,6 +620,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 35,2035,145,0,1,"Nashville","NSH","Sounds",37708,43441,35914,5,0,0,0,5
 35,2036,145,0,1,"Nashville","NSH","Sounds",37708,43564,41459,5,0,0,0,4
 35,2037,145,0,1,"Nashville","NSH","Sounds",31038,19564,40883,5,0,0,0,3
+35,2038,145,0,1,"Nashville","NSH","Sounds",36018,43441,40069,5,0,0,0,3
+35,2039,145,0,1,"Nashville","NSH","Sounds",23884,43441,35124,5,0,0,0,4
 36,1876,145,0,0,"Chicago","CHC","White Stockings",0,0,0,0,0,0,0,0
 36,1877,145,0,0,"Chicago","CHC","White Stockings",0,0,0,0,0,0,0,0
 36,1878,145,0,0,"Chicago","CHC","White Stockings",0,0,0,0,0,0,0,0
@@ -774,6 +784,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 36,2035,145,1,1,"Chicago","CHC","Cubs",20866,28323,38019,6,0,0,0,3
 36,2036,145,1,1,"Chicago","CHC","Cubs",38015,849,36639,6,0,0,0,5
 36,2037,145,1,1,"Chicago","CHC","Cubs",42009,39716,40881,6,0,0,0,5
+36,2038,145,1,1,"Chicago","CHC","Cubs",37927,38896,20516,6,0,0,0,5
+36,2039,145,1,1,"Chicago","CHC","Cubs",23547,41570,42174,6,0,0,0,5
 37,1890,145,0,0,"Cincinnati","CIN","Reds",0,0,0,0,0,0,0,0
 37,1891,145,0,0,"Cincinnati","CIN","Reds",0,0,0,0,0,0,0,0
 37,1892,145,0,0,"Cincinnati","CIN","Reds",0,0,0,0,0,0,0,0
@@ -922,6 +934,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 37,2035,145,1,1,"Cincinnati","CIN","Reds",38636,42824,1398,74,0,0,0,4
 37,2036,145,1,1,"Cincinnati","CIN","Reds",40601,40916,19776,74,0,0,0,3
 37,2037,145,1,1,"Cincinnati","CIN","Reds",19776,467,224,74,0,0,0,3
+37,2038,145,1,1,"Cincinnati","CIN","Reds",38636,467,38923,74,1,0,0,1
+37,2039,145,1,1,"Cincinnati","CIN","Reds",19776,467,38923,74,1,0,0,2
 38,1901,145,0,0,"Cleveland","CLE","Blues",0,0,0,0,0,0,0,0
 38,1902,145,0,0,"Cleveland","CLE","Bronchos",0,0,0,0,0,0,0,0
 38,1903,145,0,0,"Cleveland","CLE","Naps",0,0,0,0,0,0,0,0
@@ -1059,6 +1073,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 38,2035,145,0,1,"Cleveland","CLE","Indians",26139,31354,0,7,1,0,0,1
 38,2036,145,0,1,"Cleveland","CLE","Indians",26139,33681,22840,7,0,0,0,2
 38,2037,145,0,1,"Cleveland","CLE","Spiders",38988,35082,22840,7,1,0,0,1
+38,2038,145,0,1,"Cleveland","CLE","Spiders",38988,43386,41160,7,1,0,0,1
+38,2039,145,0,1,"Cleveland","CLE","Spiders",26139,43386,20776,7,1,0,0,2
 39,1993,145,1,1,"Colorado","COL","Rockies",0,0,0,0,0,0,0,0
 39,1994,145,1,2,"Colorado","COL","Rockies",0,0,0,0,0,0,0,0
 39,1995,145,1,2,"Colorado","COL","Rockies",0,0,0,0,1,0,0,0
@@ -1104,6 +1120,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 39,2035,145,1,2,"Vancouver","VAN","Rockies",39001,40705,21741,2,0,0,0,2
 39,2036,145,1,2,"Vancouver","VAN","Rockies",39001,40705,42046,2,0,0,0,3
 39,2037,145,1,2,"Vancouver","VAN","Rockies",20796,42046,40925,2,0,0,0,3
+39,2038,145,1,2,"Vancouver","VAN","Rockies",20796,42046,43355,2,0,0,0,4
+39,2039,145,1,2,"Vancouver","VAN","Rockies",42197,23382,46127,2,0,0,0,5
 40,1901,145,0,0,"Detroit","DET","Tigers",0,0,0,0,0,0,0,0
 40,1902,145,0,0,"Detroit","DET","Tigers",0,0,0,0,0,0,0,0
 40,1903,145,0,0,"Detroit","DET","Tigers",0,0,0,0,0,0,0,0
@@ -1241,6 +1259,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 40,2035,145,0,1,"Detroit","DET","Tigers",38240,34689,32272,38,1,0,0,2
 40,2036,145,0,1,"Detroit","DET","Tigers",41234,34651,41767,38,1,0,0,1
 40,2037,145,0,1,"Detroit","DET","Tigers",41234,34651,22300,38,1,0,0,2
+40,2038,145,0,1,"Detroit","DET","Tigers",41234,19722,35496,38,1,1,0,2
+40,2039,145,0,1,"Detroit","DET","Tigers",39903,41767,42665,38,1,0,0,1
 41,1993,145,1,0,"Florida","FLO","Marlins",0,0,0,0,0,0,0,0
 41,1994,145,1,0,"Florida","FLO","Marlins",0,0,0,0,0,0,0,0
 41,1995,145,1,0,"Florida","FLO","Marlins",0,0,0,0,0,0,0,0
@@ -1286,6 +1306,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 41,2035,145,1,0,"Florida","FLA","Marlins",36119,40754,39897,29,0,0,0,4
 41,2036,145,1,0,"Florida","FLA","Marlins",36119,37525,43329,29,0,0,0,5
 41,2037,145,1,0,"Florida","FLA","Marlins",43496,37525,43917,29,0,0,0,4
+41,2038,145,1,0,"Florida","FLA","Marlins",38397,1772,39795,29,0,0,0,4
+41,2039,145,1,0,"Florida","FLA","Marlins",34246,40395,861,29,0,0,0,4
 42,1962,145,1,0,"Houston","HOU","Colt .45's",0,0,0,0,0,0,0,0
 42,1963,145,1,0,"Houston","HOU","Colt .45's",0,0,0,0,0,0,0,0
 42,1964,145,1,0,"Houston","HOU","Colt .45's",0,0,0,0,0,0,0,0
@@ -1362,6 +1384,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 42,2035,145,0,2,"Houston","HOU","Astros",40797,34804,35002,9,0,0,0,4
 42,2036,145,0,2,"Houston","HOU","Astros",36076,43386,38147,9,0,0,0,4
 42,2037,145,0,2,"Houston","HOU","Astros",36076,19838,23344,9,0,0,0,4
+42,2038,145,0,2,"Houston","HOU","Astros",24143,39586,44529,9,0,0,0,3
+42,2039,145,0,2,"Houston","HOU","Astros",36076,39586,38693,9,0,0,0,3
 43,1969,145,0,1,"Kansas City","KC","Royals",0,0,0,0,0,0,0,0
 43,1970,145,0,1,"Kansas City","KC","Royals",0,0,0,0,0,0,0,0
 43,1971,145,0,1,"Kansas City","KC","Royals",0,0,0,0,0,0,0,0
@@ -1431,6 +1455,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 43,2035,145,1,2,"Las Vegas","LVS","Scorpions",24112,38917,40872,63,0,0,0,3
 43,2036,145,1,2,"Las Vegas","LVS","Scorpions",24112,33010,43721,63,0,0,0,4
 43,2037,145,1,2,"Las Vegas","LVS","Scorpions",24112,38130,36679,63,0,0,0,5
+43,2038,145,1,2,"Las Vegas","LVS","Scorpions",41650,33010,42445,63,0,0,0,5
+43,2039,145,1,2,"Las Vegas","LVS","Scorpions",40813,33010,42795,63,0,0,0,4
 44,1961,145,0,0,"Los Angeles","LAA","Angels",0,0,0,0,0,0,0,0
 44,1962,145,0,0,"Los Angeles","LAA","Angels",0,0,0,0,0,0,0,0
 44,1963,145,0,0,"Los Angeles","LAA","Angels",0,0,0,0,0,0,0,0
@@ -1508,6 +1534,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 44,2035,145,0,2,"Los Angeles","LAA","Angels",41440,23982,36721,14,0,0,0,3
 44,2036,145,0,2,"Los Angeles","LAA","Angels",20389,1202,40998,14,0,0,0,5
 44,2037,145,0,2,"Los Angeles","LAA","Angels",41440,42098,36300,14,0,0,0,2
+44,2038,145,0,2,"Los Angeles","LAA","Angels",41440,40865,2048,14,0,0,0,4
+44,2039,145,0,2,"Los Angeles","LAA","Angels",41440,42098,42319,14,0,0,0,5
 45,1890,145,0,0,"Brooklyn","BRO","Bridegrooms",0,0,0,0,0,0,0,0
 45,1891,145,0,0,"Brooklyn","BRO","Grooms",0,0,0,0,0,0,0,0
 45,1892,145,0,0,"Brooklyn","BRO","Grooms",0,0,0,0,0,0,0,0
@@ -1656,6 +1684,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 45,2035,145,1,2,"Los Angeles","LAD","Dodgers",43509,40449,314,33,0,0,0,4
 45,2036,145,1,2,"Los Angeles","LAD","Dodgers",26704,23385,43943,33,1,0,0,2
 45,2037,145,1,2,"Los Angeles","LAD","Dodgers",30688,40449,41465,33,0,0,0,2
+45,2038,145,1,2,"Los Angeles","LAD","Dodgers",30688,23385,43228,33,0,0,0,2
+45,2039,145,1,2,"Los Angeles","LAD","Dodgers",41183,38498,34394,33,0,0,0,3
 46,1969,145,0,1,"Seattle","SE1","Pilots",0,0,0,0,0,0,0,0
 46,1970,145,0,1,"Milwaukee","ML4","Brewers",0,0,0,0,0,0,0,0
 46,1971,145,0,1,"Milwaukee","ML4","Brewers",0,0,0,0,0,0,0,0
@@ -1725,6 +1755,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 46,2035,145,0,1,"Milwaukee","MIL","Brewers",22957,19991,37431,15,0,0,0,3
 46,2036,145,0,1,"Milwaukee","MIL","Brewers",27097,1370,38283,15,0,0,0,3
 46,2037,145,0,1,"Milwaukee","MIL","Brewers",42197,30537,1559,15,0,0,0,4
+46,2038,145,0,1,"Milwaukee","MIL","Brewers",42936,19719,40366,15,0,0,0,5
+46,2039,145,0,1,"Milwaukee","MIL","Brewers",42936,38724,45713,15,0,0,0,5
 47,1901,145,0,0,"Washington","WS1","Senators",0,0,0,0,0,0,0,0
 47,1902,145,0,0,"Washington","WS1","Senators",0,0,0,0,0,0,0,0
 47,1903,145,0,0,"Washington","WS1","Senators",0,0,0,0,0,0,0,0
@@ -1862,6 +1894,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 47,2035,145,0,1,"Minnesota","MIN","Twins",816,43564,29888,48,0,0,0,4
 47,2036,145,0,1,"Minnesota","MIN","Twins",29888,26971,26885,48,0,0,0,5
 47,2037,145,0,1,"Minnesota","MIN","Twins",29888,26971,163,48,0,0,0,5
+47,2038,145,0,1,"Minnesota","MIN","Twins",35172,20654,40571,48,0,0,0,4
+47,2039,145,0,1,"Minnesota","MIN","Twins",40571,38311,22499,48,0,0,0,3
 84,1901,145,0,0,"Baltimore","BLA","Orioles",0,0,0,0,0,0,0,0
 84,1902,145,0,0,"Baltimore","BLA","Orioles",0,0,0,0,0,0,0,0
 84,1903,145,0,0,"New York","NYY","Highlanders",0,0,0,0,0,0,0,0
@@ -1999,6 +2033,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 48,2035,145,0,0,"New York","NYY","Yankees",20235,38032,38032,61,1,0,0,1
 48,2036,145,0,0,"New York","NYY","Yankees",24187,38032,19488,61,1,0,0,2
 48,2037,145,0,0,"New York","NYY","Yankees",20235,38032,24631,61,1,0,0,2
+48,2038,145,0,0,"New York","NYY","Yankees",20235,38032,38156,61,0,0,0,3
+48,2039,145,0,0,"New York","NYY","Yankees",24187,27652,34157,61,0,0,0,5
 49,1962,145,1,0,"New York","NYM","Mets",0,0,0,0,0,0,0,0
 49,1963,145,1,0,"New York","NYM","Mets",0,0,0,0,0,0,0,0
 49,1964,145,1,0,"New York","NYM","Mets",0,0,0,0,0,0,0,0
@@ -2075,6 +2111,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 49,2035,145,1,0,"New York","NYM","Mets",38827,32445,40025,62,1,0,0,2
 49,2036,145,1,0,"New York","NYM","Mets",38827,1710,40025,62,1,0,0,2
 49,2037,145,1,0,"New York","NYM","Mets",38827,35035,37712,62,0,0,0,3
+49,2038,145,1,0,"New York","NYM","Mets",19516,32445,42813,62,1,0,0,2
+49,2039,145,1,0,"New York","NYM","Mets",38827,44264,41188,62,0,0,0,5
 50,1901,145,0,0,"Philadelphia","PHA","Athletics",0,0,0,0,0,0,0,0
 50,1902,145,0,0,"Philadelphia","PHA","Athletics",0,0,0,0,0,0,0,0
 50,1903,145,0,0,"Philadelphia","PHA","Athletics",0,0,0,0,0,0,0,0
@@ -2212,6 +2250,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 50,2035,145,1,2,"Arizona","ARI","Athletics",22966,33087,30960,22,1,0,0,1
 50,2036,145,1,2,"Arizona","ARI","Athletics",43120,33087,41041,22,1,0,0,1
 50,2037,145,1,2,"Arizona","ARI","Athletics",43120,41041,44752,22,1,0,0,1
+50,2038,145,1,2,"Arizona","ARI","Athletics",22966,33087,986,22,1,0,0,1
+50,2039,145,1,2,"Arizona","ARI","Athletics",22966,33087,44866,22,1,0,0,1
 51,1883,145,0,0,"Philadelphia","PHI","Quakers",0,0,0,0,0,0,0,0
 51,1884,145,0,0,"Philadelphia","PHI","Quakers",0,0,0,0,0,0,0,0
 51,1885,145,0,0,"Philadelphia","PHI","Quakers",0,0,0,0,0,0,0,0
@@ -2367,6 +2407,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 51,2035,145,1,0,"Philadelphia","PHI","Phillies",40751,41225,19734,17,1,0,0,1
 51,2036,145,1,0,"Philadelphia","PHI","Phillies",39253,41225,43686,17,1,1,0,1
 51,2037,145,1,0,"Philadelphia","PHI","Phillies",39253,41570,21167,17,1,0,0,1
+51,2038,145,1,0,"Philadelphia","PHI","Phillies",34029,41781,44619,17,1,0,0,1
+51,2039,145,1,0,"Philadelphia","PHI","Phillies",39253,41781,40214,17,0,0,0,2
 52,1887,145,0,0,"Pittsburg","PIT","Alleghenys",0,0,0,0,0,0,0,0
 52,1888,145,0,0,"Pittsburg","PIT","Alleghenys",0,0,0,0,0,0,0,0
 52,1889,145,0,0,"Pittsburg","PIT","Alleghenys",0,0,0,0,0,0,0,0
@@ -2518,6 +2560,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 52,2035,145,1,1,"Pittsburgh","PIT","Pirates",33291,23595,30945,71,0,0,0,5
 52,2036,145,1,1,"Pittsburgh","PIT","Pirates",37927,35516,38410,71,0,0,0,4
 52,2037,145,1,1,"Pittsburgh","PIT","Pirates",28726,1370,23277,71,1,0,0,1
+52,2038,145,1,1,"Pittsburgh","PIT","Pirates",33291,1370,20688,71,1,0,0,2
+52,2039,145,1,1,"Pittsburgh","PIT","Pirates",33291,1370,35340,71,1,0,0,1
 53,1969,145,1,1,"San Diego","SD","Padres",0,0,0,0,0,0,0,0
 53,1970,145,1,1,"San Diego","SD","Padres",0,0,0,0,0,0,0,0
 53,1971,145,1,1,"San Diego","SD","Padres",0,0,0,0,0,0,0,0
@@ -2587,6 +2631,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 53,2035,145,0,2,"Oakland","OAK","Oaks",42456,40626,41781,67,0,0,0,2
 53,2036,145,0,2,"Oakland","OAK","Oaks",35292,40958,41215,67,0,0,0,3
 53,2037,145,0,2,"Oakland","OAK","Oaks",35631,43050,181,67,1,1,0,1
+53,2038,145,0,2,"Oakland","OAK","Oaks",32126,940,44504,67,1,0,0,1
+53,2039,145,0,2,"Oakland","OAK","Oaks",32126,1939,160,67,1,0,0,1
 54,1977,145,0,1,"Seattle","SEA","Mariners",0,0,0,0,0,0,0,0
 54,1978,145,0,1,"Seattle","SEA","Mariners",0,0,0,0,0,0,0,0
 54,1979,145,0,1,"Seattle","SEA","Mariners",0,0,0,0,0,0,0,0
@@ -2648,6 +2694,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 54,2035,145,0,2,"Seattle","SEA","Mariners",30985,42993,44331,52,1,1,0,1
 54,2036,145,0,2,"Seattle","SEA","Mariners",445,28323,35703,52,1,0,0,2
 54,2037,145,0,2,"Seattle","SEA","Mariners",445,42993,44349,52,0,0,0,5
+54,2038,145,0,2,"Seattle","SEA","Mariners",34910,43884,44532,52,0,0,0,5
+54,2039,145,0,2,"Seattle","SEA","Mariners",34910,41534,43982,52,0,0,0,4
 55,1883,145,0,0,"New York","NY1","Gothams",0,0,0,0,0,0,0,0
 55,1884,145,0,0,"New York","NY1","Gothams",0,0,0,0,0,0,0,0
 55,1885,145,0,0,"New York","NY1","Giants",0,0,0,0,0,0,0,0
@@ -2803,6 +2851,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 55,2035,145,1,2,"San Francisco","SF","Giants",23884,41401,39104,46,0,0,0,5
 55,2036,145,1,2,"San Francisco","SF","Giants",23884,38595,38606,46,0,0,0,5
 55,2037,145,1,2,"San Francisco","SF","Giants",39001,31177,41864,46,0,0,0,4
+55,2038,145,1,2,"San Francisco","SF","Giants",39001,43105,2032,46,0,0,0,3
+55,2039,145,1,2,"San Francisco","SF","Giants",39001,43105,36502,46,1,1,0,2
 56,1892,145,0,0,"St. Louis","STL","Browns",0,0,0,0,0,0,0,0
 56,1893,145,0,0,"St. Louis","STL","Browns",0,0,0,0,0,0,0,0
 56,1894,145,0,0,"St. Louis","STL","Browns",0,0,0,0,0,0,0,0
@@ -2949,6 +2999,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 56,2035,145,1,1,"St. Louis","STL","Cardinals",38489,32021,1687,55,1,0,0,1
 56,2036,145,1,1,"St. Louis","STL","Cardinals",32381,43001,22913,55,1,0,0,1
 56,2037,145,1,1,"St. Louis","STL","Cardinals",42507,42346,44142,55,1,0,0,2
+56,2038,145,1,1,"St. Louis","STL","Cardinals",38489,32021,43071,55,0,0,0,3
+56,2039,145,1,1,"St. Louis","STL","Cardinals",38489,44142,44110,55,0,0,0,4
 57,1998,145,0,0,"Tampa Bay","TB","Devil Rays",0,0,0,0,0,0,0,0
 57,1999,145,0,0,"Tampa Bay","TB","Devil Rays",0,0,0,0,0,0,0,0
 57,2000,145,0,0,"Tampa Bay","TB","Devil Rays",0,0,0,0,0,0,0,0
@@ -2989,6 +3041,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 57,2035,145,0,0,"Montreal","MTL","Asahi",22701,35439,24121,72,1,0,0,2
 57,2036,145,0,0,"Montreal","MTL","Asahi",42669,2005,38769,72,0,0,0,3
 57,2037,145,0,0,"Montreal","MTL","Asahi",42669,35439,41867,72,1,0,0,1
+57,2038,145,0,0,"Montreal","MTL","Asahi",42669,2005,47271,72,0,0,0,2
+57,2039,145,0,0,"Montreal","MTL","Asahi",42669,32436,362,72,0,0,0,3
 58,1961,145,0,0,"Washington","WS2","Senators",0,0,0,0,0,0,0,0
 58,1962,145,0,0,"Washington","WS2","Senators",0,0,0,0,0,0,0,0
 58,1963,145,0,0,"Washington","WS2","Senators",0,0,0,0,0,0,0,0
@@ -3066,6 +3120,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 58,2035,145,0,2,"Texas","TEX","Rangers",22886,39020,794,66,0,0,0,5
 58,2036,145,0,2,"Texas","TEX","Rangers",22886,30328,39650,66,1,0,0,1
 58,2037,145,0,2,"Texas","TEX","Rangers",22886,42417,28395,66,0,0,0,3
+58,2038,145,0,2,"Texas","TEX","Rangers",22886,42417,43181,66,1,0,0,2
+58,2039,145,0,2,"Texas","TEX","Rangers",22886,42046,38814,66,1,0,0,2
 59,1977,145,0,0,"Toronto","TOR","Blue Jays",0,0,0,0,0,0,0,0
 59,1978,145,0,0,"Toronto","TOR","Blue Jays",0,0,0,0,0,0,0,0
 59,1979,145,0,0,"Toronto","TOR","Blue Jays",0,0,0,0,0,0,0,0
@@ -3127,6 +3183,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 59,2035,145,0,0,"Toronto","TOR","Blue Jays",1173,39607,40702,34,0,0,0,4
 59,2036,145,0,0,"Toronto","TOR","Blue Jays",20866,38266,32404,34,1,0,0,1
 59,2037,145,0,0,"Toronto","TOR","Blue Jays",20866,37626,44232,34,0,0,0,3
+59,2038,145,0,0,"Toronto","TOR","Blue Jays",20866,40771,46918,34,1,0,0,1
+59,2039,145,0,0,"Toronto","TOR","Blue Jays",1173,40771,44008,34,1,0,0,1
 60,1969,145,1,0,"Montreal","MON","Expos",0,0,0,0,0,0,0,0
 60,1970,145,1,0,"Montreal","MON","Expos",0,0,0,0,0,0,0,0
 60,1971,145,1,0,"Montreal","MON","Expos",0,0,0,0,0,0,0,0
@@ -3196,6 +3254,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 60,2035,145,1,0,"Washington","WAS","Nationals",20241,41570,21842,44,0,0,0,5
 60,2036,145,1,0,"Washington","WAS","Nationals",43744,41053,38181,44,0,0,0,4
 60,2037,145,1,0,"Washington","WAS","Nationals",43867,41053,44623,44,0,0,0,5
+60,2038,145,1,0,"Washington","WAS","Nationals",43867,20536,43169,44,0,0,0,5
+60,2039,145,1,0,"Washington","WAS","Nationals",43744,20536,21801,77,0,0,0,3
 157,2017,146,0,2,"Columbus","CLM","Clippers",33729,34778,33729,0,0,0,0,2
 157,2018,146,0,2,"Columbus","CLM","Clippers",26113,34734,21560,0,1,0,0,1
 157,2019,146,0,2,"Columbus","CLM","Clippers",37058,38636,602,0,0,0,0,3
@@ -3217,6 +3277,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 157,2035,146,0,2,"Columbus","CLM","Clippers",43396,20313,41459,0,1,1,0,2
 157,2036,146,0,2,"Columbus","CLM","Clippers",20253,32246,25102,0,0,0,0,4
 157,2037,146,0,2,"Columbus","CLM","Clippers",22064,42203,39756,0,0,0,0,3
+157,2038,146,0,2,"Columbus","CLM","Clippers",25102,1304,41423,0,0,0,0,2
+157,2039,146,0,2,"Columbus","CLM","Clippers",43579,33930,41455,0,0,0,0,3
 158,2017,146,0,0,"Lehigh Valley","LHV","IronPigs",31864,33492,34640,0,0,0,0,2
 158,2018,146,0,0,"Lehigh Valley","LHV","IronPigs",31864,28735,32988,0,0,0,0,3
 158,2019,146,0,0,"Lehigh Valley","LHV","IronPigs",23831,21507,23831,0,0,0,0,3
@@ -3238,6 +3300,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 158,2035,146,0,0,"Lehigh Valley","LHV","IronPigs",31821,41125,26483,0,1,0,0,1
 158,2036,146,0,0,"Lehigh Valley","LHV","IronPigs",38627,23251,38627,0,1,0,0,1
 158,2037,146,0,0,"Lehigh Valley","LHV","IronPigs",36229,34762,42868,0,0,0,0,4
+158,2038,146,0,0,"Lehigh Valley","LHV","IronPigs",25707,24089,44259,0,0,0,0,5
+158,2039,146,0,0,"Lehigh Valley","LHV","IronPigs",22072,34521,44109,0,0,0,0,5
 159,2017,146,0,0,"Pawtucket","PAW","Red Sox",25391,29974,37357,0,0,0,0,6
 159,2018,146,0,0,"Pawtucket","PAW","Red Sox",33304,34726,33304,0,1,1,0,1
 159,2019,146,0,0,"Pawtucket","PAW","Red Sox",25391,32540,35730,0,0,0,0,2
@@ -3259,6 +3323,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 159,2035,146,0,0,"Pawtucket","PAW","Red Sox",40672,20582,42659,0,0,0,0,4
 159,2036,146,0,0,"Pawtucket","PAW","Red Sox",20440,20800,38684,0,0,0,0,3
 159,2037,146,0,0,"Pawtucket","PAW","Red Sox",21085,42659,708,0,0,0,0,5
+159,2038,146,0,0,"Pawtucket","PAW","Red Sox",19531,39983,22528,0,0,0,0,3
+159,2039,146,0,0,"Pawtucket","PAW","Red Sox",24246,19488,40239,0,0,0,0,3
 160,2017,146,0,0,"Rochester","ROC","Red Wings",30387,26371,37277,0,1,1,0,1
 160,2018,146,0,0,"Rochester","ROC","Red Wings",37032,31397,34527,0,0,0,0,6
 160,2019,146,0,0,"Rochester","ROC","Red Wings",18515,29997,32021,0,1,0,0,1
@@ -3280,6 +3346,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 160,2035,146,0,0,"Rochester","ROC","Red Wings",41645,26721,21763,0,0,0,0,3
 160,2036,146,0,0,"Rochester","ROC","Red Wings",41058,42057,38179,0,0,0,0,4
 160,2037,146,0,0,"Rochester","ROC","Red Wings",23592,42935,40048,0,0,0,0,6
+160,2038,146,0,0,"Rochester","ROC","Red Wings",597,22499,40048,0,0,0,0,6
+160,2039,146,0,0,"Rochester","ROC","Red Wings",597,36210,42409,0,0,0,0,4
 161,2017,146,0,0,"Scranton WB","SCR","RailRiders",29763,32125,34280,0,0,0,0,4
 161,2018,146,0,0,"Scranton WB","SCR","RailRiders",30875,30402,33121,0,0,0,0,4
 161,2019,146,0,0,"Scranton WB","SCR","RailRiders",30875,32612,38689,0,0,0,0,6
@@ -3301,6 +3369,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 161,2035,146,0,0,"Scranton WB","SCR","RailRiders",253,42079,19426,0,0,0,0,5
 161,2036,146,0,0,"Scranton WB","SCR","RailRiders",36631,38385,39883,0,0,0,0,5
 161,2037,146,0,0,"Scranton WB","SCR","RailRiders",33534,44500,32974,0,0,0,0,3
+161,2038,146,0,0,"Scranton WB","SCR","RailRiders",549,20227,36116,0,0,0,0,4
+161,2039,146,0,0,"Scranton WB","SCR","RailRiders",41670,46342,42645,0,0,0,0,6
 162,2017,147,1,1,"Las Vegas","LVG","51s",32107,32115,32444,0,0,0,0,3
 162,2018,147,1,1,"Las Vegas","LVG","51s",23045,37518,23045,0,0,0,0,4
 162,2019,147,1,1,"Las Vegas","LVG","51s",32444,35351,34275,0,1,0,0,1
@@ -3322,6 +3392,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 162,2035,147,1,1,"Las Vegas","LVG","51s",43716,43761,31749,0,0,0,0,2
 162,2036,147,1,1,"Las Vegas","LVG","51s",27816,44264,31391,0,1,0,0,1
 162,2037,147,1,1,"Las Vegas","LVG","51s",26949,42753,1038,0,0,0,0,4
+162,2038,147,1,1,"Las Vegas","LVG","51s",43543,819,20192,0,0,0,0,4
+162,2039,147,1,1,"Las Vegas","LVG","51s",544,46940,41527,0,0,0,0,4
 163,2017,146,0,1,"Charlotte","CHR","Knights",26295,26980,39144,0,1,0,0,1
 163,2018,146,0,1,"Charlotte","CHR","Knights",34459,34394,31743,0,1,0,0,1
 163,2019,146,0,1,"Charlotte","CHR","Knights",31890,845,22568,0,0,0,0,3
@@ -3343,6 +3415,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 163,2035,146,0,1,"Charlotte","CHR","Knights",43648,42664,40046,0,0,0,0,3
 163,2036,146,0,1,"Charlotte","CHR","Knights",39400,36839,36638,0,0,0,0,2
 163,2037,146,0,1,"Charlotte","CHR","Knights",1829,37621,38571,0,0,0,0,3
+163,2038,146,0,1,"Charlotte","CHR","Knights",36638,37621,19199,0,0,0,0,4
+163,2039,146,0,1,"Charlotte","CHR","Knights",23087,28075,38070,0,0,0,0,2
 164,2017,146,0,1,"Durham","DUR","Bulls",33428,33949,33428,0,0,0,0,3
 164,2018,146,0,1,"Durham","DUR","Bulls",26295,34955,34955,0,0,0,0,2
 164,2019,146,0,1,"Durham","DUR","Bulls",29263,34441,34721,0,1,0,0,2
@@ -3364,6 +3438,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 164,2035,146,0,1,"Durham","DUR","Bulls",21085,1944,20419,0,0,0,0,2
 164,2036,146,0,1,"Durham","DUR","Bulls",19581,40915,41244,0,1,0,0,1
 164,2037,146,0,1,"Durham","DUR","Bulls",20419,20675,21720,0,0,0,0,2
+164,2038,146,0,1,"Durham","DUR","Bulls",20243,20675,34422,0,0,0,0,3
+164,2039,146,0,1,"Durham","DUR","Bulls",19393,41867,39981,0,0,0,0,4
 165,2017,146,0,1,"Norfolk","NOR","Tides",36950,31725,31712,0,1,0,0,2
 165,2018,146,0,1,"Norfolk","NOR","Tides",31712,31431,30722,0,0,0,0,3
 165,2019,146,0,1,"Norfolk","NOR","Tides",34276,30078,34276,0,1,0,0,1
@@ -3385,6 +3461,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 165,2035,146,0,1,"Norfolk","NOR","Tides",32145,40319,43994,0,0,0,0,4
 165,2036,146,0,1,"Norfolk","NOR","Tides",22259,39138,33272,0,0,0,0,4
 165,2037,146,0,1,"Norfolk","NOR","Tides",40593,23004,39734,0,0,0,0,4
+165,2038,146,0,1,"Norfolk","NOR","Tides",27811,20678,41338,0,1,1,0,1
+165,2039,146,0,1,"Norfolk","NOR","Tides",18989,35345,41086,0,1,0,0,1
 166,2017,146,0,1,"Gwinnett","GWI","Braves",19124,18563,28420,0,0,0,0,4
 166,2018,146,0,1,"Gwinnett","GWI","Braves",21497,31855,21497,0,0,0,0,4
 166,2019,146,0,1,"Gwinnett","GWI","Braves",32253,34769,37490,0,0,0,0,4
@@ -3406,6 +3484,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 166,2035,146,0,1,"Savannah","GWI","Steelhawks",29968,35928,39481,0,1,0,0,1
 166,2036,146,0,1,"Savannah","GWI","Steelhawks",44165,44250,39780,0,0,0,0,3
 166,2037,146,0,1,"Savannah","GWI","Steelhawks",21575,42510,41289,0,1,0,0,1
+166,2038,146,0,1,"Savannah","GWI","Steelhawks",35503,38484,24981,0,0,0,0,2
+166,2039,146,0,1,"Savannah","GWI","Steelhawks",36105,45771,45947,0,0,0,0,3
 167,2017,146,0,0,"Syracuse","SYR","Chiefs",24800,18540,38449,0,0,0,0,3
 167,2018,146,0,0,"Syracuse","SYR","Chiefs",32358,2140,34589,0,1,0,0,2
 167,2019,146,0,0,"Syracuse","SYR","Chiefs",27560,1140,34675,0,0,0,0,5
@@ -3427,6 +3507,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 167,2035,146,0,0,"Syracuse","SYR","Chiefs",42263,41427,39464,0,0,0,0,6
 167,2036,146,0,0,"Syracuse","SYR","Chiefs",21110,34006,39157,0,0,0,0,6
 167,2037,146,0,0,"Syracuse","SYR","Chiefs",20247,44574,43820,0,1,0,0,2
+167,2038,146,0,0,"Syracuse","SYR","Chiefs",42812,19237,44304,0,1,0,0,2
+167,2039,146,0,0,"Syracuse","SYR","Chiefs",1543,19237,45297,0,1,0,0,2
 168,2017,146,0,2,"Indianapolis","IND","Indians",33010,31179,33010,0,0,0,0,4
 168,2018,146,0,2,"Indianapolis","IND","Indians",33905,19044,32216,0,0,0,0,4
 168,2019,146,0,2,"Indianapolis","IND","Indians",1167,34965,1167,0,0,0,0,4
@@ -3448,6 +3530,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 168,2035,146,0,2,"Indianapolis","IND","Indians",21121,26954,40671,0,1,0,0,1
 168,2036,146,0,2,"Indianapolis","IND","Indians",40180,39662,1958,0,0,0,0,2
 168,2037,146,0,2,"Indianapolis","IND","Indians",21121,39662,37681,0,1,1,0,1
+168,2038,146,0,2,"Indianapolis","IND","Indians",37412,39662,37681,0,1,0,0,1
+168,2039,146,0,2,"Indianapolis","IND","Indians",37412,28766,32023,0,1,1,0,1
 169,2017,146,0,2,"Louisville","LOU","Bats",34346,30536,34346,0,1,0,0,1
 169,2018,146,0,2,"Louisville","LOU","Bats",36288,34252,36288,0,0,0,0,2
 169,2019,146,0,2,"Louisville","LOU","Bats",30869,33992,138,0,1,1,0,1
@@ -3469,6 +3553,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 169,2035,146,0,2,"Louisville","LOU","Bats",2145,43085,37866,0,0,0,0,3
 169,2036,146,0,2,"Louisville","LOU","Bats",28594,42155,39332,0,0,0,0,3
 169,2037,146,0,2,"Louisville","LOU","Bats",40187,43114,26686,0,0,0,0,2
+169,2038,146,0,2,"Louisville","LOU","Bats",33009,39361,35610,0,0,0,0,4
+169,2039,146,0,2,"Louisville","LOU","Bats",34808,31529,43607,0,0,0,0,4
 170,2017,146,0,2,"Toledo","TOL","Mud Hens",37301,33539,37301,0,0,0,0,3
 170,2018,146,0,2,"Toledo","TOL","Mud Hens",32022,18577,1027,0,0,0,0,3
 170,2019,146,0,2,"Toledo","TOL","Mud Hens",33339,36374,33339,0,0,0,0,2
@@ -3490,6 +3576,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 170,2035,146,0,2,"Toledo","TOL","Mud Hens",20651,28221,19822,0,0,0,0,4
 170,2036,146,0,2,"Toledo","TOL","Mud Hens",20781,43505,22231,0,1,1,0,1
 170,2037,146,0,2,"Toledo","TOL","Mud Hens",35959,41921,42670,0,0,0,0,4
+170,2038,146,0,2,"Toledo","TOL","Mud Hens",33213,41921,43019,0,0,0,0,3
+170,2039,146,0,2,"Toledo","TOL","Mud Hens",42881,34252,44945,0,0,0,0,2
 171,2017,147,0,0,"Iowa","IOW","Cubs",33271,34066,33271,0,0,0,0,2
 171,2018,147,0,0,"Iowa","IOW","Cubs",34995,32704,34995,0,0,0,0,3
 171,2019,147,0,0,"Iowa","IOW","Cubs",35006,32704,34453,0,1,1,0,1
@@ -3511,6 +3599,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 171,2035,147,0,0,"Iowa","IOW","Cubs",40804,42325,33255,0,0,0,0,4
 171,2036,147,0,0,"Iowa","IOW","Cubs",30599,42567,34421,0,0,0,0,4
 171,2037,147,0,0,"Iowa","IOW","Cubs",28505,42381,36906,0,0,0,0,3
+171,2038,147,0,0,"Iowa","IOW","Cubs",42933,37937,35750,0,0,0,0,3
+171,2039,147,0,0,"Iowa","IOW","Cubs",1056,39766,37654,0,1,0,0,1
 172,2017,147,0,1,"Memphis","MEM","Redbirds",183,36996,183,0,0,0,0,2
 172,2018,147,0,1,"Memphis","MEM","Redbirds",37345,18453,34323,0,1,0,0,1
 172,2019,147,0,1,"Memphis","MEM","Redbirds",37345,34534,31366,0,0,0,0,4
@@ -3532,6 +3622,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 172,2035,147,0,1,"Memphis","MEM","Redbirds",41977,36328,43460,0,1,1,0,1
 172,2036,147,0,1,"Memphis","MEM","Redbirds",40272,19567,39338,0,1,0,0,1
 172,2037,147,0,1,"Memphis","MEM","Redbirds",41295,19567,40055,0,0,0,0,4
+172,2038,147,0,1,"Memphis","MEM","Redbirds",41295,34060,965,0,0,0,0,3
+172,2039,147,0,1,"Memphis","MEM","Redbirds",39336,19349,42739,0,0,0,0,3
 173,2017,147,0,1,"Nashville","NAS","Sounds",33445,26369,26369,0,1,0,0,1
 173,2018,147,0,1,"Nashville","NAS","Sounds",34826,1129,33084,0,0,0,0,2
 173,2019,147,0,1,"Nashville","NAS","Sounds",1657,22231,1657,0,0,0,0,3
@@ -3553,6 +3645,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 173,2035,147,0,1,"Aurora","CHW","White Sox",1644,38664,41650,0,0,0,0,3
 173,2036,147,0,1,"Aurora","CHW","White Sox",1644,42638,35762,0,0,0,0,4
 173,2037,147,0,1,"Aurora","CHW","White Sox",41215,42638,35762,0,0,0,0,3
+173,2038,147,0,1,"Aurora","CHW","White Sox",36553,986,33114,0,0,0,0,2
+173,2039,147,0,1,"Aurora","CHW","White Sox",21329,37446,19621,0,0,0,0,4
 174,2017,147,0,0,"Omaha","OMA","Storm Chasers",34457,31921,39201,0,0,0,0,4
 174,2018,147,0,0,"Omaha","OMA","Storm Chasers",34784,18739,34784,0,1,0,0,1
 174,2019,147,0,0,"Omaha","OMA","Storm Chasers",34784,23852,21570,0,0,0,0,2
@@ -3574,6 +3668,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 174,2035,147,0,0,"Omaha","OMA","Storm Chasers",39536,39165,776,0,1,0,0,1
 174,2036,147,0,0,"Omaha","OMA","Storm Chasers",44929,42115,35165,0,1,1,0,1
 174,2037,147,0,0,"Omaha","OMA","Storm Chasers",39484,42273,34353,0,0,0,0,2
+174,2038,147,0,0,"Omaha","OMA","Storm Chasers",41289,38917,43104,0,1,0,0,1
+174,2039,147,0,0,"Omaha","OMA","Storm Chasers",39299,28350,40506,0,0,0,0,2
 175,2017,147,0,1,"New Orleans","NRL","Baby Cakes",30169,32535,34533,0,0,0,0,3
 175,2018,147,0,1,"New Orleans","NRL","Baby Cakes",34533,29983,80,0,0,0,0,4
 175,2019,147,0,1,"New Orleans","NRL","Baby Cakes",33453,35912,33453,0,1,0,0,1
@@ -3595,6 +3691,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 175,2035,147,0,1,"New Orleans","NRL","Baby Cakes",33463,42537,2046,0,0,0,0,4
 175,2036,147,0,1,"New Orleans","NRL","Baby Cakes",40152,40395,756,0,0,0,0,3
 175,2037,147,0,1,"New Orleans","NRL","Baby Cakes",23091,34861,27269,0,0,0,0,2
+175,2038,147,0,1,"New Orleans","NRL","Baby Cakes",40291,36723,44380,0,1,0,0,1
+175,2039,147,0,1,"New Orleans","NRL","Baby Cakes",45733,1970,39158,0,1,1,0,1
 176,2017,146,0,0,"Buffalo","BUF","Bisons",37347,32164,37347,0,0,0,0,5
 176,2018,146,0,0,"Buffalo","BUF","Bisons",32432,18980,33008,0,0,0,0,5
 176,2019,146,0,0,"Buffalo","BUF","Bisons",836,32164,27325,0,0,0,0,4
@@ -3616,6 +3714,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 176,2035,146,0,0,"Buffalo","BUF","Bisons",39400,409,30054,0,0,0,0,2
 176,2036,146,0,0,"Buffalo","BUF","Bisons",19529,43506,41328,0,1,0,0,2
 176,2037,146,0,0,"Buffalo","BUF","Bisons",32434,39608,23335,0,1,0,0,1
+176,2038,146,0,0,"Buffalo","BUF","Bisons",2020,39608,24659,0,1,0,0,1
+176,2039,146,0,0,"Buffalo","BUF","Bisons",38024,409,26322,0,1,0,0,1
 177,2017,147,0,0,"Oklahoma City","OKL","Dodgers",17,34795,34497,0,1,0,0,1
 177,2018,147,0,0,"Oklahoma City","OKL","Dodgers",26326,38503,0,0,0,0,0,2
 177,2019,147,0,0,"Oklahoma City","OKL","Dodgers",31928,37325,35137,0,0,0,0,3
@@ -3637,6 +3737,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 177,2035,147,0,0,"Oklahoma City","OKL","Dodgers",23056,41896,873,0,0,0,0,2
 177,2036,147,0,0,"Oklahoma City","OKL","Dodgers",30759,40814,44003,0,0,0,0,2
 177,2037,147,0,0,"Oklahoma City","OKL","Dodgers",41183,40814,38079,0,1,0,0,1
+177,2038,147,0,0,"Oklahoma City","OKL","Dodgers",44345,1364,38160,0,0,0,0,2
+177,2039,147,0,0,"Oklahoma City","OKL","Dodgers",44345,41174,1669,0,0,0,0,3
 178,2017,147,0,1,"Round Rock","RR","Express",31060,30000,30000,0,0,0,0,4
 178,2018,147,0,1,"Round Rock","RR","Express",31352,36998,37358,0,0,0,0,3
 178,2019,147,0,1,"Round Rock","RR","Express",70,28526,840,0,0,0,0,2
@@ -3658,6 +3760,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 178,2035,147,0,1,"Round Rock","RR","Express",39133,43752,25450,0,0,0,0,2
 178,2036,147,0,1,"Round Rock","RR","Express",39133,34513,42605,0,0,0,0,2
 178,2037,147,0,1,"Round Rock","RR","Express",42144,41453,38653,0,1,0,0,1
+178,2038,147,0,1,"Round Rock","RR","Express",43648,38653,38653,0,0,0,0,4
+178,2039,147,0,1,"Round Rock","RR","Express",38803,32728,39301,0,0,0,0,2
 179,2017,147,0,0,"Colorado Springs","CS","Sky Sox",35570,28210,31901,0,0,0,0,3
 179,2018,147,0,0,"Colorado Springs","CS","Sky Sox",32917,26242,32917,0,0,0,0,4
 179,2019,147,0,0,"Colorado Springs","CS","Sky Sox",32917,35843,34544,0,0,0,0,4
@@ -3679,6 +3783,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 179,2035,147,0,0,"Colorado Springs","CS","Sky Sox",36351,43007,35201,0,0,0,0,3
 179,2036,147,0,0,"Colorado Springs","CS","Sky Sox",1994,41110,35201,0,0,0,0,3
 179,2037,147,0,0,"Colorado Springs","CS","Sky Sox",33009,22742,35798,0,0,0,0,4
+179,2038,147,0,0,"Colorado Springs","CS","Sky Sox",37679,34567,31901,0,0,0,0,4
+179,2039,147,0,0,"Colorado Springs","CS","Sky Sox",27961,45735,31901,0,0,0,0,4
 180,2017,147,1,1,"El Paso","EP","Chihuahuas",55,31926,37284,0,0,0,0,2
 180,2018,147,1,1,"El Paso","EP","Chihuahuas",55,32251,171,0,0,0,0,2
 180,2019,147,1,1,"El Paso","EP","Chihuahuas",33193,34245,25948,0,0,0,0,3
@@ -3700,6 +3806,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 180,2035,147,1,1,"El Paso","EP","Chihuahuas",967,42935,42410,0,1,0,0,1
 180,2036,147,1,1,"El Paso","EP","Chihuahuas",41289,41229,19741,0,0,0,0,2
 180,2037,147,1,1,"El Paso","EP","Chihuahuas",22871,21182,19741,0,0,0,0,3
+180,2038,147,1,1,"El Paso","EP","Chihuahuas",22871,42845,27893,0,0,0,0,2
+180,2039,147,1,1,"El Paso","EP","Chihuahuas",42752,39662,26592,0,0,0,0,2
 181,2017,147,1,1,"Salt Lake","SL","Bees",21462,18629,30538,0,1,0,0,1
 181,2018,147,1,1,"Salt Lake","SL","Bees",19126,29394,33536,0,1,1,0,1
 181,2019,147,1,1,"Salt Lake","SL","Bees",34537,32658,34537,0,0,0,0,2
@@ -3721,6 +3829,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 181,2035,147,1,1,"Salt Lake","SL","Bees",41835,38699,33057,0,0,0,0,4
 181,2036,147,1,1,"Salt Lake","SL","Bees",40831,2168,42072,0,0,0,0,3
 181,2037,147,1,1,"Salt Lake","SL","Bees",22342,33514,39320,0,1,1,0,1
+181,2038,147,1,1,"Salt Lake","SL","Bees",29828,43427,44490,0,0,0,0,3
+181,2039,147,1,1,"Salt Lake","SL","Bees",880,42854,41737,0,1,0,0,1
 182,2017,147,1,0,"Tacoma","TAC","Rainiers",29767,31628,35677,0,0,0,0,3
 182,2018,147,1,0,"Tacoma","TAC","Rainiers",29767,18842,37331,0,0,0,0,4
 182,2019,147,1,0,"Tacoma","TAC","Rainiers",522,33815,522,0,1,0,0,1
@@ -3742,6 +3852,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 182,2035,147,1,0,"Tacoma","TAC","Rainiers",20891,27279,40961,0,0,0,0,4
 182,2036,147,1,0,"Tacoma","TAC","Rainiers",36090,21905,25633,0,0,0,0,4
 182,2037,147,1,0,"Tacoma","TAC","Rainiers",22964,42502,20039,0,0,0,0,4
+182,2038,147,1,0,"Tacoma","TAC","Rainiers",33057,19525,41118,0,0,0,0,4
+182,2039,147,1,0,"Tacoma","TAC","Rainiers",42069,21655,20471,0,0,0,0,4
 183,2017,147,1,0,"Fresno","FRE","Grizzlies",19706,32989,19706,0,0,0,0,2
 183,2018,147,1,0,"Fresno","FRE","Grizzlies",34271,31421,34271,0,1,0,0,1
 183,2019,147,1,0,"Fresno","FRE","Grizzlies",33503,34142,1342,0,0,0,0,2
@@ -3763,6 +3875,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 183,2035,147,1,0,"Fresno","FRE","Grizzlies",41917,42974,22849,0,0,0,0,2
 183,2036,147,1,0,"Fresno","FRE","Grizzlies",23344,39586,42240,0,0,0,0,2
 183,2037,147,1,0,"Fresno","FRE","Grizzlies",36451,22707,2022,0,0,0,0,2
+183,2038,147,1,0,"Fresno","FRE","Grizzlies",38779,23844,19191,0,0,0,0,3
+183,2039,147,1,0,"Fresno","FRE","Grizzlies",19625,42559,42867,0,0,0,0,2
 184,2017,147,1,1,"Albuquerque","ABQ","Isotopes",23367,10,21267,0,0,0,0,4
 184,2018,147,1,1,"Albuquerque","ABQ","Isotopes",1190,31091,1190,0,0,0,0,3
 184,2019,147,1,1,"Albuquerque","ABQ","Isotopes",30756,30902,34255,0,0,0,0,4
@@ -3784,6 +3898,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 184,2035,147,1,1,"Albuquerque","ABQ","Isotopes",39228,1291,36014,0,0,0,0,3
 184,2036,147,1,1,"Albuquerque","ABQ","Isotopes",40925,20954,42437,0,0,0,0,4
 184,2037,147,1,1,"Albuquerque","ABQ","Isotopes",35263,41067,44244,0,0,0,0,2
+184,2038,147,1,1,"Albuquerque","ABQ","Isotopes",43848,34510,19224,0,1,0,0,1
+184,2039,147,1,1,"Albuquerque","ABQ","Isotopes",41171,38392,42915,0,0,0,0,3
 185,2017,147,1,0,"Sacramento","SAC","River Cats",18428,33173,28883,0,0,0,0,4
 185,2018,147,1,0,"Sacramento","SAC","River Cats",258,32688,34571,0,0,0,0,3
 185,2019,147,1,0,"Sacramento","SAC","River Cats",31338,33709,25675,0,0,0,0,4
@@ -3805,6 +3921,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 185,2035,147,1,0,"Sacramento","SAC","River Cats",20849,42405,32123,0,1,0,0,1
 185,2036,147,1,0,"Sacramento","SAC","River Cats",37880,42502,38965,0,0,0,0,3
 185,2037,147,1,0,"Sacramento","SAC","River Cats",39104,38965,38818,0,1,0,0,1
+185,2038,147,1,0,"Sacramento","SAC","River Cats",21329,1560,28098,0,1,1,0,1
+185,2039,147,1,0,"Sacramento","SAC","River Cats",34917,20137,41697,0,1,0,0,1
 186,2017,147,1,0,"Reno","REN","Aces",18990,31442,35010,0,1,1,0,1
 186,2018,147,1,0,"Reno","REN","Aces",34819,33155,34819,0,0,0,0,2
 186,2019,147,1,0,"Reno","REN","Aces",32755,32115,34509,0,0,0,0,3
@@ -3826,6 +3944,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 186,2035,147,1,0,"Reno","REN","Aces",40986,35022,37923,0,0,0,0,3
 186,2036,147,1,0,"Reno","REN","Aces",23049,37923,1923,0,1,0,0,1
 186,2037,147,1,0,"Reno","REN","Aces",27372,37923,23760,0,0,0,0,3
+186,2038,147,1,0,"Reno","REN","Aces",30054,34020,1734,0,0,0,0,2
+186,2039,147,1,0,"Reno","REN","Aces",40877,35448,41260,0,0,0,0,3
 187,2017,148,0,0,"Binghamton","BIN","Rumble Ponies",35006,37518,35006,0,0,0,0,3
 187,2018,148,0,0,"Binghamton","BIN","Rumble Ponies",856,23961,856,0,0,0,0,6
 187,2019,148,0,0,"Binghamton","BIN","Rumble Ponies",22989,399,399,0,0,0,0,2
@@ -3847,6 +3967,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 187,2035,148,0,0,"Binghamton","BIN","Rumble Ponies",42488,44264,44008,0,0,0,0,6
 187,2036,148,0,0,"Binghamton","BIN","Rumble Ponies",35708,819,39799,0,0,0,0,6
 187,2037,148,0,0,"Binghamton","BIN","Rumble Ponies",39799,42,41527,0,0,0,0,6
+187,2038,148,0,0,"Binghamton","BIN","Rumble Ponies",40476,43420,18398,0,0,0,0,6
+187,2039,148,0,0,"Binghamton","BIN","Rumble Ponies",41407,18805,46946,0,0,0,0,6
 188,2017,148,0,0,"Hartford","HAR","Yard Goats",1190,39171,1190,0,0,0,0,4
 188,2018,148,0,0,"Hartford","HAR","Yard Goats",21173,34383,935,0,0,0,0,2
 188,2019,148,0,0,"Hartford","HAR","Yard Goats",36672,34055,36672,0,0,0,0,4
@@ -3868,6 +3990,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 188,2035,148,0,0,"Hartford","HAR","Yard Goats",19224,19888,1003,0,0,0,0,2
 188,2036,148,0,0,"Hartford","HAR","Yard Goats",19224,41218,534,0,0,0,0,2
 188,2037,148,0,0,"Hartford","HAR","Yard Goats",19224,44625,44906,0,1,0,0,1
+188,2038,148,0,0,"Hartford","HAR","Yard Goats",1496,43079,1496,0,0,0,0,4
+188,2039,148,0,0,"Hartford","HAR","Yard Goats",43261,22527,39093,0,0,0,0,4
 189,2017,148,0,0,"New Hampshire","NHA","Fisher Cats",33100,35910,33100,0,0,0,0,2
 189,2018,148,0,0,"New Hampshire","NHA","Fisher Cats",33451,35676,34,0,0,0,0,5
 189,2019,148,0,0,"New Hampshire","NHA","Fisher Cats",33653,22580,21716,0,0,0,0,6
@@ -3889,6 +4013,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 189,2035,148,0,0,"New Hampshire","NHA","Fisher Cats",23509,41752,42443,0,0,0,0,3
 189,2036,148,0,0,"New Hampshire","NHA","Fisher Cats",39457,20368,227,0,0,0,0,5
 189,2037,148,0,0,"New Hampshire","NHA","Fisher Cats",44831,33802,39894,0,0,0,0,3
+189,2038,148,0,0,"New Hampshire","NHA","Fisher Cats",35633,1723,35633,0,0,0,0,3
+189,2039,148,0,0,"New Hampshire","NHA","Fisher Cats",44578,30380,21528,0,0,0,0,2
 190,2017,148,0,0,"Richmond","RCH","Flying Squirrels",34571,33697,33697,0,1,1,0,1
 190,2018,148,0,0,"Richmond","RCH","Flying Squirrels",85,38967,85,0,0,0,0,3
 190,2019,148,0,0,"Richmond","RCH","Flying Squirrels",35739,1159,35739,0,0,0,0,3
@@ -3910,6 +4036,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 190,2035,148,0,0,"Richmond","RCH","Flying Squirrels",43117,42187,397,0,0,0,0,4
 190,2036,148,0,0,"Richmond","RCH","Flying Squirrels",42897,779,397,0,1,1,0,1
 190,2037,148,0,0,"Richmond","RCH","Flying Squirrels",40381,28350,23834,0,0,0,0,2
+190,2038,148,0,0,"Richmond","RCH","Flying Squirrels",35890,44229,44880,0,1,1,0,1
+190,2039,148,0,0,"Richmond","RCH","Flying Squirrels",44880,20428,34964,0,1,0,0,1
 191,2017,148,0,0,"Portland","POR","Sea Dogs",35187,34408,35187,0,0,0,0,6
 191,2018,148,0,0,"Portland","POR","Sea Dogs",27733,32472,27733,0,0,0,0,4
 191,2019,148,0,0,"Portland","POR","Sea Dogs",1189,1744,1189,0,0,0,0,5
@@ -3931,6 +4059,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 191,2035,148,0,0,"Portland","POR","Sea Dogs",42571,36167,20309,0,1,0,0,1
 191,2036,148,0,0,"Portland","POR","Sea Dogs",33206,19257,275,0,0,0,0,4
 191,2037,148,0,0,"Portland","POR","Sea Dogs",38325,41119,41614,0,0,0,0,4
+191,2038,148,0,0,"Portland","POR","Sea Dogs",39247,61,41975,0,0,0,0,2
+191,2039,148,0,0,"Portland","POR","Sea Dogs",37443,22542,41614,0,0,0,0,3
 192,2017,148,0,0,"Trenton","TRE","Thunder",35146,33789,35146,0,0,0,0,5
 192,2018,148,0,0,"Trenton","TRE","Thunder",34280,35669,19674,0,1,0,0,1
 192,2019,148,0,0,"Trenton","TRE","Thunder",588,32859,588,0,1,1,0,1
@@ -3952,6 +4082,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 192,2035,148,0,0,"Trenton","TRE","Thunder",33534,38907,39526,0,0,0,0,5
 192,2036,148,0,0,"Trenton","TRE","Thunder",20215,19233,43789,0,0,0,0,3
 192,2037,148,0,0,"Trenton","TRE","Thunder",31597,43754,40155,0,0,0,0,5
+192,2038,148,0,0,"Trenton","TRE","Thunder",34157,22107,44598,0,0,0,0,5
+192,2039,148,0,0,"Trenton","TRE","Thunder",43709,44436,42150,0,0,0,0,5
 193,2017,148,0,1,"Akron","AKR","RubberDucks",1380,38636,1380,0,0,0,0,5
 193,2018,148,0,1,"Akron","AKR","RubberDucks",32985,2004,1230,0,1,1,0,1
 193,2019,148,0,1,"Akron","AKR","RubberDucks",27580,34357,27580,0,0,0,0,4
@@ -3973,6 +4105,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 193,2035,148,0,1,"Akron","AKR","RubberDucks",37651,41334,30087,0,0,0,0,3
 193,2036,148,0,1,"Akron","AKR","RubberDucks",22064,43428,21877,0,0,0,0,3
 193,2037,148,0,1,"Akron","AKR","RubberDucks",41544,44731,22632,0,0,0,0,2
+193,2038,148,0,1,"Akron","AKR","RubberDucks",21877,46362,41695,0,0,0,0,4
+193,2039,148,0,1,"Akron","AKR","RubberDucks",23411,19975,43651,0,0,0,0,3
 194,2017,148,0,1,"Altoona","ALT","Curve",954,30708,954,0,0,0,0,6
 194,2018,148,0,1,"Altoona","ALT","Curve",33484,38550,38550,0,0,0,0,5
 194,2019,148,0,1,"Altoona","ALT","Curve",35872,27924,35872,0,0,0,0,6
@@ -3994,6 +4128,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 194,2035,148,0,1,"Altoona","ALT","Curve",42772,43114,39795,0,1,1,0,1
 194,2036,148,0,1,"Altoona","ALT","Curve",21121,640,21281,0,1,0,0,1
 194,2037,148,0,1,"Altoona","ALT","Curve",44068,35501,40173,0,1,1,0,1
+194,2038,148,0,1,"Altoona","ALT","Curve",43965,40086,42215,0,1,0,0,1
+194,2039,148,0,1,"Altoona","ALT","Curve",43842,35928,40690,0,1,1,0,1
 195,2017,148,0,1,"Bowie","BOW","Baysox",30450,30027,21438,0,0,0,0,2
 195,2018,148,0,1,"Bowie","BOW","Baysox",30049,31725,37856,0,0,0,0,4
 195,2019,148,0,1,"Bowie","BOW","Baysox",38680,264,34478,0,1,0,0,1
@@ -4015,6 +4151,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 195,2035,148,0,1,"Bowie","BOW","Baysox",40593,1759,33904,0,0,0,0,4
 195,2036,148,0,1,"Bowie","BOW","Baysox",22483,39098,19042,0,0,0,0,5
 195,2037,148,0,1,"Bowie","BOW","Baysox",27811,40845,43843,0,0,0,0,5
+195,2038,148,0,1,"Bowie","BOW","Baysox",40278,1286,20175,0,0,0,0,6
+195,2039,148,0,1,"Bowie","BOW","Baysox",27606,20911,41308,0,0,0,0,6
 196,2017,148,0,1,"Erie","ERI","SeaWolves",21364,30965,30046,0,0,0,0,3
 196,2018,148,0,1,"Erie","ERI","SeaWolves",34274,34449,50,0,0,0,0,6
 196,2019,148,0,1,"Erie","ERI","SeaWolves",20509,20521,20509,0,0,0,0,5
@@ -4036,6 +4174,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 196,2035,148,0,1,"Erie","ERI","SeaWolves",37486,40112,35496,0,0,0,0,5
 196,2036,148,0,1,"Erie","ERI","SeaWolves",39231,33432,27703,0,0,0,0,4
 196,2037,148,0,1,"Erie","ERI","SeaWolves",42948,37906,40017,0,0,0,0,6
+196,2038,148,0,1,"Erie","ERI","SeaWolves",44945,21302,43190,0,0,0,0,5
+196,2039,148,0,1,"Erie","ERI","SeaWolves",44567,40942,21358,0,0,0,0,5
 197,2017,148,0,1,"Harrisburg","HAR","Senators",32358,39346,39346,0,1,0,0,1
 197,2018,148,0,1,"Harrisburg","HAR","Senators",49,33083,49,0,0,0,0,2
 197,2019,148,0,1,"Harrisburg","HAR","Senators",37653,52,26851,0,0,0,0,3
@@ -4057,6 +4197,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 197,2035,148,0,1,"Harrisburg","HAR","Senators",27207,42385,32157,0,0,0,0,6
 197,2036,148,0,1,"Harrisburg","HAR","Senators",39469,39343,39469,0,0,0,0,6
 197,2037,148,0,1,"Harrisburg","HAR","Senators",18494,609,19432,0,0,0,0,3
+197,2038,148,0,1,"Harrisburg","HAR","Senators",44689,34462,33166,0,0,0,0,2
+197,2039,148,0,1,"Harrisburg","HAR","Senators",23177,43775,35548,0,0,0,0,2
 198,2017,148,0,1,"Reading","REA","Fightin Phils",32225,35440,36382,0,0,0,0,4
 198,2018,148,0,1,"Reading","REA","Fightin Phils",33883,33480,39457,0,0,0,0,3
 198,2019,148,0,1,"Reading","REA","Fightin Phils",27964,1667,608,0,0,0,0,2
@@ -4078,6 +4220,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 198,2035,148,0,1,"Reading","REA","Fightin Phils",41197,44574,36576,0,0,0,0,2
 198,2036,148,0,1,"Reading","REA","Fightin Phils",42061,42955,36824,0,0,0,0,2
 198,2037,148,0,1,"Reading","REA","Fightin Phils",36517,39544,36517,0,0,0,0,4
+198,2038,148,0,1,"Reading","REA","Fightin Phils",35457,34762,44023,0,0,0,0,3
+198,2039,148,0,1,"Reading","REA","Fightin Phils",43661,851,44727,0,0,0,0,4
 199,2017,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",80,32570,996,0,0,0,0,3
 199,2018,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",38230,33309,38230,0,1,0,0,4
 199,2019,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",2101,38235,2101,0,0,0,0,5
@@ -4099,6 +4243,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 199,2035,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",38397,41004,38583,0,1,0,0,1
 199,2036,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",44390,577,39962,0,0,0,0,5
 199,2037,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",40827,21642,35851,0,0,0,0,3
+199,2038,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",46093,1970,21452,0,0,0,0,3
+199,2039,149,0,1,"Jacksonville","JAX","Jumbo Shrimp",43856,35818,34805,0,1,1,0,1
 200,2017,149,0,0,"Pensacola","PEN","Blue Wahoos",34699,34548,36288,0,1,0,0,4
 200,2018,149,0,0,"Pensacola","PEN","Blue Wahoos",38430,34256,38430,0,1,0,0,1
 200,2019,149,0,0,"Pensacola","PEN","Blue Wahoos",27634,34256,27634,0,1,0,0,2
@@ -4120,6 +4266,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 200,2035,149,0,0,"Pensacola","PEN","Blue Wahoos",41031,42682,37452,0,1,0,0,1
 200,2036,149,0,0,"Pensacola","PEN","Blue Wahoos",39801,44117,28540,0,1,0,0,2
 200,2037,149,0,0,"Pensacola","PEN","Blue Wahoos",42760,31529,41232,0,1,0,0,2
+200,2038,149,0,0,"Pensacola","PEN","Blue Wahoos",921,2168,425,0,1,0,0,1
+200,2039,149,0,0,"Pensacola","PEN","Blue Wahoos",890,19578,45015,0,1,0,0,2
 201,2017,149,0,0,"Biloxi","BIL","Shuckers",32917,33937,33431,0,0,0,0,3
 201,2018,149,0,0,"Biloxi","BIL","Shuckers",35568,37974,1182,0,0,0,0,5
 201,2019,149,0,0,"Biloxi","BIL","Shuckers",35613,39824,28326,0,0,0,0,5
@@ -4141,6 +4289,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 201,2035,149,0,0,"Biloxi","BIL","Shuckers",40261,22607,35798,0,0,0,0,3
 201,2036,149,0,0,"Biloxi","BIL","Shuckers",34407,39478,34407,0,0,0,0,4
 201,2037,149,0,0,"Biloxi","BIL","Shuckers",34407,44867,35741,0,1,0,0,1
+201,2038,149,0,0,"Biloxi","BIL","Shuckers",42709,41619,41466,0,0,0,0,4
+201,2039,149,0,0,"Biloxi","BIL","Shuckers",42709,41619,41466,0,0,0,0,4
 202,2017,149,0,0,"Tennessee","TEN","Smokies",35457,33006,35457,0,0,0,0,5
 202,2018,149,0,0,"Tennessee","TEN","Smokies",32585,32098,33271,0,0,0,0,3
 202,2019,149,0,0,"Tennessee","TEN","Smokies",23931,1142,33808,0,1,0,0,1
@@ -4162,6 +4312,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 202,2035,149,0,0,"Tennessee","TEN","Smokies",26589,37605,26589,0,1,1,0,2
 202,2036,149,0,0,"Tennessee","TEN","Smokies",20877,40662,43201,0,0,0,0,3
 202,2037,149,0,0,"Tennessee","TEN","Smokies",1464,37937,35111,0,0,0,0,3
+202,2038,149,0,0,"Tennessee","TEN","Smokies",33493,40420,39761,0,0,0,0,5
+202,2039,149,0,0,"Tennessee","TEN","Smokies",33493,37937,19770,0,0,0,0,5
 203,2017,149,0,0,"Jackson","JAC","Generals",93,35459,30376,0,1,1,0,2
 203,2018,149,0,0,"Jackson","JAC","Generals",34509,31986,34509,0,1,1,0,2
 203,2019,149,0,0,"Jackson","JAC","Generals",27189,20518,27189,0,0,0,0,4
@@ -4183,6 +4335,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 203,2035,149,0,0,"Jackson","JAC","Generals",42953,24322,27455,0,0,0,0,4
 203,2036,149,0,0,"Jackson","JAC","Generals",34080,38513,829,0,1,0,0,1
 203,2037,149,0,0,"Jackson","JAC","Generals",40336,21914,18113,0,0,0,0,4
+203,2038,149,0,0,"Jackson","JAC","Generals",42506,37584,35179,0,0,0,0,3
+203,2039,149,0,0,"Jackson","JAC","Generals",34059,37584,41419,0,1,0,0,1
 204,2017,149,0,1,"Birmingham","BIR","Barons",953,35636,35636,0,0,0,0,4
 204,2018,149,0,1,"Birmingham","BIR","Barons",23831,34423,23831,0,1,0,0,1
 204,2019,149,0,1,"Birmingham","BIR","Barons",32954,1199,38562,0,1,1,0,2
@@ -4204,6 +4358,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 204,2035,149,0,1,"Birmingham","BIR","Barons",36638,42128,41388,0,0,0,0,5
 204,2036,149,0,1,"Birmingham","BIR","Barons",38571,34851,35709,0,1,0,0,2
 204,2037,149,0,1,"Birmingham","BIR","Barons",19199,36843,20314,0,0,0,0,5
+204,2038,149,0,1,"Birmingham","BIR","Barons",38929,40196,528,0,0,0,0,4
+204,2039,149,0,1,"Birmingham","BIR","Barons",44551,1676,22104,0,0,0,0,4
 205,2017,149,0,1,"Mississippi","MIS","Braves",34491,30779,30779,0,1,0,0,2
 205,2018,149,0,1,"Mississippi","MIS","Braves",35494,109,35494,0,0,0,0,5
 205,2019,149,0,1,"Mississippi","MIS","Braves",810,109,810,0,0,0,0,4
@@ -4225,6 +4381,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 205,2035,149,0,1,"Augusta","AUG","Eagles",36775,41518,42809,0,0,0,0,3
 205,2036,149,0,1,"Augusta","AUG","Eagles",41414,34629,23007,0,0,0,0,4
 205,2037,149,0,1,"Augusta","AUG","Eagles",25003,803,46769,0,0,0,0,4
+205,2038,149,0,1,"Augusta","AUG","Eagles",38330,19216,17838,0,0,0,0,5
+205,2039,149,0,1,"Augusta","AUG","Eagles",46735,46719,46240,0,0,0,0,5
 206,2017,149,0,1,"Mobile","MOB","BayBears",21562,38598,21562,0,0,0,0,5
 206,2018,149,0,1,"Mobile","MOB","BayBears",23846,33340,23846,0,0,0,0,2
 206,2019,149,0,1,"Mobile","MOB","BayBears",27683,1273,1273,0,1,0,0,1
@@ -4246,6 +4404,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 206,2035,149,0,1,"Mobile","MOB","BayBears",30711,40846,40198,0,0,0,0,4
 206,2036,149,0,1,"Mobile","MOB","BayBears",44108,27390,36646,0,0,0,0,3
 206,2037,149,0,1,"Mobile","MOB","BayBears",27816,42854,38468,0,1,0,0,2
+206,2038,149,0,1,"Mobile","MOB","BayBears",21868,23543,41737,0,1,0,0,2
+206,2039,149,0,1,"Mobile","MOB","BayBears",1356,40481,42475,0,1,0,0,2
 207,2017,149,0,1,"Montgomery","MON","Biscuits",21578,37694,21578,0,1,0,0,1
 207,2018,149,0,1,"Montgomery","MON","Biscuits",34471,33954,34326,0,0,0,0,3
 207,2019,149,0,1,"Montgomery","MON","Biscuits",27317,40528,27317,0,0,0,0,3
@@ -4267,6 +4427,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 207,2035,149,0,1,"Montgomery","MON","Biscuits",23153,1297,31709,0,1,0,0,2
 207,2036,149,0,1,"Montgomery","MON","Biscuits",19984,37806,38882,0,1,1,0,1
 207,2037,149,0,1,"Montgomery","MON","Biscuits",38850,1297,23215,0,1,1,0,1
+207,2038,149,0,1,"Montgomery","MON","Biscuits",19393,20552,22184,0,1,1,0,1
+207,2039,149,0,1,"Montgomery","MON","Biscuits",36837,96,44777,0,0,0,0,3
 208,2017,149,0,0,"Chattanooga","CHT","Lookouts",30751,32479,31379,0,0,0,0,1
 208,2018,149,0,0,"Chattanooga","CHT","Lookouts",27532,37692,27532,0,0,0,0,4
 208,2019,149,0,0,"Chattanooga","CHT","Lookouts",33430,39298,33430,0,0,0,0,3
@@ -4288,6 +4450,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 208,2035,149,0,0,"Chattanooga","CHT","Lookouts",952,41817,1844,0,0,0,0,5
 208,2036,149,0,0,"Chattanooga","CHT","Lookouts",23592,22225,41532,0,0,0,0,5
 208,2037,149,0,0,"Chattanooga","CHT","Lookouts",44245,38605,33017,0,0,0,0,5
+208,2038,149,0,0,"Chattanooga","CHT","Lookouts",20684,42396,21867,0,1,0,0,2
+208,2039,149,0,0,"Chattanooga","CHT","Lookouts",20684,43023,23994,0,0,0,0,3
 209,2017,150,0,0,"Arkansas","ARK","Travelers",31357,21509,21509,0,1,1,0,1
 209,2018,150,0,0,"Arkansas","ARK","Travelers",35040,36411,35040,0,0,0,0,3
 209,2019,150,0,0,"Arkansas","ARK","Travelers",34483,21689,21689,0,0,0,0,4
@@ -4309,6 +4473,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 209,2035,150,0,0,"Arkansas","ARK","Travelers",25633,40296,1435,0,1,1,0,1
 209,2036,150,0,0,"Arkansas","ARK","Travelers",39320,27727,39849,0,0,0,0,4
 209,2037,150,0,0,"Arkansas","ARK","Travelers",39264,39698,44458,0,1,0,0,2
+209,2038,150,0,0,"Arkansas","ARK","Travelers",35639,40407,34684,0,0,0,0,4
+209,2039,150,0,0,"Arkansas","ARK","Travelers",45707,31845,46141,0,1,0,0,1
 210,2017,150,0,0,"Springfield","SPF","Cardinals",37345,14,37345,0,1,0,0,2
 210,2018,150,0,0,"Springfield","SPF","Cardinals",27104,20230,27104,0,0,0,0,4
 210,2019,150,0,0,"Springfield","SPF","Cardinals",38532,24070,38532,0,1,0,0,2
@@ -4330,6 +4496,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 210,2035,150,0,0,"Springfield","SPF","Cardinals",20423,33449,40181,0,1,0,0,2
 210,2036,150,0,0,"Springfield","SPF","Cardinals",33994,34987,40181,0,1,0,0,2
 210,2037,150,0,0,"Springfield","SPF","Cardinals",41203,1527,39042,0,1,0,0,1
+210,2038,150,0,0,"Springfield","SPF","Cardinals",40055,44676,26069,0,1,0,0,1
+210,2039,150,0,0,"Springfield","SPF","Cardinals",40055,44453,42236,0,0,0,0,3
 211,2017,150,0,0,"Tulsa","TUL","Drillers",34632,34556,38503,0,0,0,0,3
 211,2018,150,0,0,"Tulsa","TUL","Drillers",21515,31064,35137,0,1,1,0,1
 211,2019,150,0,0,"Tulsa","TUL","Drillers",21515,35795,1752,0,0,0,0,3
@@ -4351,6 +4519,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 211,2035,150,0,0,"Tulsa","TUL","Drillers",38964,38088,1797,0,0,0,0,4
 211,2036,150,0,0,"Tulsa","TUL","Drillers",36224,19356,22518,0,1,0,0,1
 211,2037,150,0,0,"Tulsa","TUL","Drillers",20322,44199,22518,0,0,0,0,4
+211,2038,150,0,0,"Tulsa","TUL","Drillers",1669,44199,20288,0,1,0,0,2
+211,2039,150,0,0,"Tulsa","TUL","Drillers",34535,39524,44383,0,1,0,0,2
 212,2017,150,0,0,"Northwest Arkansas","NWA","Naturals",34784,122,34784,0,0,0,0,4
 212,2018,150,0,0,"Northwest Arkansas","NWA","Naturals",21570,118,34869,0,1,0,0,2
 212,2019,150,0,0,"Northwest Arkansas","NWA","Naturals",1186,24982,1186,0,1,1,0,1
@@ -4372,6 +4542,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 212,2035,150,0,0,"Northwest Arkansas","NWA","Naturals",20270,42499,23674,0,0,0,0,3
 212,2036,150,0,0,"Northwest Arkansas","NWA","Naturals",27979,32160,27602,0,0,0,0,3
 212,2037,150,0,0,"Northwest Arkansas","NWA","Naturals",40141,33841,41847,0,0,0,0,3
+212,2038,150,0,0,"Northwest Arkansas","NWA","Naturals",27979,38903,42199,0,0,0,0,3
+212,2039,150,0,0,"Northwest Arkansas","NWA","Naturals",27979,23838,1198,0,0,0,0,4
 213,2017,150,0,1,"Frisco","FRI","RoughRiders",32587,34508,35164,0,1,0,0,1
 213,2018,150,0,1,"Frisco","FRI","RoughRiders",33429,598,33429,0,1,0,0,1
 213,2019,150,0,1,"Frisco","FRI","RoughRiders",33429,598,1305,0,1,0,0,1
@@ -4393,6 +4565,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 213,2035,150,0,1,"Frisco","FRI","RoughRiders",39972,43519,38843,0,1,0,0,1
 213,2036,150,0,1,"Frisco","FRI","RoughRiders",43400,20709,39900,0,1,1,0,1
 213,2037,150,0,1,"Frisco","FRI","RoughRiders",41244,20386,38862,0,1,1,0,1
+213,2038,150,0,1,"Frisco","FRI","RoughRiders",39213,20386,42816,0,1,0,0,1
+213,2039,150,0,1,"Frisco","FRI","RoughRiders",319,20709,42816,0,1,1,0,1
 214,2017,150,0,1,"Midland","MID","RockHounds",31056,24284,31056,0,0,0,0,3
 214,2018,150,0,1,"Midland","MID","RockHounds",38460,20821,38460,0,0,0,0,4
 214,2019,150,0,1,"Midland","MID","RockHounds",698,24284,698,0,0,0,0,4
@@ -4414,6 +4588,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 214,2035,150,0,1,"Midland","MID","RockHounds",20868,2079,43794,0,0,0,0,4
 214,2036,150,0,1,"Midland","MID","RockHounds",22915,41887,19621,0,0,0,0,3
 214,2037,150,0,1,"Midland","MID","RockHounds",40539,43024,19621,0,0,0,0,4
+214,2038,150,0,1,"Midland","MID","RockHounds",39046,35822,42138,0,0,0,0,4
+214,2039,150,0,1,"Midland","MID","RockHounds",43965,34463,35680,0,0,0,0,4
 215,2017,150,0,1,"San Antonio","SAN","Missions",34519,29920,34519,0,1,0,0,2
 215,2018,150,0,1,"San Antonio","SAN","Missions",23847,33473,23847,0,0,0,0,3
 215,2019,150,0,1,"San Antonio","SAN","Missions",34518,36347,34518,0,1,0,0,2
@@ -4435,6 +4611,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 215,2035,150,0,1,"San Antonio","SAN","Missions",19179,2053,42027,0,1,0,0,2
 215,2036,150,0,1,"San Antonio","SAN","Missions",533,34269,1729,0,1,0,0,2
 215,2037,150,0,1,"San Antonio","SAN","Missions",2003,42486,1677,0,1,0,0,2
+215,2038,150,0,1,"San Antonio","SAN","Missions",44055,43353,18178,0,1,1,0,2
+215,2039,150,0,1,"San Antonio","SAN","Missions",44055,40195,27447,0,1,0,0,2
 216,2017,150,0,1,"Corpus Christi","CC","Hooks",30770,487,1342,0,0,0,0,4
 216,2018,150,0,1,"Corpus Christi","CC","Hooks",1342,32465,34528,0,1,0,0,2
 216,2019,150,0,1,"Corpus Christi","CC","Hooks",25337,34405,25337,0,0,0,0,3
@@ -4456,6 +4634,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 216,2035,150,0,1,"Corpus Christi","CC","Hooks",40425,27307,33877,0,0,0,0,3
 216,2036,150,0,1,"Corpus Christi","CC","Hooks",36451,40695,1862,0,0,0,0,4
 216,2037,150,0,1,"Corpus Christi","CC","Hooks",41728,44719,41643,0,0,0,0,3
+216,2038,150,0,1,"Corpus Christi","CC","Hooks",24022,43008,23630,0,0,0,0,3
+216,2039,150,0,1,"Corpus Christi","CC","Hooks",44556,44988,36177,0,0,0,0,3
 218,2017,151,0,0,"Modesto","MOD","Nuts",21604,31332,2015,0,1,0,0,2
 218,2018,151,0,0,"Modesto","MOD","Nuts",522,2015,522,0,0,0,0,4
 218,2019,151,0,0,"Modesto","MOD","Nuts",19263,21654,38498,0,1,0,0,1
@@ -4477,6 +4657,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 218,2035,151,0,0,"Modesto","MOD","Nuts",37432,38002,36704,0,1,0,0,1
 218,2036,151,0,0,"Modesto","MOD","Nuts",39060,28290,36547,0,0,0,0,3
 218,2037,151,0,0,"Modesto","MOD","Nuts",44532,41219,447,0,0,0,0,4
+218,2038,151,0,0,"Modesto","MOD","Nuts",45707,43758,43855,0,0,0,0,4
+218,2039,151,0,0,"Modesto","MOD","Nuts",47189,28290,44890,0,1,0,0,2
 219,2017,151,0,0,"San Jose","SJO","Giants",34424,38345,38345,0,0,0,0,3
 219,2018,151,0,0,"San Jose","SJO","Giants",25675,1908,25675,0,1,0,0,2
 219,2019,151,0,0,"San Jose","SJO","Giants",33427,36399,34672,0,0,0,0,2
@@ -4498,6 +4680,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 219,2035,151,0,0,"San Jose","SJO","Giants",43310,42293,22096,0,0,0,0,4
 219,2036,151,0,0,"San Jose","SJO","Giants",43809,34018,33704,0,1,0,0,2
 219,2037,151,0,0,"San Jose","SJO","Giants",43310,42679,1817,0,1,0,0,2
+219,2038,151,0,0,"San Jose","SJO","Giants",44751,795,43802,0,0,0,0,3
+219,2039,151,0,0,"San Jose","SJO","Giants",35826,22791,20118,0,1,0,0,1
 220,2017,151,0,0,"Stockton","STO","Ports",33078,35452,34995,0,0,0,0,4
 220,2018,151,0,0,"Stockton","STO","Ports",25268,708,25268,0,0,0,0,3
 220,2019,151,0,0,"Stockton","STO","Ports",19887,706,19887,0,1,0,0,4
@@ -4519,6 +4703,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 220,2035,151,0,0,"Stockton","STO","Ports",29152,44752,19621,0,0,0,0,3
 220,2036,151,0,0,"Stockton","STO","Ports",42138,34463,24456,0,0,0,0,4
 220,2037,151,0,0,"Stockton","STO","Ports",42091,942,27825,0,0,0,0,3
+220,2038,151,0,0,"Stockton","STO","Ports",44319,43508,40114,0,1,1,0,2
+220,2039,151,0,0,"Stockton","STO","Ports",44319,264,29191,0,0,0,0,4
 221,2017,151,0,0,"Visalia","VIS","Rawhide",35575,1868,1868,0,1,1,0,1
 221,2018,151,0,0,"Visalia","VIS","Rawhide",27189,38977,27189,0,1,0,0,1
 221,2019,151,0,0,"Visalia","VIS","Rawhide",1180,34704,1123,0,0,0,0,3
@@ -4540,6 +4726,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 221,2035,151,0,0,"Visalia","VIS","Rawhide",23049,38214,32047,0,1,1,0,2
 221,2036,151,0,0,"Visalia","VIS","Rawhide",42556,2052,21914,0,1,1,0,1
 221,2037,151,0,0,"Visalia","VIS","Rawhide",41697,44234,21866,0,1,0,0,1
+221,2038,151,0,0,"Visalia","VIS","Rawhide",43399,39830,43723,0,1,0,0,1
+221,2039,151,0,0,"Visalia","VIS","Rawhide",20944,23003,43723,0,0,0,0,3
 223,2017,151,0,1,"Inland Empire","INL","66ers",35240,35549,35549,0,1,0,0,3
 223,2018,151,0,1,"Inland Empire","INL","66ers",36123,22129,22129,0,0,0,0,2
 223,2019,151,0,1,"Inland Empire","INL","66ers",36123,433,433,0,1,0,0,2
@@ -4561,6 +4749,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 223,2035,151,0,1,"Inland Empire","INL","66ers",22342,43948,19459,0,0,0,0,4
 223,2036,151,0,1,"Inland Empire","INL","66ers",44202,43948,2029,0,0,0,0,4
 223,2037,151,0,1,"Inland Empire","INL","66ers",43149,38182,27374,0,0,0,0,2
+223,2038,151,0,1,"Inland Empire","INL","66ers",24497,44957,23100,0,0,0,0,4
+223,2039,151,0,1,"Inland Empire","INL","66ers",21456,463,45128,0,0,0,0,4
 224,2017,151,0,1,"Lake Elsinore","LAK","Storm",33432,39563,33432,0,0,0,0,2
 224,2018,151,0,1,"Lake Elsinore","LAK","Storm",35369,33080,35369,0,1,0,0,4
 224,2019,151,0,1,"Lake Elsinore","LAK","Storm",251,38823,29025,0,0,0,0,3
@@ -4582,6 +4772,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 224,2035,151,0,1,"Lake Elsinore","LAK","Storm",1181,42725,24025,0,0,0,0,3
 224,2036,151,0,1,"Lake Elsinore","LAK","Storm",1729,34887,36777,0,1,0,0,1
 224,2037,151,0,1,"Lake Elsinore","LAK","Storm",18178,20236,34302,0,1,0,0,1
+224,2038,151,0,1,"Lake Elsinore","LAK","Storm",39329,43993,40747,0,0,0,0,2
+224,2039,151,0,1,"Lake Elsinore","LAK","Storm",1510,22574,38353,0,1,1,0,1
 225,2017,152,0,1,"Salem","SAL","Red Sox",27733,33009,27733,0,0,0,0,5
 225,2018,152,0,1,"Salem","SAL","Red Sox",34254,35259,20292,0,0,0,0,4
 225,2019,152,0,1,"Salem","SAL","Red Sox",34254,41,27174,0,1,1,0,2
@@ -4603,6 +4795,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 225,2035,152,0,1,"Salem","SAL","Red Sox",41176,2102,38090,0,1,0,0,1
 225,2036,152,0,1,"Salem","SAL","Red Sox",31887,22510,39811,0,1,0,0,2
 225,2037,152,0,1,"Salem","SAL","Red Sox",39811,33839,34630,0,0,0,0,3
+225,2038,152,0,1,"Salem","SAL","Red Sox",43771,36318,33100,0,0,0,0,3
+225,2039,152,0,1,"Salem","SAL","Red Sox",45871,39727,45911,0,0,0,0,3
 226,2017,151,0,1,"Rancho Cucamonga","RAN","Quakes",33412,35303,37289,0,0,0,0,4
 226,2018,151,0,1,"Rancho Cucamonga","RAN","Quakes",39482,37325,31211,0,1,1,0,1
 226,2019,151,0,1,"Rancho Cucamonga","RAN","Quakes",1568,35278,1568,0,1,1,0,1
@@ -4624,6 +4818,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 226,2035,151,0,1,"Rancho Cucamonga","RAN","Quakes",32950,28181,38144,0,1,0,0,1
 226,2036,151,0,1,"Rancho Cucamonga","RAN","Quakes",38160,38094,39813,0,1,0,0,2
 226,2037,151,0,1,"Rancho Cucamonga","RAN","Quakes",34535,23990,36102,0,0,0,0,4
+226,2038,151,0,1,"Rancho Cucamonga","RAN","Quakes",40683,38094,44397,0,1,0,0,3
+226,2039,151,0,1,"Rancho Cucamonga","RAN","Quakes",44311,33266,32068,0,1,0,0,2
 227,2017,152,0,0,"Frederick","FRE","Keys",31210,39089,36678,0,1,0,0,1
 227,2018,152,0,0,"Frederick","FRE","Keys",25564,32943,20504,0,1,0,0,2
 227,2019,152,0,0,"Frederick","FRE","Keys",30955,20385,20385,0,1,0,0,1
@@ -4645,6 +4841,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 227,2035,152,0,0,"Frederick","FRE","Keys",22483,39324,41086,0,0,0,0,5
 227,2036,152,0,0,"Frederick","FRE","Keys",36757,39625,43843,0,0,0,0,4
 227,2037,152,0,0,"Frederick","FRE","Keys",36164,38177,22507,0,0,0,0,5
+227,2038,152,0,0,"Frederick","FRE","Keys",22032,20911,20489,0,0,0,0,5
+227,2039,152,0,0,"Frederick","FRE","Keys",45436,22186,2124,0,0,0,0,5
 228,2017,153,0,1,"Bradenton","BRA","Marauders",35872,34963,35872,0,0,0,0,6
 228,2018,153,0,1,"Bradenton","BRA","Marauders",23952,38333,23952,0,0,0,0,6
 228,2019,153,0,1,"Bradenton","BRA","Marauders",34217,20147,20147,0,0,0,0,6
@@ -4666,6 +4864,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 228,2035,153,0,1,"Bradenton","BRA","Marauders",42171,19453,41293,0,1,1,0,1
 228,2036,153,0,1,"Bradenton","BRA","Marauders",36859,36388,39486,0,1,1,0,2
 228,2037,153,0,1,"Bradenton","BRA","Marauders",39946,39896,1824,0,1,0,0,1
+228,2038,153,0,1,"Bradenton","BRA","Marauders",40532,44783,43836,0,1,0,0,1
+228,2039,153,0,1,"Bradenton","BRA","Marauders",39753,44783,43836,0,1,1,0,1
 229,2017,152,0,0,"Potomac","POT","Nationals",37652,33083,37652,0,1,0,0,2
 229,2018,152,0,0,"Potomac","POT","Nationals",1374,35145,1374,0,0,0,0,3
 229,2019,152,0,0,"Potomac","POT","Nationals",19809,35145,19809,0,0,0,0,5
@@ -4687,6 +4887,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 229,2035,152,0,0,"Potomac","POT","Nationals",42084,909,19780,0,0,0,0,4
 229,2036,152,0,0,"Potomac","POT","Nationals",39600,20594,41735,0,0,0,0,3
 229,2037,152,0,0,"Potomac","POT","Nationals",43586,23018,36237,0,0,0,0,3
+229,2038,152,0,0,"Potomac","POT","Nationals",1678,36832,45016,0,0,0,0,3
+229,2039,152,0,0,"Potomac","POT","Nationals",147,22742,40559,0,1,0,0,1
 230,2017,152,0,0,"Wilmington","WIL","Blue Rocks",819,35582,20551,0,0,0,0,5
 230,2018,152,0,0,"Wilmington","WIL","Blue Rocks",1427,31921,1427,0,0,0,0,5
 230,2019,152,0,0,"Wilmington","WIL","Blue Rocks",19394,35582,22218,0,1,0,0,2
@@ -4708,6 +4910,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 230,2035,152,0,0,"Wilmington","WIL","Blue Rocks",36679,40856,44929,0,1,1,0,1
 230,2036,152,0,0,"Wilmington","WIL","Blue Rocks",42445,44520,34824,0,0,0,0,5
 230,2037,152,0,0,"Wilmington","WIL","Blue Rocks",42705,24032,25852,0,0,0,0,4
+230,2038,152,0,0,"Wilmington","WIL","Blue Rocks",34824,42220,41561,0,1,0,0,2
+230,2039,152,0,0,"Wilmington","WIL","Blue Rocks",40326,24032,25852,0,0,0,0,4
 231,2017,152,0,1,"Carolina","CAR","Mudcats",35568,32066,35568,0,1,0,0,2
 231,2018,152,0,1,"Carolina","CAR","Mudcats",19219,39824,19219,0,0,0,0,5
 231,2019,152,0,1,"Carolina","CAR","Mudcats",35384,22073,35384,0,0,0,0,5
@@ -4729,6 +4933,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 231,2035,152,0,1,"Carolina","CAR","Mudcats",34407,39533,41322,0,0,0,0,3
 231,2036,152,0,1,"Carolina","CAR","Mudcats",33341,24452,32982,0,0,0,0,4
 231,2037,152,0,1,"Carolina","CAR","Mudcats",39960,41655,38748,0,0,0,0,4
+231,2038,152,0,1,"Carolina","CAR","Mudcats",30631,33340,600,0,1,0,0,2
+231,2039,152,0,1,"Carolina","CAR","Mudcats",33192,2098,35463,0,0,0,0,5
 232,2017,152,0,1,"Myrtle Beach","MYR","Pelicans",37379,37250,37379,0,0,0,0,4
 232,2018,152,0,1,"Myrtle Beach","MYR","Pelicans",37379,30648,30648,0,1,1,0,1
 232,2019,152,0,1,"Myrtle Beach","MYR","Pelicans",1602,24980,24980,0,1,0,0,1
@@ -4750,6 +4956,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 232,2035,152,0,1,"Myrtle Beach","MYR","Pelicans",1464,1529,38346,0,0,0,0,4
 232,2036,152,0,1,"Myrtle Beach","MYR","Pelicans",1464,30058,41071,0,0,0,0,3
 232,2037,152,0,1,"Myrtle Beach","MYR","Pelicans",40033,45048,22498,0,1,0,0,2
+232,2038,152,0,1,"Myrtle Beach","MYR","Pelicans",44768,22929,33507,0,0,0,0,5
+232,2039,152,0,1,"Myrtle Beach","MYR","Pelicans",44914,41925,40862,0,1,0,0,2
 233,2017,151,0,1,"Lancaster","LAN","JetHawks",35111,35043,35043,0,1,0,0,1
 233,2018,151,0,1,"Lancaster","LAN","JetHawks",34301,35043,34301,0,0,0,0,3
 233,2019,151,0,1,"Lancaster","LAN","JetHawks",34301,34077,19962,0,0,0,0,4
@@ -4771,6 +4979,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 233,2035,151,0,1,"Lancaster","LAN","JetHawks",1599,40750,42431,0,1,0,0,2
 233,2036,151,0,1,"Lancaster","LAN","JetHawks",43766,44583,19902,0,0,0,0,3
 233,2037,151,0,1,"Lancaster","LAN","JetHawks",42925,41633,705,0,1,1,0,3
+233,2038,151,0,1,"Lancaster","LAN","JetHawks",42925,46127,40966,0,1,0,0,1
+233,2039,151,0,1,"Lancaster","LAN","JetHawks",41304,363,31347,0,0,0,0,3
 234,2017,152,0,1,"Winston-Salem","WS","Dash",32948,34118,23177,0,1,1,0,1
 234,2018,152,0,1,"Winston-Salem","WS","Dash",38562,1199,38562,0,0,0,0,3
 234,2019,152,0,1,"Winston-Salem","WS","Dash",39630,34956,34755,0,0,0,0,4
@@ -4792,6 +5002,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 234,2035,152,0,1,"Winston-Salem","WS","Dash",40883,41649,39416,0,0,0,0,5
 234,2036,152,0,1,"Winston-Salem","WS","Dash",40870,40196,40783,0,0,0,0,5
 234,2037,152,0,1,"Winston-Salem","WS","Dash",37830,19404,19618,0,0,0,0,5
+234,2038,152,0,1,"Winston-Salem","WS","Dash",38070,45773,20109,0,0,0,0,4
+234,2039,152,0,1,"Winston-Salem","WS","Dash",1867,43921,42154,0,0,0,0,4
 236,2017,153,0,0,"Daytona","DAY","Tortugas",2153,35497,2153,0,1,0,0,2
 236,2018,153,0,0,"Daytona","DAY","Tortugas",2101,30569,29146,0,1,1,0,1
 236,2019,153,0,0,"Daytona","DAY","Tortugas",36085,27265,36085,0,1,1,0,1
@@ -4813,6 +5025,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 236,2035,153,0,0,"Daytona","DAY","Tortugas",44215,27998,44117,0,1,0,0,2
 236,2036,153,0,0,"Daytona","DAY","Tortugas",23060,39345,43036,0,1,0,0,3
 236,2037,153,0,0,"Daytona","DAY","Tortugas",27968,2116,35610,0,1,0,0,2
+236,2038,153,0,0,"Daytona","DAY","Tortugas",37944,39030,389,0,1,1,0,1
+236,2039,153,0,0,"Daytona","DAY","Tortugas",21435,19689,40850,0,0,0,0,3
 237,2017,153,0,1,"Jupiter","JUP","Hammerheads",1382,426,1382,0,0,0,0,5
 237,2018,153,0,1,"Jupiter","JUP","Hammerheads",35622,33782,19412,0,0,0,0,3
 237,2019,153,0,1,"Jupiter","JUP","Hammerheads",19412,1015,39694,0,0,0,0,5
@@ -4834,6 +5048,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 237,2035,153,0,1,"Jupiter","JUP","Hammerheads",1344,37940,40659,0,0,0,0,4
 237,2036,153,0,1,"Jupiter","JUP","Hammerheads",40291,1772,21452,0,0,0,0,5
 237,2037,153,0,1,"Jupiter","JUP","Hammerheads",44722,34805,20952,0,0,0,0,3
+237,2038,153,0,1,"Jupiter","JUP","Hammerheads",44722,1642,24500,0,0,0,0,5
+237,2039,153,0,1,"Jupiter","JUP","Hammerheads",46191,46059,36367,0,0,0,0,2
 238,2017,153,0,1,"Palm Beach","PAL","Cardinals",35207,35572,35207,0,0,0,0,3
 238,2018,153,0,1,"Palm Beach","PAL","Cardinals",38532,22223,33167,0,0,0,0,4
 238,2019,153,0,1,"Palm Beach","PAL","Cardinals",1331,193,1331,0,0,0,0,2
@@ -4855,6 +5071,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 238,2035,153,0,1,"Palm Beach","PAL","Cardinals",39552,34987,35508,0,1,0,0,2
 238,2036,153,0,1,"Palm Beach","PAL","Cardinals",41221,38698,38290,0,0,0,0,3
 238,2037,153,0,1,"Palm Beach","PAL","Cardinals",41221,38698,44164,0,0,0,0,5
+238,2038,153,0,1,"Palm Beach","PAL","Cardinals",41221,38290,40181,0,0,0,0,3
+238,2039,153,0,1,"Palm Beach","PAL","Cardinals",44205,38698,44147,0,1,0,0,3
 239,2017,153,0,1,"St. Lucie","SLC","Mets",34578,21868,1514,0,0,0,0,4
 239,2018,153,0,1,"St. Lucie","SLC","Mets",20267,1133,20267,0,0,0,0,5
 239,2019,153,0,1,"St. Lucie","SLC","Mets",17967,39348,39876,0,0,0,0,4
@@ -4876,6 +5094,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 239,2035,153,0,1,"St. Lucie","SLC","Mets",35708,24479,23963,0,0,0,0,6
 239,2036,153,0,1,"St. Lucie","SLC","Mets",40045,43459,22590,0,0,0,0,6
 239,2037,153,0,1,"St. Lucie","SLC","Mets",20841,18805,42819,0,0,0,0,6
+239,2038,153,0,1,"St. Lucie","SLC","Mets",46946,44545,23658,0,0,0,0,6
+239,2039,153,0,1,"St. Lucie","SLC","Mets",41949,47243,46075,0,0,0,0,6
 240,2017,153,0,1,"Charlotte","CHR","Stone Crabs",34445,38500,23081,0,1,0,0,2
 240,2018,153,0,1,"Charlotte","CHR","Stone Crabs",23081,33434,33434,0,1,0,0,2
 240,2019,153,0,1,"Charlotte","CHR","Stone Crabs",19180,38380,19180,0,1,0,0,3
@@ -4897,6 +5117,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 240,2035,153,0,1,"Charlotte","CHR","Stone Crabs",42924,31638,39892,0,0,0,0,3
 240,2036,153,0,1,"Charlotte","CHR","Stone Crabs",42924,42000,22765,0,1,0,0,1
 240,2037,153,0,1,"Charlotte","CHR","Stone Crabs",38696,19283,44277,0,1,1,0,2
+240,2038,153,0,1,"Charlotte","CHR","Stone Crabs",44519,43791,42283,0,1,0,0,2
+240,2039,153,0,1,"Charlotte","CHR","Stone Crabs",46155,43378,46124,0,0,0,0,5
 241,2017,153,0,0,"Clearwater","CLE","Threshers",34437,1143,1143,0,0,0,0,5
 241,2018,153,0,0,"Clearwater","CLE","Threshers",33897,20521,20521,0,0,0,0,3
 241,2019,153,0,0,"Clearwater","CLE","Threshers",23066,1320,23066,0,1,0,0,2
@@ -4918,6 +5140,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 241,2035,153,0,0,"Clearwater","CLE","Threshers",159,18037,880,0,1,0,0,1
 241,2036,153,0,0,"Clearwater","CLE","Threshers",42606,35210,41211,0,1,0,0,1
 241,2037,153,0,0,"Clearwater","CLE","Threshers",44649,44259,42092,0,1,0,0,1
+241,2038,153,0,0,"Clearwater","CLE","Threshers",40214,625,43537,0,0,0,0,3
+241,2039,153,0,0,"Clearwater","CLE","Threshers",1601,43940,43567,0,1,0,0,2
 242,2017,153,0,0,"Dunedin","DUN","Blue Jays",1304,35676,1304,0,0,0,0,6
 242,2018,153,0,0,"Dunedin","DUN","Blue Jays",35183,33357,35183,0,0,0,0,4
 242,2019,153,0,0,"Dunedin","DUN","Blue Jays",18989,20855,18989,0,0,0,0,5
@@ -4939,6 +5163,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 242,2035,153,0,0,"Dunedin","DUN","Blue Jays",32404,42424,1730,0,0,0,0,3
 242,2036,153,0,0,"Dunedin","DUN","Blue Jays",44831,518,42432,0,0,0,0,4
 242,2037,153,0,0,"Dunedin","DUN","Blue Jays",42702,27844,42255,0,0,0,0,4
+242,2038,153,0,0,"Dunedin","DUN","Blue Jays",44578,44408,43545,0,0,0,0,4
+242,2039,153,0,0,"Dunedin","DUN","Blue Jays",44834,44876,20134,0,1,0,0,1
 243,2017,153,0,1,"Fort Myers","FMY","Miracle",35711,36347,30475,0,1,0,0,1
 243,2018,153,0,1,"Fort Myers","FMY","Miracle",976,39298,976,0,1,0,0,1
 243,2019,153,0,1,"Fort Myers","FMY","Miracle",38893,62,20436,0,1,0,0,1
@@ -4960,6 +5186,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 243,2035,153,0,1,"Fort Myers","FMY","Miracle",44123,42746,26172,0,0,0,0,5
 243,2036,153,0,1,"Fort Myers","FMY","Miracle",44123,41169,41477,0,0,0,0,4
 243,2037,153,0,1,"Fort Myers","FMY","Miracle",597,39089,20317,0,0,0,0,4
+243,2038,153,0,1,"Fort Myers","FMY","Miracle",45117,43535,41506,0,0,0,0,4
+243,2039,153,0,1,"Fort Myers","FMY","Miracle",24732,44646,31261,0,0,0,0,4
 244,2017,153,0,0,"Lakeland","LAK","Flying Tigers",33339,34266,33339,0,1,1,0,1
 244,2018,153,0,0,"Lakeland","LAK","Flying Tigers",34167,31784,20691,0,0,0,0,6
 244,2019,153,0,0,"Lakeland","LAK","Flying Tigers",805,38478,805,0,0,0,0,4
@@ -4981,6 +5209,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 244,2035,153,0,0,"Lakeland","LAK","Flying Tigers",40017,1110,43910,0,0,0,0,6
 244,2036,153,0,0,"Lakeland","LAK","Flying Tigers",40928,35573,42192,0,0,0,0,2
 244,2037,153,0,0,"Lakeland","LAK","Flying Tigers",43190,21125,38659,0,0,0,0,5
+244,2038,153,0,0,"Lakeland","LAK","Flying Tigers",28175,46440,43338,0,0,0,0,6
+244,2039,153,0,0,"Lakeland","LAK","Flying Tigers",35802,1639,19282,0,0,0,0,5
 245,2017,152,0,0,"Lynchburg","LYN","Hillcats",19522,34357,19522,0,0,0,0,4
 245,2018,152,0,0,"Lynchburg","LYN","Hillcats",19522,19234,19234,0,1,0,0,1
 245,2019,152,0,0,"Lynchburg","LYN","Hillcats",29144,38580,29144,0,0,0,0,4
@@ -5002,6 +5232,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 245,2035,152,0,0,"Lynchburg","LYN","Hillcats",38780,34050,21877,0,1,0,0,2
 245,2036,152,0,0,"Lynchburg","LYN","Hillcats",109,43683,41116,0,1,0,0,1
 245,2037,152,0,0,"Lynchburg","LYN","Hillcats",42480,138,764,0,1,0,0,2
+245,2038,152,0,0,"Lynchburg","LYN","Hillcats",43231,44468,2078,0,0,0,0,4
+245,2039,152,0,0,"Lynchburg","LYN","Hillcats",44934,1589,2078,0,0,0,0,3
 246,2017,153,0,0,"Tampa","TAM","Yankees",34528,35698,34528,0,0,0,0,3
 246,2018,153,0,0,"Tampa","TAM","Yankees",1209,37571,1209,0,1,0,0,2
 246,2019,153,0,0,"Tampa","TAM","Yankees",19450,38948,19450,0,0,0,0,3
@@ -5023,6 +5255,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 246,2035,153,0,0,"Tampa","TAM","Yankees",36631,41998,31466,0,0,0,0,4
 246,2036,153,0,0,"Tampa","TAM","Yankees",38347,25720,40926,0,0,0,0,6
 246,2037,153,0,0,"Tampa","TAM","Yankees",38916,43697,42645,0,0,0,0,3
+246,2038,153,0,0,"Tampa","TAM","Yankees",43709,41794,44338,0,1,0,0,2
+246,2039,153,0,0,"Tampa","TAM","Yankees",41242,43697,41588,0,0,0,0,4
 247,2017,154,0,0,"Great Lakes","GLK","Loons",1162,26874,1162,0,0,0,0,4
 247,2018,154,0,0,"Great Lakes","GLK","Loons",1167,36229,1365,0,1,0,0,1
 247,2019,154,0,0,"Great Lakes","GLK","Loons",20923,20854,20882,0,0,0,0,3
@@ -5044,6 +5278,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 247,2035,154,0,0,"Great Lakes","GLK","Loons",39854,17926,44427,0,1,0,0,2
 247,2036,154,0,0,"Great Lakes","GLK","Loons",42375,42343,39037,0,0,0,0,4
 247,2037,154,0,0,"Great Lakes","GLK","Loons",42687,20097,41027,0,0,0,0,7
+247,2038,154,0,0,"Great Lakes","GLK","Loons",45897,45113,46507,0,0,0,0,4
+247,2039,154,0,0,"Great Lakes","GLK","Loons",40204,42429,46621,0,0,0,0,4
 248,2017,154,0,0,"Dayton","DAY","Dragons",29146,27873,29146,0,0,0,0,6
 248,2018,154,0,0,"Dayton","DAY","Dragons",27634,1195,27634,0,1,1,0,2
 248,2019,154,0,0,"Dayton","DAY","Dragons",25832,21958,25832,0,1,1,0,1
@@ -5065,6 +5301,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 248,2035,154,0,0,"Dayton","DAY","Dragons",34808,1918,1630,0,0,0,0,3
 248,2036,154,0,0,"Dayton","DAY","Dragons",40396,38770,39893,0,0,0,0,7
 248,2037,154,0,0,"Dayton","DAY","Dragons",34776,847,37698,0,0,0,0,4
+248,2038,154,0,0,"Dayton","DAY","Dragons",30353,27018,36388,0,1,1,0,1
+248,2039,154,0,0,"Dayton","DAY","Dragons",47418,46432,46347,0,0,0,0,7
 249,2017,154,0,0,"Fort Wayne","FWA","TinCaps",34866,26784,26784,0,1,0,0,1
 249,2018,154,0,0,"Fort Wayne","FWA","TinCaps",1312,37415,1312,0,0,0,0,3
 249,2019,154,0,0,"Fort Wayne","FWA","TinCaps",1312,22509,22509,0,0,0,0,4
@@ -5086,6 +5324,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 249,2035,154,0,0,"Fort Wayne","FWA","TinCaps",32477,2155,43403,0,0,0,0,5
 249,2036,154,0,0,"Fort Wayne","FWA","TinCaps",1344,44633,1344,0,0,0,0,5
 249,2037,154,0,0,"Fort Wayne","FWA","TinCaps",35139,1226,43928,0,1,0,0,2
+249,2038,154,0,0,"Fort Wayne","FWA","TinCaps",38275,35676,1677,0,0,0,0,3
+249,2039,154,0,0,"Fort Wayne","FWA","TinCaps",46960,43711,1399,0,1,0,0,1
 250,2017,154,0,0,"Lansing","LAN","Lugnuts",39611,30627,39611,0,0,0,0,7
 250,2018,154,0,0,"Lansing","LAN","Lugnuts",18989,27272,18989,0,0,0,0,8
 250,2019,154,0,0,"Lansing","LAN","Lugnuts",23984,1334,1334,0,0,0,0,7
@@ -5107,6 +5347,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 250,2035,154,0,0,"Lansing","LAN","Lugnuts",42127,43540,40302,0,0,0,0,6
 250,2036,154,0,0,"Lansing","LAN","Lugnuts",36075,777,40254,0,0,0,0,6
 250,2037,154,0,0,"Lansing","LAN","Lugnuts",26161,20742,20201,0,0,0,0,6
+250,2038,154,0,0,"Lansing","LAN","Lugnuts",20919,44355,43232,0,0,0,0,5
+250,2039,154,0,0,"Lansing","LAN","Lugnuts",43196,376,20910,0,1,0,0,2
 251,2017,154,0,0,"South Bend","SBE","Cubs",32347,34477,32347,0,0,0,0,5
 251,2018,154,0,0,"South Bend","SBE","Cubs",38486,34524,243,0,0,0,0,4
 251,2019,154,0,0,"South Bend","SBE","Cubs",38940,34554,38940,0,1,0,0,2
@@ -5128,6 +5370,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 251,2035,154,0,0,"South Bend","SBE","Cubs",19732,35299,42784,0,0,0,0,7
 251,2036,154,0,0,"South Bend","SBE","Cubs",40033,35299,39010,0,1,0,0,2
 251,2037,154,0,0,"South Bend","SBE","Cubs",20599,41680,42331,0,0,0,0,3
+251,2038,154,0,0,"South Bend","SBE","Cubs",40862,23504,23797,0,0,0,0,6
+251,2039,154,0,0,"South Bend","SBE","Cubs",23797,62,44735,0,0,0,0,6
 252,2017,154,0,0,"West Michigan","WMI","Whitecaps",34768,31940,31940,0,1,0,0,2
 252,2018,154,0,0,"West Michigan","WMI","Whitecaps",21504,31940,36874,0,0,0,0,7
 252,2019,154,0,0,"West Michigan","WMI","Whitecaps",34905,20356,34905,0,0,0,0,8
@@ -5149,6 +5393,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 252,2035,154,0,0,"West Michigan","WMI","Whitecaps",42948,21541,35825,0,0,0,0,8
 252,2036,154,0,0,"West Michigan","WMI","Whitecaps",21157,42032,21157,0,0,0,0,8
 252,2037,154,0,0,"West Michigan","WMI","Whitecaps",21342,45134,44540,0,0,0,0,8
+252,2038,154,0,0,"West Michigan","WMI","Whitecaps",45922,42769,32484,0,0,0,0,8
+252,2039,154,0,0,"West Michigan","WMI","Whitecaps",44419,46440,41387,0,0,0,0,8
 253,2017,154,0,1,"Beloit","BEL","Snappers",33020,35743,38460,0,0,0,0,4
 253,2018,154,0,1,"Beloit","BEL","Snappers",34216,713,34216,0,0,0,0,7
 253,2019,154,0,1,"Beloit","BEL","Snappers",1277,21414,1277,0,0,0,0,8
@@ -5170,6 +5416,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 253,2035,154,0,1,"Beloit","BEL","Snappers",24061,27799,2060,0,0,0,0,6
 253,2036,154,0,1,"Beloit","BEL","Snappers",2060,27799,42062,0,0,0,0,4
 253,2037,154,0,1,"Beloit","BEL","Snappers",20392,37869,43669,0,0,0,0,5
+253,2038,154,0,1,"Beloit","BEL","Snappers",41404,27074,42995,0,0,0,0,4
+253,2039,154,0,1,"Beloit","BEL","Snappers",44936,49022,42124,0,0,0,0,8
 254,2017,154,0,1,"Burlington","BUR","Bees",23846,1240,23846,0,0,0,0,3
 254,2018,154,0,1,"Burlington","BUR","Bees",20499,1141,20499,0,0,0,0,3
 254,2019,154,0,1,"Burlington","BUR","Bees",25268,40514,25268,0,1,0,0,2
@@ -5191,6 +5439,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 254,2035,154,0,1,"Burlington","BUR","Bees",850,36370,41433,0,0,0,0,4
 254,2036,154,0,1,"Burlington","BUR","Bees",41024,43021,41673,0,0,0,0,8
 254,2037,154,0,1,"Burlington","BUR","Bees",40298,43616,44662,0,0,0,0,6
+254,2038,154,0,1,"Burlington","BUR","Bees",43130,23117,38335,0,0,0,0,8
+254,2039,154,0,1,"Burlington","BUR","Bees",46346,25922,43057,0,0,0,0,7
 255,2017,154,0,1,"Cedar Rapids","CER","Kernels",22565,34179,29761,0,1,1,0,1
 255,2018,154,0,1,"Cedar Rapids","CER","Kernels",35394,62,35394,0,1,0,0,1
 255,2019,154,0,1,"Cedar Rapids","CER","Kernels",1344,19259,1344,0,0,0,0,7
@@ -5212,6 +5462,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 255,2035,154,0,1,"Cedar Rapids","CER","Kernels",44747,24734,34920,0,0,0,0,8
 255,2036,154,0,1,"Cedar Rapids","CER","Kernels",20684,40953,35929,0,0,0,0,7
 255,2037,154,0,1,"Cedar Rapids","CER","Kernels",43389,40490,44182,0,0,0,0,4
+255,2038,154,0,1,"Cedar Rapids","CER","Kernels",27050,22139,40064,0,0,0,0,7
+255,2039,154,0,1,"Cedar Rapids","CER","Kernels",46581,22144,44176,0,0,0,0,5
 256,2017,155,0,0,"Hickory","HIC","Crawdads",35344,35526,33494,0,0,0,0,2
 256,2018,155,0,0,"Hickory","HIC","Crawdads",21298,34960,21298,0,0,0,0,1
 256,2019,155,0,0,"Hickory","HIC","Crawdads",2166,34724,2166,0,1,0,0,2
@@ -5233,6 +5485,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 256,2035,155,0,0,"Hickory","HIC","Crawdads",19589,40657,25246,0,1,0,0,2
 256,2036,155,0,0,"Hickory","HIC","Crawdads",39484,39301,22276,0,1,1,0,1
 256,2037,155,0,0,"Hickory","HIC","Crawdads",37718,44415,37635,0,1,1,0,2
+256,2038,155,0,0,"Hickory","HIC","Crawdads",40831,44761,42530,0,1,1,0,1
+256,2039,155,0,0,"Hickory","HIC","Crawdads",40831,23004,42530,0,1,1,0,1
 257,2017,154,0,1,"Kane County","KAN","Cougars",39056,20518,39056,0,1,0,0,2
 257,2018,154,0,1,"Kane County","KAN","Cougars",35313,525,35313,0,0,0,0,6
 257,2019,154,0,1,"Kane County","KAN","Cougars",28308,39086,28308,0,1,0,0,3
@@ -5254,6 +5508,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 257,2035,154,0,1,"Kane County","KAN","Cougars",39213,36309,39373,0,1,0,0,1
 257,2036,154,0,1,"Kane County","KAN","Cougars",1178,39732,1178,0,0,0,0,1
 257,2037,154,0,1,"Kane County","KAN","Cougars",41624,23246,40260,0,1,0,0,2
+257,2038,154,0,1,"Kane County","KAN","Cougars",20141,44745,35140,0,1,0,0,2
+257,2039,154,0,1,"Kane County","KAN","Cougars",46198,42988,23508,0,1,1,0,2
 258,2017,154,0,1,"Peoria","PEO","Chiefs",23208,38368,27542,0,0,0,0,7
 258,2018,154,0,1,"Peoria","PEO","Chiefs",20007,38981,38981,0,0,0,0,5
 258,2019,154,0,1,"Peoria","PEO","Chiefs",19944,1559,20928,0,0,0,0,4
@@ -5275,6 +5531,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 258,2035,154,0,1,"Peoria","PEO","Chiefs",19588,23129,41839,0,1,1,0,2
 258,2036,154,0,1,"Peoria","PEO","Chiefs",2151,35120,43071,0,1,0,0,3
 258,2037,154,0,1,"Peoria","PEO","Chiefs",41166,42560,31071,0,1,1,0,1
+258,2038,154,0,1,"Peoria","PEO","Chiefs",41166,323,42979,0,1,0,0,1
+258,2039,154,0,1,"Peoria","PEO","Chiefs",41166,42560,46149,0,1,0,0,1
 259,2017,154,0,1,"Quad Cities","QUC","River Bandits",19256,21943,19256,0,0,0,0,8
 259,2018,154,0,1,"Quad Cities","QUC","River Bandits",19958,38470,38470,0,1,0,0,2
 259,2019,154,0,1,"Quad Cities","QUC","River Bandits",20548,38470,20548,0,0,0,0,1
@@ -5296,6 +5554,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 259,2035,154,0,1,"Quad Cities","QUC","River Bandits",38981,350,35564,0,0,0,0,7
 259,2036,154,0,1,"Quad Cities","QUC","River Bandits",26249,40880,44049,0,0,0,0,5
 259,2037,154,0,1,"Quad Cities","QUC","River Bandits",36578,40859,40708,0,0,0,0,3
+259,2038,154,0,1,"Quad Cities","QUC","River Bandits",44556,23467,44669,0,0,0,0,3
+259,2039,154,0,1,"Quad Cities","QUC","River Bandits",41318,42117,46834,0,0,0,0,3
 260,2017,154,0,1,"Clinton","CLI","LumberKings",37999,21455,38488,0,0,0,0,5
 260,2018,154,0,1,"Clinton","CLI","LumberKings",35499,39413,35499,0,0,0,0,4
 260,2019,154,0,1,"Clinton","CLI","LumberKings",931,1648,1648,0,0,0,0,6
@@ -5317,6 +5577,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 260,2035,154,0,1,"Clinton","CLI","LumberKings",41490,41534,41644,0,0,0,0,3
 260,2036,154,0,1,"Clinton","CLI","LumberKings",38428,462,20811,0,0,0,0,6
 260,2037,154,0,1,"Clinton","CLI","LumberKings",34684,20237,33545,0,0,0,0,8
+260,2038,154,0,1,"Clinton","CLI","LumberKings",40776,44776,45909,0,0,0,0,5
+260,2039,154,0,1,"Clinton","CLI","LumberKings",44927,43979,46183,0,0,0,0,4
 261,2017,155,0,0,"Delmarva","DEL","Shorebirds",20504,30664,20504,0,1,0,0,3
 261,2018,155,0,0,"Delmarva","DEL","Shorebirds",34957,19684,34957,0,1,0,0,2
 261,2019,155,0,0,"Delmarva","DEL","Shorebirds",30183,32943,1179,0,0,0,0,4
@@ -5338,6 +5600,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 261,2035,155,0,0,"Delmarva","DEL","Shorebirds",34105,19543,34402,0,0,0,0,6
 261,2036,155,0,0,"Delmarva","DEL","Shorebirds",33035,434,42757,0,0,0,0,6
 261,2037,155,0,0,"Delmarva","DEL","Shorebirds",33895,20038,34812,0,0,0,0,7
+261,2038,155,0,0,"Delmarva","DEL","Shorebirds",42414,40266,324,0,0,0,0,7
+261,2039,155,0,0,"Delmarva","DEL","Shorebirds",45613,49423,46912,0,0,0,0,7
 262,2017,155,0,0,"Hagerstown","HAG","Suns",35139,52,52,0,0,0,0,4
 262,2018,155,0,0,"Hagerstown","HAG","Suns",39611,27619,39611,0,0,0,0,5
 262,2019,155,0,0,"Hagerstown","HAG","Suns",27085,20238,27085,0,0,0,0,3
@@ -5359,6 +5623,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 262,2035,155,0,0,"Hagerstown","HAG","Suns",39469,351,23550,0,0,0,0,5
 262,2036,155,0,0,"Hagerstown","HAG","Suns",35040,23977,31450,0,0,0,0,5
 262,2037,155,0,0,"Hagerstown","HAG","Suns",44822,19893,27949,0,0,0,0,5
+262,2038,155,0,0,"Hagerstown","HAG","Suns",43823,2117,35764,0,0,0,0,4
+262,2039,155,0,0,"Hagerstown","HAG","Suns",47369,46169,43004,0,0,0,0,6
 263,2017,155,0,0,"West Virginia","WVA","Power",23952,20739,27447,0,0,0,0,5
 263,2018,155,0,0,"West Virginia","WVA","Power",33904,1589,1589,0,0,0,0,7
 263,2019,155,0,0,"West Virginia","WVA","Power",968,21952,968,0,0,0,0,5
@@ -5380,6 +5646,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 263,2035,155,0,0,"West Virginia","WVA","Power",36540,18370,36859,0,1,0,0,1
 263,2036,155,0,0,"West Virginia","WVA","Power",36540,44095,22033,0,1,0,0,2
 263,2037,155,0,0,"West Virginia","WVA","Power",32023,31810,20390,0,1,0,0,1
+263,2038,155,0,0,"West Virginia","WVA","Power",40367,18370,7371,0,1,0,0,2
+263,2039,155,0,0,"West Virginia","WVA","Power",38737,44278,45326,0,1,0,0,2
 264,2017,154,0,0,"Lake County","LCO","Captains",28368,39159,28368,0,0,0,0,8
 264,2018,154,0,0,"Lake County","LCO","Captains",38143,34762,34762,0,0,0,0,6
 264,2019,154,0,0,"Lake County","LCO","Captains",27871,1697,1697,0,0,0,0,6
@@ -5401,6 +5669,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 264,2035,154,0,0,"Lake County","LCO","Captains",38581,42358,36227,0,0,0,0,4
 264,2036,154,0,0,"Lake County","LCO","Captains",41695,40019,41924,0,0,0,0,3
 264,2037,154,0,0,"Lake County","LCO","Captains",34058,46362,45417,0,0,0,0,5
+264,2038,154,0,0,"Lake County","LCO","Captains",44227,42358,46839,0,0,0,0,7
+264,2039,154,0,0,"Lake County","LCO","Captains",46015,43207,44958,0,0,0,0,5
 265,2017,155,0,0,"Lakewood","LAK","BlueClaws",27964,38949,27964,0,0,0,0,7
 265,2018,155,0,0,"Lakewood","LAK","BlueClaws",1436,21083,1436,0,0,0,0,3
 265,2019,155,0,0,"Lakewood","LAK","BlueClaws",35495,679,35495,0,0,0,0,7
@@ -5422,6 +5692,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 265,2035,155,0,0,"Lakewood","LAK","BlueClaws",19245,43932,25707,0,0,0,0,3
 265,2036,155,0,0,"Lakewood","LAK","BlueClaws",32665,44259,39808,0,0,0,0,3
 265,2037,155,0,0,"Lakewood","LAK","BlueClaws",38025,994,44727,0,0,0,0,3
+265,2038,155,0,0,"Lakewood","LAK","BlueClaws",46451,25658,38159,0,0,0,0,5
+265,2039,155,0,0,"Lakewood","LAK","BlueClaws",46138,41493,742,0,0,0,0,4
 266,2017,155,0,1,"Lexington","LEX","Legends",35385,39337,25973,0,0,0,0,7
 266,2018,155,0,1,"Lexington","LEX","Legends",25973,20151,1311,0,0,0,0,7
 266,2019,155,0,1,"Lexington","LEX","Legends",255,19853,255,0,0,0,0,5
@@ -5443,6 +5715,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 266,2035,155,0,1,"Lexington","LEX","Legends",31542,20180,41343,0,0,0,0,3
 266,2036,155,0,1,"Lexington","LEX","Legends",542,40364,306,0,0,0,0,4
 266,2037,155,0,1,"Lexington","LEX","Legends",21390,24492,40677,0,0,0,0,5
+266,2038,155,0,1,"Lexington","LEX","Legends",25852,22030,30672,0,1,0,0,1
+266,2039,155,0,1,"Lexington","LEX","Legends",19411,38307,45410,0,1,0,0,1
 267,2017,154,0,1,"Wisconsin","WIS","Timber Rattlers",19219,19444,19219,0,0,0,0,6
 267,2018,154,0,1,"Wisconsin","WIS","Timber Rattlers",1372,1328,1372,0,0,0,0,8
 267,2019,154,0,1,"Wisconsin","WIS","Timber Rattlers",17848,35503,17848,0,0,0,0,5
@@ -5464,6 +5738,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 267,2035,154,0,1,"Wisconsin","WIS","Timber Rattlers",39999,43469,23796,0,0,0,0,5
 267,2036,154,0,1,"Wisconsin","WIS","Timber Rattlers",42709,42558,39094,0,1,0,0,2
 267,2037,154,0,1,"Wisconsin","WIS","Timber Rattlers",38576,44785,39094,0,0,0,0,7
+267,2038,154,0,1,"Wisconsin","WIS","Timber Rattlers",33192,39061,41178,0,0,0,0,6
+267,2039,154,0,1,"Wisconsin","WIS","Timber Rattlers",34373,46214,41987,0,0,0,0,6
 268,2017,155,0,0,"Greensboro","GRE","Grasshoppers",34615,20535,27276,0,0,0,0,6
 268,2018,155,0,0,"Greensboro","GRE","Grasshoppers",1205,39340,1205,0,1,0,0,6
 268,2019,155,0,0,"Greensboro","GRE","Grasshoppers",19908,19728,19908,0,0,0,0,6
@@ -5485,6 +5761,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 268,2035,155,0,0,"Greensboro","GRE","Grasshoppers",40291,36166,42961,0,0,0,0,4
 268,2036,155,0,0,"Greensboro","GRE","Grasshoppers",44637,1049,41729,0,0,0,0,4
 268,2037,155,0,0,"Greensboro","GRE","Grasshoppers",20772,861,23232,0,0,0,0,4
+268,2038,155,0,0,"Greensboro","GRE","Grasshoppers",43856,43094,44443,0,0,0,0,3
+268,2039,155,0,0,"Greensboro","GRE","Grasshoppers",23085,35388,45351,0,0,0,0,3
 269,2017,155,0,1,"Asheville","ASH","Tourists",1314,39778,27473,0,1,1,0,2
 269,2018,155,0,1,"Asheville","ASH","Tourists",18672,36656,39861,0,0,0,0,3
 269,2019,155,0,1,"Asheville","ASH","Tourists",39861,27274,27274,0,1,0,0,1
@@ -5506,6 +5784,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 269,2035,155,0,1,"Asheville","ASH","Tourists",42925,39557,40435,0,0,0,0,4
 269,2036,155,0,1,"Asheville","ASH","Tourists",40885,30269,40435,0,0,0,0,3
 269,2037,155,0,1,"Asheville","ASH","Tourists",1496,26583,23761,0,0,0,0,3
+269,2038,155,0,1,"Asheville","ASH","Tourists",40904,30269,1856,0,1,0,0,2
+269,2039,155,0,1,"Asheville","ASH","Tourists",46005,41633,1789,0,0,0,0,3
 270,2017,155,0,1,"Augusta","AUG","GreenJackets",35739,34623,35683,0,1,0,0,1
 270,2018,155,0,1,"Augusta","AUG","GreenJackets",19943,99,19943,0,1,1,0,1
 270,2019,155,0,1,"Augusta","AUG","GreenJackets",19544,36401,19544,0,0,0,0,6
@@ -5527,6 +5807,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 270,2035,155,0,1,"Augusta","AUG","GreenJackets",40897,34018,42754,0,1,0,0,1
 270,2036,155,0,1,"Augusta","AUG","GreenJackets",38985,44501,38491,0,1,0,0,1
 270,2037,155,0,1,"Augusta","AUG","GreenJackets",28098,24186,42296,0,1,0,0,1
+270,2038,155,0,1,"Augusta","AUG","GreenJackets",2156,455,24653,0,0,0,0,3
+270,2039,155,0,1,"Augusta","AUG","GreenJackets",44788,44996,38306,0,1,0,0,2
 271,2017,155,0,1,"Greenville","GRB","Drive",27474,38633,27474,0,0,0,0,5
 271,2018,155,0,1,"Greenville","GRB","Drive",35749,1220,1189,0,0,0,0,4
 271,2019,155,0,1,"Greenville","GRB","Drive",1303,36491,20634,0,1,0,0,3
@@ -5548,6 +5830,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 271,2035,155,0,1,"Greenville","GRB","Drive",43751,275,42548,0,1,1,0,2
 271,2036,155,0,1,"Greenville","GRB","Drive",40090,1310,28878,0,1,0,0,2
 271,2037,155,0,1,"Greenville","GRB","Drive",40709,36318,37616,0,0,0,0,4
+271,2038,155,0,1,"Greenville","GRB","Drive",45250,19320,39582,0,0,0,0,4
+271,2039,155,0,1,"Greenville","GRB","Drive",38798,46154,44889,0,0,0,0,4
 272,2017,155,0,1,"Charleston","CHA","RiverDogs",19674,19455,19674,0,0,0,0,4
 272,2018,155,0,1,"Charleston","CHA","RiverDogs",20116,38266,27388,0,1,0,0,2
 272,2019,155,0,1,"Charleston","CHA","RiverDogs",38523,24791,38482,0,0,0,0,2
@@ -5569,6 +5853,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 272,2035,155,0,1,"Charleston","CHA","RiverDogs",41451,41341,39869,0,0,0,0,5
 272,2036,155,0,1,"Charleston","CHA","RiverDogs",20397,40847,42077,0,0,0,0,5
 272,2037,155,0,1,"Charleston","CHA","RiverDogs",40330,45126,36716,0,1,0,0,2
+272,2038,155,0,1,"Charleston","CHA","RiverDogs",44573,20834,41588,0,0,0,0,5
+272,2039,155,0,1,"Charleston","CHA","RiverDogs",43747,34515,22826,0,0,0,0,5
 273,2017,154,0,0,"Bowling Green","BGN","Hot Rods",19671,38379,19671,0,0,0,0,3
 273,2018,154,0,0,"Bowling Green","BGN","Hot Rods",19180,39743,19180,0,0,0,0,5
 273,2019,154,0,0,"Bowling Green","BGN","Hot Rods",19961,24989,35195,0,0,0,0,5
@@ -5590,6 +5876,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 273,2035,154,0,0,"Bowling Green","BGN","Hot Rods",44277,39834,35559,0,1,0,0,1
 273,2036,154,0,0,"Bowling Green","BGN","Hot Rods",44277,36469,44055,0,1,1,0,1
 273,2037,154,0,0,"Bowling Green","BGN","Hot Rods",42636,20552,35559,0,1,0,0,1
+273,2038,154,0,0,"Bowling Green","BGN","Hot Rods",1405,33083,41194,0,1,0,0,2
+273,2039,154,0,0,"Bowling Green","BGN","Hot Rods",44718,45357,36606,0,0,0,0,3
 274,2017,155,0,0,"Kannapolis","KAN","Intimidators",34541,206,22568,0,1,0,0,1
 274,2018,155,0,0,"Kannapolis","KAN","Intimidators",34755,19424,39630,0,0,0,0,4
 274,2019,155,0,0,"Kannapolis","KAN","Intimidators",23873,16305,16305,0,1,1,0,1
@@ -5611,6 +5899,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 274,2035,155,0,0,"Kannapolis","KAN","Intimidators",40870,34019,42617,0,0,0,0,7
 274,2036,155,0,0,"Kannapolis","KAN","Intimidators",36247,34486,41892,0,0,0,0,7
 274,2037,155,0,0,"Kannapolis","KAN","Intimidators",44551,34486,19683,0,0,0,0,6
+274,2038,155,0,0,"Kannapolis","KAN","Intimidators",45092,44688,40914,0,0,0,0,6
+274,2039,155,0,0,"Kannapolis","KAN","Intimidators",45305,45362,36053,0,0,0,0,5
 275,2017,155,0,1,"Rome","ROM","Braves",23831,30348,30348,0,0,0,0,3
 275,2018,155,0,1,"Rome","ROM","Braves",19809,26589,19809,0,0,0,0,5
 275,2019,155,0,1,"Rome","ROM","Braves",20817,1134,22819,0,0,0,0,7
@@ -5632,6 +5922,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 275,2035,155,0,1,"Greenville","GRE","Hops",28342,37727,43967,0,0,0,0,7
 275,2036,155,0,1,"Greenville","GRE","Hops",40504,19562,36724,0,0,0,0,6
 275,2037,155,0,1,"Greenville","GRE","Hops",46391,43332,46262,0,0,0,0,7
+275,2038,155,0,1,"Greenville","GRE","Hops",46171,46087,44384,0,0,0,0,7
+275,2039,155,0,1,"Greenville","GRE","Hops",47687,46527,46252,0,0,0,0,7
 276,2017,155,0,1,"Columbia","COL","Fireflies",35560,27048,35560,0,0,0,0,6
 276,2018,155,0,1,"Columbia","COL","Fireflies",19876,719,17967,0,0,0,0,6
 276,2019,155,0,1,"Columbia","COL","Fireflies",1264,33823,18156,0,0,0,0,4
@@ -5653,6 +5945,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 276,2035,155,0,1,"Columbia","COL","Fireflies",26949,40128,41776,0,0,0,0,6
 276,2036,155,0,1,"Columbia","COL","Fireflies",20841,42,169,0,0,0,0,7
 276,2037,155,0,1,"Columbia","COL","Fireflies",41949,2134,46898,0,0,0,0,6
+276,2038,155,0,1,"Columbia","COL","Fireflies",46207,47243,43415,0,0,0,0,6
+276,2039,155,0,1,"Columbia","COL","Fireflies",45658,43125,37726,0,0,0,0,6
 277,2017,156,0,0,"Aberdeen","ABE","Ironbirds",29893,31602,19546,0,1,1,0,1
 277,2018,156,0,0,"Aberdeen","ABE","Ironbirds",36497,36432,36483,0,0,0,0,3
 277,2019,156,0,0,"Aberdeen","ABE","Ironbirds",19912,21079,2079,0,0,0,0,4
@@ -5674,6 +5968,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 277,2035,156,0,0,"Aberdeen","ABE","Ironbirds",33035,40811,33895,0,0,0,0,4
 277,2036,156,0,0,"Aberdeen","ABE","Ironbirds",33895,43786,32243,0,0,0,0,4
 277,2037,156,0,0,"Aberdeen","ABE","Ironbirds",26937,42036,34263,0,0,0,0,3
+277,2038,156,0,0,"Aberdeen","ABE","Ironbirds",20832,33843,34263,0,0,0,0,4
+277,2039,156,0,0,"Aberdeen","ABE","Ironbirds",228,42771,45957,0,0,0,0,4
 278,2017,156,0,0,"Brooklyn","BRO","Cyclones",21419,22254,21419,0,0,0,0,4
 278,2018,156,0,0,"Brooklyn","BRO","Cyclones",18156,34490,27169,0,0,0,0,4
 278,2019,156,0,0,"Brooklyn","BRO","Cyclones",37499,20760,20760,0,1,0,0,1
@@ -5695,6 +5991,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 278,2035,156,0,0,"Brooklyn","BRO","Cyclones",41589,42,19748,0,0,0,0,3
 278,2036,156,0,0,"Brooklyn","BRO","Cyclones",21806,270,1127,0,0,0,0,3
 278,2037,156,0,0,"Brooklyn","BRO","Cyclones",19806,46141,45837,0,0,0,0,4
+278,2038,156,0,0,"Brooklyn","BRO","Cyclones",46393,47278,43621,0,0,0,0,3
+278,2039,156,0,0,"Brooklyn","BRO","Cyclones",50091,47204,41848,0,0,0,0,3
 279,2017,156,0,0,"Hudson Valley","HUD","Renegades",37681,36346,38499,0,0,0,0,3
 279,2018,156,0,0,"Hudson Valley","HUD","Renegades",38989,24989,38989,0,1,0,0,2
 279,2019,156,0,0,"Hudson Valley","HUD","Renegades",38389,1166,1166,0,0,0,0,3
@@ -5716,6 +6014,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 279,2035,156,0,0,"Hudson Valley","HUD","Renegades",41186,42800,947,0,1,0,0,1
 279,2036,156,0,0,"Hudson Valley","HUD","Renegades",41186,1413,673,0,1,0,0,1
 279,2037,156,0,0,"Hudson Valley","HUD","Renegades",39867,156,42493,0,1,0,0,1
+279,2038,156,0,0,"Hudson Valley","HUD","Renegades",42924,42048,23171,0,1,1,0,1
+279,2039,156,0,0,"Hudson Valley","HUD","Renegades",39567,44757,47394,0,1,0,0,1
 280,2017,156,0,0,"Staten Island","STI","Yankees",20591,24791,20591,0,0,0,0,2
 280,2018,156,0,0,"Staten Island","STI","Yankees",27950,37582,27950,0,1,1,0,1
 280,2019,156,0,0,"Staten Island","STI","Yankees",38525,21828,38525,0,1,1,0,2
@@ -5737,6 +6037,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 280,2035,156,0,0,"Staten Island","STI","Yankees",31597,38663,36116,0,0,0,0,2
 280,2036,156,0,0,"Staten Island","STI","Yankees",42856,39017,42856,0,0,0,0,2
 280,2037,156,0,0,"Staten Island","STI","Yankees",27856,39918,43042,0,0,0,0,2
+280,2038,156,0,0,"Staten Island","STI","Yankees",41242,24114,20720,0,0,0,0,2
+280,2039,156,0,0,"Staten Island","STI","Yankees",457,44291,23953,0,0,0,0,2
 281,2017,156,0,1,"Auburn","AUB","Doubledays",28326,22527,28326,0,0,0,0,2
 281,2018,156,0,1,"Auburn","AUB","Doubledays",20423,1248,1248,0,0,0,0,3
 281,2019,156,0,1,"Auburn","AUB","Doubledays",39611,2128,39611,0,0,0,0,2
@@ -5758,6 +6060,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 281,2035,156,0,1,"Auburn","AUB","Doubledays",38701,41657,44347,0,0,0,0,6
 281,2036,156,0,1,"Auburn","AUB","Doubledays",43586,351,44689,0,0,0,0,6
 281,2037,156,0,1,"Auburn","AUB","Doubledays",43796,34531,42761,0,0,0,0,5
+281,2038,156,0,1,"Auburn","AUB","Doubledays",21980,39528,23398,0,0,0,0,5
+281,2039,156,0,1,"Auburn","AUB","Doubledays",47155,46777,44919,0,0,0,0,6
 282,2017,156,0,1,"Batavia","BAT","Muckdogs",20909,20558,20558,0,0,0,0,4
 282,2018,156,0,1,"Batavia","BAT","Muckdogs",20909,27500,26916,0,0,0,0,2
 282,2019,156,0,1,"Batavia","BAT","Muckdogs",38223,34638,34638,0,1,0,0,1
@@ -5779,6 +6083,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 282,2035,156,0,1,"Batavia","BAT","Muckdogs",19372,44489,388,0,0,0,0,3
 282,2036,156,0,1,"Batavia","BAT","Muckdogs",43053,44985,19354,0,0,0,0,5
 282,2037,156,0,1,"Batavia","BAT","Muckdogs",19937,35154,19424,0,0,0,0,4
+282,2038,156,0,1,"Batavia","BAT","Muckdogs",19596,46059,46218,0,1,0,0,2
+282,2039,156,0,1,"Batavia","BAT","Muckdogs",44954,44968,43502,0,1,0,0,2
 283,2017,156,0,1,"West Virginia","WV","Black Bears",35508,785,35508,0,0,0,0,5
 283,2018,156,0,1,"West Virginia","WV","Black Bears",27814,471,471,0,0,0,0,6
 283,2019,156,0,1,"West Virginia","WV","Black Bears",19381,1589,1283,0,0,0,0,6
@@ -5800,6 +6106,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 283,2035,156,0,1,"West Virginia","WV","Black Bears",34655,35347,43730,0,1,1,0,1
 283,2036,156,0,1,"West Virginia","WV","Black Bears",42713,44174,23644,0,1,1,0,1
 283,2037,156,0,1,"West Virginia","WV","Black Bears",33301,19095,39538,0,1,0,0,2
+283,2038,156,0,1,"West Virginia","WV","Black Bears",39836,19706,30504,0,0,0,0,3
+283,2039,156,0,1,"West Virginia","WV","Black Bears",34729,30057,46926,0,1,1,0,1
 284,2017,156,0,1,"Mahoning Valley","MAH","Scrappers",27921,38580,27921,0,1,0,0,1
 284,2018,156,0,1,"Mahoning Valley","MAH","Scrappers",39408,20902,39408,0,1,0,0,1
 284,2019,156,0,1,"Mahoning Valley","MAH","Scrappers",19543,27917,20655,0,0,0,0,5
@@ -5821,6 +6129,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 284,2035,156,0,1,"Mahoning Valley","MAH","Scrappers",23411,39973,41128,0,0,0,0,5
 284,2036,156,0,1,"Mahoning Valley","MAH","Scrappers",43231,19446,473,0,0,0,0,4
 284,2037,156,0,1,"Mahoning Valley","MAH","Scrappers",20012,42358,44180,0,0,0,0,3
+284,2038,156,0,1,"Mahoning Valley","MAH","Scrappers",42964,45983,46421,0,0,0,0,6
+284,2039,156,0,1,"Mahoning Valley","MAH","Scrappers",46595,44878,22506,0,0,0,0,5
 285,2017,156,0,1,"State College","STC","Spikes",20200,73,20200,0,0,0,0,3
 285,2018,156,0,1,"State College","STC","Spikes",20108,1559,20497,0,0,0,0,5
 285,2019,156,0,1,"State College","STC","Spikes",20200,25363,21674,0,0,0,0,4
@@ -5842,6 +6152,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 285,2035,156,0,1,"State College","STC","Spikes",44147,35120,20614,0,0,0,0,2
 285,2036,156,0,1,"State College","STC","Spikes",44004,38518,323,0,0,0,0,3
 285,2037,156,0,1,"State College","STC","Spikes",44205,22979,38950,0,1,1,0,1
+285,2038,156,0,1,"State College","STC","Spikes",2099,46237,44124,0,1,0,0,1
+285,2039,156,0,1,"State College","STC","Spikes",44943,23088,35304,0,0,0,0,3
 286,2017,156,0,1,"Williamsport","WIL","Crosscutters",34827,21083,34827,0,0,0,0,6
 286,2018,156,0,1,"Williamsport","WIL","Crosscutters",23067,21205,23067,0,0,0,0,4
 286,2019,156,0,1,"Williamsport","WIL","Crosscutters",25273,39858,20271,0,0,0,0,3
@@ -5863,6 +6175,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 286,2035,156,0,1,"Williamsport","WIL","Crosscutters",36517,27031,1531,0,0,0,0,4
 286,2036,156,0,1,"Williamsport","WIL","Crosscutters",27150,994,25658,0,1,0,0,2
 286,2037,156,0,1,"Williamsport","WIL","Crosscutters",46451,45858,41391,0,0,0,0,6
+286,2038,156,0,1,"Williamsport","WIL","Crosscutters",23474,45858,42206,0,0,0,0,4
+286,2039,156,0,1,"Williamsport","WIL","Crosscutters",39275,46409,23541,0,0,0,0,4
 287,2017,156,0,2,"Lowell","LOW","Spinners",19974,21342,19974,0,0,0,0,3
 287,2018,156,0,2,"Lowell","LOW","Spinners",19582,20208,20208,0,0,0,0,3
 287,2019,156,0,2,"Lowell","LOW","Spinners",36495,1280,38611,0,0,0,0,4
@@ -5884,6 +6198,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 287,2035,156,0,2,"Lowell","LOW","Spinners",24246,40855,40709,0,1,0,0,1
 287,2036,156,0,2,"Lowell","LOW","Spinners",36589,36318,24477,0,0,0,0,2
 287,2037,156,0,2,"Lowell","LOW","Spinners",38952,41500,1802,0,1,0,0,1
+287,2038,156,0,2,"Lowell","LOW","Spinners",312,40884,38798,0,0,0,0,3
+287,2039,156,0,2,"Lowell","LOW","Spinners",20121,38727,23299,0,0,0,0,2
 288,2017,156,0,2,"Connecticut","CON","Tigers",34465,23266,35025,0,1,0,0,2
 288,2018,156,0,2,"Connecticut","CON","Tigers",20000,34727,22741,0,1,0,0,1
 288,2019,156,0,2,"Connecticut","CON","Tigers",39405,34776,39405,0,0,0,0,3
@@ -5905,6 +6221,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 288,2035,156,0,2,"Connecticut","CON","Tigers",35567,23640,1067,0,0,0,0,4
 288,2036,156,0,2,"Connecticut","CON","Tigers",44567,45327,40957,0,0,0,0,4
 288,2037,156,0,2,"Connecticut","CON","Tigers",35802,45096,43882,0,0,0,0,4
+288,2038,156,0,2,"Connecticut","CON","Tigers",47357,46875,44660,0,0,0,0,4
+288,2039,156,0,2,"Connecticut","CON","Tigers",45508,44411,46682,0,0,0,0,3
 289,2017,156,0,2,"Tri-City","TRI","ValleyCats",19790,23410,19790,0,0,0,0,4
 289,2018,156,0,2,"Tri-City","TRI","ValleyCats",19912,36757,19912,0,0,0,0,2
 289,2019,156,0,2,"Tri-City","TRI","ValleyCats",35502,135,35502,0,1,0,0,1
@@ -5926,6 +6244,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 289,2035,156,0,2,"Tri-City","TRI","ValleyCats",42893,44645,44410,0,0,0,0,3
 289,2036,156,0,2,"Tri-City","TRI","ValleyCats",24022,38045,44066,0,0,0,0,3
 289,2037,156,0,2,"Tri-City","TRI","ValleyCats",1512,23467,42075,0,0,0,0,2
+289,2038,156,0,2,"Tri-City","TRI","ValleyCats",19632,44407,43,0,0,0,0,2
+289,2039,156,0,2,"Tri-City","TRI","ValleyCats",46167,45904,21181,0,1,0,0,1
 290,2017,156,0,2,"Vermont","VER","Lake Monsters",25268,19186,19652,0,1,0,0,1
 290,2018,156,0,2,"Vermont","VER","Lake Monsters",23100,19438,23100,0,0,0,0,4
 290,2019,156,0,2,"Vermont","VER","Lake Monsters",19858,1911,19858,0,0,0,0,2
@@ -5947,6 +6267,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 290,2035,156,0,2,"Vermont","VER","Lake Monsters",20392,41804,42062,0,1,0,0,2
 290,2036,156,0,2,"Vermont","VER","Lake Monsters",44210,20413,43419,0,1,0,0,1
 290,2037,156,0,2,"Vermont","VER","Lake Monsters",38402,45116,34165,0,0,0,0,3
+290,2038,156,0,2,"Vermont","VER","Lake Monsters",23081,45517,32327,0,1,0,0,1
+290,2039,156,0,2,"Vermont","VER","Lake Monsters",44354,0,22086,0,0,0,0,4
 291,2017,157,0,0,"Boise","BOI","Hawks",19972,21635,19972,0,0,0,0,4
 291,2018,157,0,0,"Boise","BOI","Hawks",1660,36660,1660,0,1,0,0,1
 291,2019,157,0,0,"Boise","BOI","Hawks",1660,36656,18672,0,0,0,0,2
@@ -5968,6 +6290,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 291,2035,157,0,0,"Boise","BOI","Hawks",41969,41192,42915,0,0,0,0,4
 291,2036,157,0,0,"Boise","BOI","Hawks",33105,36325,1496,0,0,0,0,4
 291,2037,157,0,0,"Boise","BOI","Hawks",33105,36325,39930,0,0,0,0,2
+291,2038,157,0,0,"Boise","BOI","Hawks",38400,38142,43768,0,1,0,0,1
+291,2039,157,0,0,"Boise","BOI","Hawks",24245,38142,41420,0,0,0,0,2
 292,2017,157,0,0,"Spokane","SPO","Indians",35337,36127,35337,0,0,0,0,2
 292,2018,157,0,0,"Spokane","SPO","Indians",25116,1215,15193,0,0,0,0,3
 292,2019,157,0,0,"Spokane","SPO","Indians",23812,28289,23812,0,1,1,0,1
@@ -5989,6 +6313,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 292,2035,157,0,0,"Spokane","SPO","Indians",39484,39556,19286,0,0,0,0,2
 292,2036,157,0,0,"Spokane","SPO","Indians",37680,42862,44761,0,1,0,0,1
 292,2037,157,0,0,"Spokane","SPO","Indians",38086,45914,44616,0,0,0,0,3
+292,2038,157,0,0,"Spokane","SPO","Indians",24570,31649,191,0,0,0,0,2
+292,2039,157,0,0,"Spokane","SPO","Indians",41671,22592,40848,0,1,1,0,1
 293,2017,157,0,0,"Tri-City","TRC","Dust Devils",1312,22661,1312,0,1,1,0,1
 293,2018,157,0,0,"Tri-City","TRC","Dust Devils",27262,22486,27262,0,0,0,0,2
 293,2019,157,0,0,"Tri-City","TRC","Dust Devils",2066,21630,20253,0,0,0,0,4
@@ -6010,6 +6336,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 293,2035,157,0,0,"Tri-City","TRC","Dust Devils",19474,44473,44295,0,0,0,0,3
 293,2036,157,0,0,"Tri-City","TRC","Dust Devils",18178,43272,42718,0,0,0,0,3
 293,2037,157,0,0,"Tri-City","TRC","Dust Devils",20147,44151,2095,0,0,0,0,4
+293,2038,157,0,0,"Tri-City","TRC","Dust Devils",1510,46229,2095,0,0,0,0,3
+293,2039,157,0,0,"Tri-City","TRC","Dust Devils",47317,644,1713,0,0,0,0,3
 294,2017,157,0,0,"Hillsboro","HIL","Hops",34397,35196,34397,0,0,0,0,3
 294,2018,157,0,0,"Hillsboro","HIL","Hops",39879,34704,39879,0,0,0,0,4
 294,2019,157,0,0,"Hillsboro","HIL","Hops",21360,343,21360,0,0,0,0,3
@@ -6031,6 +6359,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 294,2035,157,0,0,"Hillsboro","HIL","Hops",42556,20186,35179,0,1,1,0,1
 294,2036,157,0,0,"Hillsboro","HIL","Hops",973,36072,45193,0,0,0,0,2
 294,2037,157,0,0,"Hillsboro","HIL","Hops",19196,1303,740,0,1,1,0,1
+294,2038,157,0,0,"Hillsboro","HIL","Hops",45753,42988,42829,0,0,0,0,4
+294,2039,157,0,0,"Hillsboro","HIL","Hops",19761,38629,42883,0,0,0,0,4
 295,2017,157,0,1,"Eugene","EUG","Emeralds",1652,34988,21605,0,1,0,0,1
 295,2018,157,0,1,"Eugene","EUG","Emeralds",19997,32970,19997,0,1,1,0,1
 295,2019,157,0,1,"Eugene","EUG","Emeralds",38989,34468,38989,0,1,0,0,1
@@ -6052,6 +6382,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 295,2035,157,0,1,"Eugene","EUG","Emeralds",40033,37937,33571,0,0,0,0,4
 295,2036,157,0,1,"Eugene","EUG","Emeralds",42331,37514,33240,0,0,0,0,2
 295,2037,157,0,1,"Eugene","EUG","Emeralds",43961,22929,33129,0,1,0,0,1
+295,2038,157,0,1,"Eugene","EUG","Emeralds",43148,23078,20966,0,0,0,0,4
+295,2039,157,0,1,"Eugene","EUG","Emeralds",24076,45151,41665,0,0,0,0,3
 296,2017,157,0,1,"Everett","EVE","AquaSox",931,35970,931,0,0,0,0,4
 296,2018,157,0,1,"Everett","EVE","AquaSox",34921,22981,34921,0,0,0,0,4
 296,2019,157,0,1,"Everett","EVE","AquaSox",20725,24500,20725,0,0,0,0,3
@@ -6073,6 +6405,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 296,2035,157,0,1,"Everett","EVE","AquaSox",202,41219,39712,0,0,0,0,2
 296,2036,157,0,1,"Everett","EVE","AquaSox",21204,44041,39712,0,0,0,0,4
 296,2037,157,0,1,"Everett","EVE","AquaSox",813,462,1798,0,0,0,0,4
+296,2038,157,0,1,"Everett","EVE","AquaSox",20770,19379,4,0,1,1,0,1
+296,2039,157,0,1,"Everett","EVE","AquaSox",46031,45,25185,0,0,0,0,2
 297,2017,157,0,1,"Salem-Keizer","SKE","Volcanoes",102,33708,36177,0,0,0,0,2
 297,2018,157,0,1,"Salem-Keizer","SKE","Volcanoes",19544,1148,19544,0,0,0,0,3
 297,2019,157,0,1,"Salem-Keizer","SKE","Volcanoes",2052,38346,20031,0,0,0,0,2
@@ -6094,6 +6428,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 297,2035,157,0,1,"Salem-Keizer","SKE","Volcanoes",35890,2093,38074,0,1,0,0,1
 297,2036,157,0,1,"Salem-Keizer","SKE","Volcanoes",20247,44781,44690,0,1,1,0,1
 297,2037,157,0,1,"Salem-Keizer","SKE","Volcanoes",23217,21001,635,0,0,0,0,2
+297,2038,157,0,1,"Salem-Keizer","SKE","Volcanoes",44400,517,38424,0,0,0,0,3
+297,2039,157,0,1,"Salem-Keizer","SKE","Volcanoes",46632,19252,43991,0,1,0,0,1
 298,2017,157,0,1,"Vancouver","VAN","Canadians",219,27433,27928,0,0,0,0,3
 298,2018,157,0,1,"Vancouver","VAN","Canadians",35323,38424,20125,0,0,0,0,2
 298,2019,157,0,1,"Vancouver","VAN","Canadians",37871,20875,20875,0,0,0,0,4
@@ -6115,6 +6451,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 298,2035,157,0,1,"Vancouver","VAN","Canadians",19903,43614,40254,0,0,0,0,3
 298,2036,157,0,1,"Vancouver","VAN","Canadians",21003,41682,35633,0,0,0,0,3
 298,2037,157,0,1,"Vancouver","VAN","Canadians",1471,1325,44442,0,0,0,0,3
+298,2038,157,0,1,"Vancouver","VAN","Canadians",19264,20062,1682,0,0,0,0,2
+298,2039,157,0,1,"Vancouver","VAN","Canadians",42498,44503,43748,0,0,0,0,4
 299,2017,158,0,0,"Bluefield","BLU","Blue Jays",27841,2029,2029,0,0,0,0,5
 299,2018,158,0,0,"Bluefield","BLU","Blue Jays",253,23303,253,0,0,0,0,4
 299,2019,158,0,0,"Bluefield","BLU","Blue Jays",38240,21176,38240,0,0,0,0,4
@@ -6136,6 +6474,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 299,2035,158,0,0,"Bluefield","BLU","Blue Jays",36075,42830,20677,0,0,0,0,4
 299,2036,158,0,0,"Bluefield","BLU","Blue Jays",26161,44466,43569,0,0,0,0,2
 299,2037,158,0,0,"Bluefield","BLU","Blue Jays",1823,45219,39681,0,0,0,0,4
+299,2038,158,0,0,"Bluefield","BLU","Blue Jays",1368,44639,46448,0,0,0,0,4
+299,2039,158,0,0,"Bluefield","BLU","Blue Jays",46550,46955,45932,0,0,0,0,2
 300,2017,158,0,0,"Burlington","BUR","Royals",39759,21108,21108,0,0,0,0,4
 300,2018,158,0,0,"Burlington","BUR","Royals",39331,21080,39331,0,0,0,0,5
 300,2019,158,0,0,"Burlington","BUR","Royals",39331,22350,22350,0,0,0,0,2
@@ -6157,6 +6497,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 300,2035,158,0,0,"Burlington","BUR","Royals",41561,38051,42795,0,1,1,0,1
 300,2036,158,0,0,"Burlington","BUR","Royals",20924,39297,45312,0,0,0,0,5
 300,2037,158,0,0,"Burlington","BUR","Royals",1120,43885,22622,0,0,0,0,3
+300,2038,158,0,0,"Burlington","BUR","Royals",20924,23601,28529,0,0,0,0,2
+300,2039,158,0,0,"Burlington","BUR","Royals",20924,26818,37531,0,1,1,0,1
 301,2017,158,0,0,"Danville","DAN","Braves",20420,27283,20420,0,1,0,0,1
 301,2018,158,0,0,"Danville","DAN","Braves",812,21256,27009,0,1,0,0,1
 301,2019,158,0,0,"Danville","DAN","Braves",27960,19918,21127,0,0,0,0,3
@@ -6178,6 +6520,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 301,2035,158,0,0,"Knoxville","KNO","Silverbacks",38330,40225,33545,0,0,0,0,5
 301,2036,158,0,0,"Knoxville","KNO","Silverbacks",38330,36384,23685,0,0,0,0,4
 301,2037,158,0,0,"Knoxville","KNO","Silverbacks",46768,43609,40387,0,0,0,0,5
+301,2038,158,0,0,"Knoxville","KNO","Silverbacks",45364,46359,40387,0,0,0,0,5
+301,2039,158,0,0,"Knoxville","KNO","Silverbacks",43812,40375,45591,0,0,0,0,5
 302,2017,158,0,0,"Pulaski","PUL","Yankees",19487,24031,19487,0,0,0,0,3
 302,2018,158,0,0,"Pulaski","PUL","Yankees",24173,21945,21945,0,0,0,0,2
 302,2019,158,0,0,"Pulaski","PUL","Yankees",24173,34231,39058,0,1,1,0,1
@@ -6199,6 +6543,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 302,2035,158,0,0,"Pulaski","PUL","Yankees",40169,40847,2170,0,0,0,0,3
 302,2036,158,0,0,"Pulaski","PUL","Yankees",37950,40274,28827,0,0,0,0,3
 302,2037,158,0,0,"Pulaski","PUL","Yankees",45067,41710,44897,0,0,0,0,2
+302,2038,158,0,0,"Pulaski","PUL","Yankees",38358,23981,41659,0,0,0,0,3
+302,2039,158,0,0,"Pulaski","PUL","Yankees",45427,40159,49194,0,0,0,0,3
 303,2017,158,0,0,"Princeton","PRI","Rays",23878,20137,23878,0,0,0,0,2
 303,2018,158,0,0,"Princeton","PRI","Rays",39846,39326,39846,0,0,0,0,3
 303,2019,158,0,0,"Princeton","PRI","Rays",38999,39326,38999,0,0,0,0,5
@@ -6220,6 +6566,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 303,2035,158,0,0,"Princeton","PRI","Rays",42114,42732,20053,0,0,0,0,2
 303,2036,158,0,0,"Princeton","PRI","Rays",19393,41692,41034,0,1,1,0,1
 303,2037,158,0,0,"Princeton","PRI","Rays",36804,40000,20053,0,1,1,0,1
+303,2038,158,0,0,"Princeton","PRI","Rays",36804,38425,41612,0,1,1,0,1
+303,2039,158,0,0,"Princeton","PRI","Rays",277,44937,49671,0,0,0,0,4
 304,2017,158,0,1,"Greeneville","GRE","Astros",21493,39773,21493,0,0,0,0,2
 304,2018,158,0,1,"Greeneville","GRE","Astros",34622,26829,35502,0,0,0,0,2
 304,2019,158,0,1,"Greeneville","GRE","Astros",28370,39435,35189,0,1,0,0,1
@@ -6241,6 +6589,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 304,2035,158,0,1,"Greeneville","GRE","Astros",33619,40654,44145,0,0,0,0,2
 304,2036,158,0,1,"Greeneville","GRE","Astros",42386,42117,43113,0,0,0,0,2
 304,2037,158,0,1,"Greeneville","GRE","Astros",36177,43851,43830,0,1,0,0,1
+304,2038,158,0,1,"Greeneville","GRE","Astros",41318,39877,46201,0,0,0,0,2
+304,2039,158,0,1,"Greeneville","GRE","Astros",19220,45267,43199,0,0,0,0,2
 305,2017,158,0,1,"Bristol","BRI","Pirates",19474,20530,19474,0,0,0,0,3
 305,2018,158,0,1,"Bristol","BRI","Pirates",19474,39874,1351,0,0,0,0,5
 305,2019,158,0,1,"Bristol","BRI","Pirates",1351,471,20656,0,0,0,0,5
@@ -6262,6 +6612,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 305,2035,158,0,1,"Bristol","BRI","Pirates",40186,42900,39616,0,1,0,0,1
 305,2036,158,0,1,"Bristol","BRI","Pirates",40532,20457,35952,0,1,0,0,1
 305,2037,158,0,1,"Bristol","BRI","Pirates",35598,43038,1682,0,0,0,0,2
+305,2038,158,0,1,"Bristol","BRI","Pirates",23472,44534,1030,0,1,0,0,1
+305,2039,158,0,1,"Bristol","BRI","Pirates",45450,46227,38920,0,1,0,0,1
 306,2017,158,0,1,"Elizabethton","ELI","Twins",20607,39298,39298,0,1,1,0,1
 306,2018,158,0,1,"Elizabethton","ELI","Twins",26583,36344,20436,0,1,1,0,1
 306,2019,158,0,1,"Elizabethton","ELI","Twins",1338,38254,27719,0,0,0,0,2
@@ -6283,6 +6635,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 306,2035,158,0,1,"Elizabethton","ELI","Twins",25628,22273,40580,0,0,0,0,3
 306,2036,158,0,1,"Elizabethton","ELI","Twins",25628,40200,21309,0,0,0,0,3
 306,2037,158,0,1,"Elizabethton","ELI","Twins",39177,38894,42177,0,0,0,0,3
+306,2038,158,0,1,"Elizabethton","ELI","Twins",1755,40785,45021,0,0,0,0,3
+306,2039,158,0,1,"Elizabethton","ELI","Twins",44251,46296,39548,0,0,0,0,3
 307,2017,158,0,1,"Johnson City","JOH","Cardinals",19672,28352,19672,0,0,0,0,5
 307,2018,158,0,1,"Johnson City","JOH","Cardinals",21514,1577,21514,0,0,0,0,4
 307,2019,158,0,1,"Johnson City","JOH","Cardinals",19245,20883,19245,0,0,0,0,3
@@ -6304,6 +6658,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 307,2035,158,0,1,"Johnson City","JOH","Cardinals",38880,1423,43157,0,0,0,0,4
 307,2036,158,0,1,"Johnson City","JOH","Cardinals",40725,0,1006,0,0,0,0,5
 307,2037,158,0,1,"Johnson City","JOH","Cardinals",2099,38228,46149,0,0,0,0,4
+307,2038,158,0,1,"Johnson City","JOH","Cardinals",41862,0,44136,0,0,0,0,5
+307,2039,158,0,1,"Johnson City","JOH","Cardinals",21479,0,43690,0,0,0,0,4
 308,2017,158,0,1,"Kingsport","KIN","Mets",38506,35124,38506,0,0,0,0,4
 308,2018,158,0,1,"Kingsport","KIN","Mets",1555,1581,39240,0,0,0,0,3
 308,2019,158,0,1,"Kingsport","KIN","Mets",38938,38920,38938,0,0,0,0,4
@@ -6325,6 +6681,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 308,2035,158,0,1,"Kingsport","KIN","Mets",20841,40163,21024,0,0,0,0,5
 308,2036,158,0,1,"Kingsport","KIN","Mets",19806,35653,32823,0,0,0,0,4
 308,2037,158,0,1,"Kingsport","KIN","Mets",44995,971,45453,0,0,0,0,5
+308,2038,158,0,1,"Kingsport","KIN","Mets",2021,45177,21112,0,0,0,0,4
+308,2039,158,0,1,"Kingsport","KIN","Mets",34599,845,51029,0,0,0,0,5
 309,2017,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",39050,20048,39050,0,0,0,0,3
 309,2018,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",39074,21963,39074,0,0,0,0,4
 309,2019,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",25883,24108,38990,0,0,0,0,5
@@ -6346,6 +6704,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 309,2035,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",40366,34405,40632,0,1,0,0,1
 309,2036,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",23987,34405,38604,0,0,0,0,2
 309,2037,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",40501,21815,22559,0,0,0,0,4
+309,2038,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",22133,20176,44907,0,0,0,0,3
+309,2039,159,0,1,"Milwaukee (AZL)","AMIL","Brewers",46321,46360,20069,0,1,0,0,1
 310,2017,159,0,2,"Texas (AZL)","ATEX","Rangers",20509,21784,21784,0,1,1,0,2
 310,2018,159,0,2,"Texas (AZL)","ATEX","Rangers",19703,19818,19818,0,0,0,0,2
 310,2019,159,0,2,"Texas (AZL)","ATEX","Rangers",19973,24009,38888,0,1,0,0,1
@@ -6367,6 +6727,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 310,2035,159,0,2,"Texas (AZL)","ATEX","Rangers",34661,42217,1388,0,1,0,0,1
 310,2036,159,0,2,"Texas (AZL)","ATEX","Rangers",37573,44850,41155,0,1,0,0,1
 310,2037,159,0,2,"Texas (AZL)","ATEX","Rangers",30677,43729,1871,0,1,1,0,1
+310,2038,159,0,2,"Texas (AZL)","ATEX","Rangers",43303,42528,43589,0,1,1,0,1
+310,2039,159,0,2,"Texas (AZL)","ATEX","Rangers",43640,45685,43589,0,1,1,0,1
 312,2017,159,0,0,"Chicago N (AZL)","ACHN","Cubs",34312,1984,1984,0,0,0,0,4
 312,2018,159,0,0,"Chicago N (AZL)","ACHN","Cubs",34436,20733,20733,0,1,0,0,2
 312,2019,159,0,0,"Chicago N (AZL)","ACHN","Cubs",19702,1329,1329,0,1,1,0,2
@@ -6388,6 +6750,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 312,2035,159,0,0,"Chicago N (AZL)","ACHN","Cubs",33493,19876,42923,0,0,0,0,5
 312,2036,159,0,0,"Chicago N (AZL)","ACHN","Cubs",42923,20115,36545,0,1,0,0,1
 312,2037,159,0,0,"Chicago N (AZL)","ACHN","Cubs",33493,219,20950,0,1,0,0,1
+312,2038,159,0,0,"Chicago N (AZL)","ACHN","Cubs",39333,2082,31448,0,0,0,0,5
+312,2039,159,0,0,"Chicago N (AZL)","ACHN","Cubs",1585,45616,40046,0,0,0,0,2
 313,2017,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",39397,2034,2034,0,0,0,0,2
 313,2018,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",19813,2034,1325,0,1,1,0,1
 313,2019,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",1325,1923,35368,0,1,0,0,1
@@ -6409,6 +6773,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 313,2035,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",42447,36530,42082,0,0,0,0,4
 313,2036,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",21868,44957,19726,0,0,0,0,3
 313,2037,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",45046,45291,27922,0,0,0,0,3
+313,2038,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",36852,45464,19816,0,0,0,0,4
+313,2039,159,0,0,"Los Angeles A (AZL)","ALAA","Angels",38981,1894,43893,0,0,0,0,5
 314,2017,159,0,2,"Seattle (AZL)","ASEA","Mariners",28208,27482,23587,0,0,0,0,3
 314,2018,159,0,2,"Seattle (AZL)","ASEA","Mariners",19476,19301,19476,0,1,0,0,1
 314,2019,159,0,2,"Seattle (AZL)","ASEA","Mariners",2061,1588,21150,0,0,0,0,2
@@ -6430,6 +6796,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 314,2035,159,0,2,"Seattle (AZL)","ASEA","Mariners",36619,936,41915,0,1,0,0,2
 314,2036,159,0,2,"Seattle (AZL)","ASEA","Mariners",44532,27580,22629,0,0,0,0,3
 314,2037,159,0,2,"Seattle (AZL)","ASEA","Mariners",45029,23513,1749,0,0,0,0,3
+314,2038,159,0,2,"Seattle (AZL)","ASEA","Mariners",44372,19897,42165,0,0,0,0,3
+314,2039,159,0,2,"Seattle (AZL)","ASEA","Mariners",38097,45632,39519,0,0,0,0,4
 315,2017,159,0,0,"Oakland (AZL)","AOAK","Athletics",1277,1320,1277,0,1,0,0,1
 315,2018,159,0,0,"Oakland (AZL)","AOAK","Athletics",1359,1956,1359,0,0,0,0,4
 315,2019,159,0,0,"Oakland (AZL)","AOAK","Athletics",20802,25397,20802,0,0,0,0,5
@@ -6451,6 +6819,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 315,2035,159,0,0,"Oakland (AZL)","AOAK","Athletics",41404,42906,23801,0,0,0,0,3
 315,2036,159,0,0,"Oakland (AZL)","AOAK","Athletics",40441,36382,36382,0,0,0,0,4
 315,2037,159,0,0,"Oakland (AZL)","AOAK","Athletics",22086,0,25318,0,0,0,0,5
+315,2038,159,0,0,"Oakland (AZL)","AOAK","Athletics",22086,0,18741,0,0,0,0,2
+315,2039,159,0,0,"Oakland (AZL)","AOAK","Athletics",45066,0,47436,0,0,0,0,3
 316,2017,159,0,0,"San Francisco (AZL)","ASF","Giants",34569,1270,34672,0,0,0,0,3
 316,2018,159,0,0,"San Francisco (AZL)","ASF","Giants",20031,1678,1678,0,0,0,0,3
 316,2019,159,0,0,"San Francisco (AZL)","ASF","Giants",20309,19921,23918,0,0,0,0,3
@@ -6472,6 +6842,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 316,2035,159,0,0,"San Francisco (AZL)","ASF","Giants",34213,43775,42651,0,0,0,0,2
 316,2036,159,0,0,"San Francisco (AZL)","ASF","Giants",35753,43758,44698,0,0,0,0,2
 316,2037,159,0,0,"San Francisco (AZL)","ASF","Giants",188,35389,862,0,0,0,0,2
+316,2038,159,0,0,"San Francisco (AZL)","ASF","Giants",44994,46737,47152,0,1,0,0,1
+316,2039,159,0,0,"San Francisco (AZL)","ASF","Giants",20286,46737,45968,0,1,0,0,1
 317,2017,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",23921,19308,19308,0,0,0,0,4
 317,2018,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",38918,20754,19892,0,1,0,0,1
 317,2019,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",26704,1607,1607,0,1,0,0,1
@@ -6493,6 +6865,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 317,2035,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",42375,42831,46152,0,0,0,0,2
 317,2036,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",23507,42429,47265,0,0,0,0,5
 317,2037,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",46195,45248,25763,0,0,0,0,5
+317,2038,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",45548,45546,42676,0,0,0,0,4
+317,2039,159,0,1,"Los Angeles N (AZL)","ALAD","Dodgers",44860,46674,46742,0,0,0,0,2
 318,2017,160,0,2,"Washington (GCL)","GWAS","Nationals",1208,39870,20749,0,1,0,0,1
 318,2018,160,0,2,"Washington (GCL)","GWAS","Nationals",20130,38892,20130,0,0,0,0,3
 318,2019,160,0,2,"Washington (GCL)","GWAS","Nationals",34950,1578,23832,0,1,0,0,2
@@ -6514,6 +6888,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 318,2035,160,0,2,"Washington (GCL)","GWAS","Nationals",39837,34462,19893,0,0,0,0,2
 318,2036,160,0,2,"Washington (GCL)","GWAS","Nationals",42847,43501,34289,0,1,0,0,2
 318,2037,160,0,2,"Washington (GCL)","GWAS","Nationals",41475,1609,21702,0,0,0,0,3
+318,2038,160,0,2,"Washington (GCL)","GWAS","Nationals",20943,43501,43918,0,0,0,0,2
+318,2039,160,0,2,"Washington (GCL)","GWAS","Nationals",50245,31966,41332,0,1,0,0,2
 319,2017,160,0,2,"Miami (GCL)","JUPM","Marlins",26969,19192,19192,0,1,0,0,2
 319,2018,160,0,2,"Miami (GCL)","JUPM","Marlins",20430,1249,1249,0,1,0,0,1
 319,2019,160,0,2,"Miami (GCL)","JUPM","Marlins",18727,19608,39006,0,1,0,0,1
@@ -6535,6 +6911,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 319,2035,160,0,2,"Miami (GCL)","JUPM","Marlins",38841,44985,44722,0,1,0,0,1
 319,2036,160,0,2,"Miami (GCL)","JUPM","Marlins",20772,44740,34016,0,1,0,0,1
 319,2037,160,0,2,"Miami (GCL)","JUPM","Marlins",1563,46059,22486,0,1,0,0,1
+319,2038,160,0,2,"Miami (GCL)","JUPM","Marlins",45076,46073,45229,0,1,0,0,1
+319,2039,160,0,2,"Miami (GCL)","JUPM","Marlins",918,22044,626,0,1,1,0,1
 320,2017,160,0,2,"St. Louis (GCL)","GSL","Cardinals",25515,37878,25515,0,0,0,0,3
 320,2018,160,0,2,"St. Louis (GCL)","GSL","Cardinals",39827,20866,39827,0,0,0,0,2
 320,2019,160,0,2,"St. Louis (GCL)","GSL","Cardinals",1716,19715,20599,0,0,0,0,4
@@ -6556,6 +6934,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 320,2035,160,0,2,"St. Louis (GCL)","GSL","Cardinals",44864,1941,46243,0,0,0,0,3
 320,2036,160,0,2,"St. Louis (GCL)","GSL","Cardinals",46149,0,46426,0,0,0,0,3
 320,2037,160,0,2,"St. Louis (GCL)","GSL","Cardinals",23746,0,42917,0,1,0,0,2
+320,2038,160,0,2,"St. Louis (GCL)","GSL","Cardinals",46660,0,22920,0,0,0,0,3
+320,2039,160,0,2,"St. Louis (GCL)","GSL","Cardinals",43695,0,49939,0,0,0,0,3
 322,2017,160,0,1,"Atlanta (GCL)","GATL","Braves",1201,19314,19314,0,1,1,0,1
 322,2018,160,0,1,"Atlanta (GCL)","GATL","Braves",1049,24816,1049,0,1,0,0,3
 322,2019,160,0,1,"Atlanta (GCL)","GATL","Braves",1049,20053,28294,0,1,0,0,1
@@ -6577,6 +6957,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 322,2035,160,0,1,"Jacksonville","GJAX","Cottonmouths",46764,19403,352,0,0,0,0,4
 322,2036,160,0,1,"Jacksonville","GJAX","Cottonmouths",46557,44933,46033,0,0,0,0,3
 322,2037,160,0,1,"Jacksonville","GJAX","Cottonmouths",45364,39453,45901,0,0,0,0,2
+322,2038,160,0,1,"Jacksonville","GJAX","Cottonmouths",19610,39453,46914,0,0,0,0,3
+322,2039,160,0,1,"Jacksonville","GJAX","Cottonmouths",44283,43095,14041,0,0,0,0,3
 323,2017,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",23883,38304,37785,0,0,0,0,5
 323,2018,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",19174,20915,19174,0,0,0,0,4
 323,2019,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",23922,23078,39053,0,1,0,0,3
@@ -6598,6 +6980,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 323,2035,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",42868,34752,1834,0,1,0,0,1
 323,2036,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",39871,2042,1106,0,1,1,0,1
 323,2037,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",45259,45236,34149,0,1,0,0,2
+323,2038,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",22512,47244,21237,0,1,0,0,2
+323,2039,160,0,0,"Philadelphia (GCL)","GPHI","Phillies",32667,45002,23340,0,1,0,0,2
 324,2017,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",39411,17938,39411,0,0,0,0,4
 324,2018,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",39927,21844,38240,0,1,0,0,2
 324,2019,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",15069,20379,15069,0,1,0,0,1
@@ -6619,6 +7003,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 324,2035,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",35633,33802,44442,0,1,0,0,2
 324,2036,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",41631,1325,44794,0,1,0,0,3
 324,2037,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",43196,24481,44076,0,1,0,0,3
+324,2038,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",42498,33516,46983,0,1,0,0,3
+324,2039,160,0,0,"Toronto (GCL)","GTOR","Blue Jays",36412,39265,41325,0,1,0,0,3
 325,2017,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",27492,2104,27492,0,1,0,0,2
 325,2018,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",805,1714,23376,0,1,1,0,1
 325,2019,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",1726,1504,1726,0,1,0,0,2
@@ -6640,6 +7026,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 325,2035,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",39936,20867,21358,0,0,0,0,2
 325,2036,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",38659,20895,45922,0,0,0,0,2
 325,2037,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",40594,1954,42960,0,0,0,0,3
+325,2038,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",45508,26359,45508,0,1,0,0,1
+325,2039,160,0,1,"Detroit E (GCL)","GDEE","Tigers East",39875,47146,41778,0,1,0,0,1
 326,2017,160,0,0,"New York A E (GCL)","GNYE","Yankees East",20129,2003,2003,0,0,0,0,3
 326,2018,160,0,0,"New York A E (GCL)","GNYE","Yankees East",2073,34317,2073,0,1,0,0,1
 326,2019,160,0,0,"New York A E (GCL)","GNYE","Yankees East",1882,19716,38524,0,1,1,0,2
@@ -6661,6 +7049,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 326,2035,160,0,0,"New York A E (GCL)","GNYE","Yankees East",27856,19742,41670,0,1,0,0,3
 326,2036,160,0,0,"New York A E (GCL)","GNYE","Yankees East",44573,19742,37735,0,0,0,0,4
 326,2037,160,0,0,"New York A E (GCL)","GNYE","Yankees East",46953,21889,19674,0,0,0,0,4
+326,2038,160,0,0,"New York A E (GCL)","GNYE","Yankees East",38977,19174,38977,0,0,0,0,5
+326,2039,160,0,0,"New York A E (GCL)","GNYE","Yankees East",44618,23347,49844,0,0,0,0,5
 327,2017,159,0,1,"Cleveland (AZL)","ACLE","Indians",24092,1697,1697,0,1,0,0,1
 327,2018,159,0,1,"Cleveland (AZL)","ACLE","Indians",20399,1228,20399,0,0,0,0,3
 327,2019,159,0,1,"Cleveland (AZL)","ACLE","Indians",20399,19719,19391,0,0,0,0,3
@@ -6682,6 +7072,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 327,2035,159,0,1,"Cleveland (AZL)","ACLE","Indians",41884,43573,43982,0,0,0,0,4
 327,2036,159,0,1,"Cleveland (AZL)","ACLE","Indians",41884,20482,47032,0,0,0,0,3
 327,2037,159,0,1,"Cleveland (AZL)","ACLE","Indians",20776,39173,47475,0,0,0,0,3
+327,2038,159,0,1,"Cleveland (AZL)","ACLE","Indians",764,1307,35504,0,0,0,0,5
+327,2039,159,0,1,"Cleveland (AZL)","ACLE","Indians",764,27772,35407,0,0,0,0,4
 328,2017,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",20678,26954,26954,0,0,0,0,2
 328,2018,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",22867,38931,20656,0,0,0,0,5
 328,2019,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",24604,39822,27994,0,0,0,0,4
@@ -6703,6 +7095,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 328,2035,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",35598,40171,46227,0,1,0,0,4
 328,2036,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",39753,20989,46227,0,1,0,0,2
 328,2037,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",43065,45056,40703,0,1,0,0,1
+328,2038,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",46563,31670,40703,0,1,0,0,1
+328,2039,160,0,0,"Pittsburgh (GCL)","GPIT","Pirates",46563,43317,41766,0,1,0,0,1
 329,2017,159,0,1,"Cincinnati (AZL)","ACIN","Reds",25869,27917,27917,0,0,0,0,2
 329,2018,159,0,1,"Cincinnati (AZL)","ACIN","Reds",23059,2082,2082,0,0,0,0,2
 329,2019,159,0,1,"Cincinnati (AZL)","ACIN","Reds",37958,23065,37958,0,0,0,0,2
@@ -6724,6 +7118,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 329,2035,159,0,1,"Cincinnati (AZL)","ACIN","Reds",34776,39105,46164,0,0,0,0,3
 329,2036,159,0,1,"Cincinnati (AZL)","ACIN","Reds",45172,41064,49,0,0,0,0,4
 329,2037,159,0,1,"Cincinnati (AZL)","ACIN","Reds",40460,37558,44621,0,1,0,0,1
+329,2038,159,0,1,"Cincinnati (AZL)","ACIN","Reds",40460,41064,46176,0,1,0,0,1
+329,2039,159,0,1,"Cincinnati (AZL)","ACIN","Reds",20668,1520,98,0,0,0,0,5
 330,2017,160,0,3,"Boston (GCL)","GBOS","Red Sox",20634,1280,27799,0,0,0,0,4
 330,2018,160,0,3,"Boston (GCL)","GBOS","Red Sox",680,39299,680,0,0,0,0,4
 330,2019,160,0,3,"Boston (GCL)","GBOS","Red Sox",27799,22253,22066,0,0,0,0,3
@@ -6745,6 +7141,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 330,2035,160,0,3,"Boston (GCL)","GBOS","Red Sox",39786,23589,24477,0,1,1,0,1
 330,2036,160,0,3,"Boston (GCL)","GBOS","Red Sox",42176,22542,21154,0,1,0,0,1
 330,2037,160,0,3,"Boston (GCL)","GBOS","Red Sox",34966,41284,42551,0,1,0,0,2
+330,2038,160,0,3,"Boston (GCL)","GBOS","Red Sox",45667,42551,42551,0,1,0,0,2
+330,2039,160,0,3,"Boston (GCL)","GBOS","Red Sox",35029,365,27374,0,1,0,0,1
 331,2017,160,0,3,"Minnesota (GCL)","GMIN","Twins",976,19586,20617,0,1,0,0,2
 331,2018,160,0,3,"Minnesota (GCL)","GMIN","Twins",19551,35992,21459,0,1,0,0,1
 331,2019,160,0,3,"Minnesota (GCL)","GMIN","Twins",20938,21843,1719,0,0,0,0,2
@@ -6766,6 +7164,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 331,2035,160,0,3,"Minnesota (GCL)","GMIN","Twins",40948,36400,40980,0,1,0,0,2
 331,2036,160,0,3,"Minnesota (GCL)","GMIN","Twins",19482,1932,45021,0,0,0,0,3
 331,2037,160,0,3,"Minnesota (GCL)","GMIN","Twins",46416,1386,39140,0,0,0,0,3
+331,2038,160,0,3,"Minnesota (GCL)","GMIN","Twins",6521,1222,19202,0,0,0,0,3
+331,2039,160,0,3,"Minnesota (GCL)","GMIN","Twins",49838,35269,1281,0,0,0,0,2
 332,2017,160,0,3,"Baltimore (GCL)","GBAL","Orioles",20685,22097,20685,0,1,0,0,1
 332,2018,160,0,3,"Baltimore (GCL)","GBAL","Orioles",38625,220,38625,0,1,0,0,2
 332,2019,160,0,3,"Baltimore (GCL)","GBAL","Orioles",19761,1152,19761,0,1,0,0,1
@@ -6787,6 +7187,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 332,2035,160,0,3,"Baltimore (GCL)","GBAL","Orioles",32332,30802,1684,0,0,0,0,4
 332,2036,160,0,3,"Baltimore (GCL)","GBAL","Orioles",12193,20590,1251,0,0,0,0,4
 332,2037,160,0,3,"Baltimore (GCL)","GBAL","Orioles",303,41964,303,0,0,0,0,4
+332,2038,160,0,3,"Baltimore (GCL)","GBAL","Orioles",46575,43074,45189,0,0,0,0,4
+332,2039,160,0,3,"Baltimore (GCL)","GBAL","Orioles",42159,26837,22808,0,0,0,0,4
 333,2017,161,0,0,"Billings","BIL","Mustangs",27536,27265,27634,0,1,1,0,2
 333,2018,161,0,0,"Billings","BIL","Mustangs",26128,38979,38122,0,1,0,0,1
 333,2019,161,0,0,"Billings","BIL","Mustangs",38122,27012,23059,0,1,0,0,1
@@ -6808,6 +7210,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 333,2035,161,0,0,"Billings","BIL","Mustangs",30353,39772,42168,0,1,0,0,2
 333,2036,161,0,0,"Billings","BIL","Mustangs",42392,27048,34324,0,0,0,0,4
 333,2037,161,0,0,"Billings","BIL","Mustangs",34046,39105,45335,0,1,0,0,1
+333,2038,161,0,0,"Billings","BIL","Mustangs",34776,39345,39128,0,1,1,0,1
+333,2039,161,0,0,"Billings","BIL","Mustangs",41628,45198,44870,0,0,0,0,3
 334,2017,161,0,0,"Great Falls","GFA","Voyagers",40070,1295,40070,0,1,0,0,1
 334,2018,161,0,0,"Great Falls","GFA","Voyagers",25021,2030,35566,0,1,1,0,2
 334,2019,161,0,0,"Great Falls","GFA","Voyagers",1377,36543,1755,0,1,1,0,2
@@ -6829,6 +7233,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 334,2035,161,0,0,"Great Falls","GFA","Voyagers",35027,42965,37512,0,0,0,0,4
 334,2036,161,0,0,"Great Falls","GFA","Voyagers",38070,43879,36843,0,0,0,0,3
 334,2037,161,0,0,"Great Falls","GFA","Voyagers",45065,41233,23211,0,0,0,0,4
+334,2038,161,0,0,"Great Falls","GFA","Voyagers",1470,41029,27334,0,0,0,0,3
+334,2039,161,0,0,"Great Falls","GFA","Voyagers",39997,43320,42606,0,1,0,0,2
 335,2017,161,0,0,"Helena","HEL","Brewers",22742,38593,22742,0,0,0,0,3
 335,2018,161,0,0,"Helena","HEL","Brewers",1961,21500,1961,0,0,0,0,3
 335,2019,161,0,0,"Helena","HEL","Brewers",39050,21087,961,0,0,0,0,4
@@ -6850,6 +7256,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 335,2035,161,0,0,"Helena","HEL","Brewers",44001,40335,38576,0,0,0,0,3
 335,2036,161,0,0,"Helena","HEL","Brewers",33192,40589,32226,0,1,1,0,1
 335,2037,161,0,0,"Helena","HEL","Brewers",33192,34405,27683,0,1,0,0,2
+335,2038,161,0,0,"Helena","HEL","Brewers",35662,36124,35083,0,1,0,0,2
+335,2039,161,0,0,"Helena","HEL","Brewers",22963,40004,35083,0,1,0,0,1
 336,2017,161,0,0,"Missoula","MIS","Osprey",39879,21917,39879,0,0,0,0,4
 336,2018,161,0,0,"Missoula","MIS","Osprey",28308,22063,19835,0,0,0,0,4
 336,2019,161,0,0,"Missoula","MIS","Osprey",20111,21072,21072,0,0,0,0,3
@@ -6871,6 +7279,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 336,2035,161,0,0,"Missoula","MIS","Osprey",41742,43458,36816,0,1,0,0,1
 336,2036,161,0,0,"Missoula","MIS","Osprey",40981,39436,41340,0,1,0,0,2
 336,2037,161,0,0,"Missoula","MIS","Osprey",23213,36690,45241,0,0,0,0,3
+336,2038,161,0,0,"Missoula","MIS","Osprey",19826,43088,19836,0,0,0,0,4
+336,2039,161,0,0,"Missoula","MIS","Osprey",38190,45561,17889,0,0,0,0,4
 337,2017,161,0,1,"Grand Junction","GJ","Rockies",23924,1945,2130,0,0,0,0,3
 337,2018,161,0,1,"Grand Junction","GJ","Rockies",283,1945,1554,0,0,0,0,3
 337,2019,161,0,1,"Grand Junction","GJ","Rockies",28443,1933,39229,0,1,0,0,2
@@ -6892,6 +7302,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 337,2035,161,0,1,"Grand Junction","GJ","Rockies",33105,38142,46845,0,0,0,0,3
 337,2036,161,0,1,"Grand Junction","GJ","Rockies",36711,22527,41845,0,1,0,0,1
 337,2037,161,0,1,"Grand Junction","GJ","Rockies",40904,20484,38582,0,1,1,0,1
+337,2038,161,0,1,"Grand Junction","GJ","Rockies",20622,39800,35032,0,1,0,0,2
+337,2039,161,0,1,"Grand Junction","GJ","Rockies",45610,45654,43804,0,1,1,0,2
 338,2017,161,0,1,"Idaho Falls","IDA","Chukars",20786,23536,23536,0,0,0,0,4
 338,2018,161,0,1,"Idaho Falls","IDA","Chukars",39404,22350,22350,0,0,0,0,4
 338,2019,161,0,1,"Idaho Falls","IDA","Chukars",28244,39850,28244,0,0,0,0,3
@@ -6913,6 +7325,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 338,2035,161,0,1,"Idaho Falls","IDA","Chukars",41227,19305,35204,0,1,0,0,2
 338,2036,161,0,1,"Idaho Falls","IDA","Chukars",23114,23298,23067,0,0,0,0,4
 338,2037,161,0,1,"Idaho Falls","IDA","Chukars",39929,42202,45252,0,0,0,0,4
+338,2038,161,0,1,"Idaho Falls","IDA","Chukars",44818,25022,42535,0,0,0,0,3
+338,2039,161,0,1,"Idaho Falls","IDA","Chukars",46489,25022,39090,0,1,0,0,1
 339,2017,161,0,1,"Ogden","OGD","Raptors",20185,19189,19189,0,1,0,0,2
 339,2018,161,0,1,"Ogden","OGD","Raptors",20416,37246,20416,0,1,0,0,2
 339,2019,161,0,1,"Ogden","OGD","Raptors",22135,20500,1575,0,0,0,0,4
@@ -6934,6 +7348,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 339,2035,161,0,1,"Ogden","OGD","Raptors",41183,38094,41769,0,1,1,0,1
 339,2036,161,0,1,"Ogden","OGD","Raptors",40204,35019,46310,0,0,0,0,3
 339,2037,161,0,1,"Ogden","OGD","Raptors",45036,42429,1545,0,0,0,0,3
+339,2038,161,0,1,"Ogden","OGD","Raptors",40309,42429,46310,0,1,0,0,1
+339,2039,161,0,1,"Ogden","OGD","Raptors",45548,45006,42892,0,0,0,0,3
 340,2017,161,0,1,"Orem","ORM","Owlz",1957,20525,20525,0,1,0,0,1
 340,2018,161,0,1,"Orem","ORM","Owlz",19273,40514,40514,0,1,0,0,1
 340,2019,161,0,1,"Orem","ORM","Owlz",20013,34283,38265,0,1,0,0,1
@@ -6955,6 +7371,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 340,2035,161,0,1,"Orem","ORM","Owlz",40307,36186,41673,0,0,0,0,4
 340,2036,161,0,1,"Orem","ORM","Owlz",41478,23102,26845,0,1,0,0,2
 340,2037,161,0,1,"Orem","ORM","Owlz",21868,38165,40124,0,1,0,0,2
+340,2038,161,0,1,"Orem","ORM","Owlz",39639,40102,44401,0,0,0,0,4
+340,2039,161,0,1,"Orem","ORM","Owlz",41025,40410,45656,0,0,0,0,4
 361,2017,159,0,2,"San Diego 1 (AZL)","ASD1","Padres1",21088,2031,24049,0,0,0,0,4
 361,2018,159,0,2,"San Diego 1 (AZL)","ASD1","Padres1",19201,19445,19201,0,0,0,0,3
 361,2019,159,0,2,"San Diego 1 (AZL)","ASD1","Padres1",21088,2031,2049,0,0,0,0,3
@@ -6976,6 +7394,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 361,2035,159,0,2,"Portland (AZL)","APOR","Lumberjacks",37529,19363,21797,0,0,0,0,4
 361,2036,159,0,2,"Portland (AZL)","APOR","Lumberjacks",40218,28979,20960,0,1,0,0,2
 361,2037,159,0,2,"Portland (AZL)","APOR","Lumberjacks",43701,45093,42467,0,1,0,0,2
+361,2038,159,0,2,"Portland (AZL)","APOR","Lumberjacks",698,20932,43113,0,1,0,0,2
+361,2039,159,0,2,"Portland (AZL)","APOR","Lumberjacks",19310,45132,45650,0,0,0,0,3
 403,2017,160,0,1,"Houston (GCL)","GHOU","Astros",20548,1909,1909,0,1,0,0,3
 403,2018,160,0,1,"Houston (GCL)","GHOU","Astros",19878,21636,21636,0,0,0,0,4
 403,2019,160,0,1,"Houston (GCL)","GHOU","Astros",39793,1690,1690,0,0,0,0,4
@@ -6997,6 +7417,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 403,2035,160,0,1,"Houston (GCL)","GHOU","Astros",41900,39877,42962,0,1,0,0,1
 403,2036,160,0,1,"Houston (GCL)","GHOU","Astros",41900,44988,46226,0,1,0,0,1
 403,2037,160,0,1,"Houston (GCL)","GHOU","Astros",41318,46498,43731,0,1,0,0,1
+403,2038,160,0,1,"Houston (GCL)","GHOU","Astros",47187,41772,23645,0,1,0,0,2
+403,2039,160,0,1,"Houston (GCL)","GHOU","Astros",35976,34916,34648,0,1,0,0,2
 404,2017,160,0,3,"Tampa Bay (GCL)","GTB","Rays",38989,23595,38989,0,0,0,0,3
 404,2018,160,0,3,"Tampa Bay (GCL)","GTB","Rays",20138,20831,199,0,0,0,0,3
 404,2019,160,0,3,"Tampa Bay (GCL)","GTB","Rays",19463,20554,19463,0,0,0,0,4
@@ -7018,6 +7440,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 404,2035,160,0,3,"Tampa Bay (GCL)","GTB","Rays",42389,44193,489,0,0,0,0,3
 404,2036,160,0,3,"Tampa Bay (GCL)","GTB","Rays",36837,43032,46483,0,1,0,0,2
 404,2037,160,0,3,"Tampa Bay (GCL)","GTB","Rays",46155,36606,45641,0,1,1,0,1
+404,2038,160,0,3,"Tampa Bay (GCL)","GTB","Rays",21199,36606,26250,0,1,1,0,1
+404,2039,160,0,3,"Tampa Bay (GCL)","GTB","Rays",28540,37541,22034,0,0,0,0,3
 405,2017,159,0,0,"Arizona (AZL)","AARI","Diamondbacks",23464,1226,1226,0,0,0,0,5
 405,2018,159,0,0,"Arizona (AZL)","AARI","Diamondbacks",19507,19829,19507,0,0,0,0,5
 405,2019,159,0,0,"Arizona (AZL)","AARI","Diamondbacks",39075,756,39075,0,0,0,0,4
@@ -7039,6 +7463,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 405,2035,159,0,0,"Carolina (AZL)","ACAR","Swamp Foxes",1757,42001,40563,0,1,1,0,1
 405,2036,159,0,0,"Carolina (AZL)","ACAR","Swamp Foxes",23213,23003,1586,0,0,0,0,5
 405,2037,159,0,0,"Carolina (AZL)","ACAR","Swamp Foxes",41913,1481,38608,0,0,0,0,4
+405,2038,159,0,0,"Carolina (AZL)","ACAR","Swamp Foxes",19800,19647,34334,0,0,0,0,3
+405,2039,159,0,0,"Carolina (AZL)","ACAR","Swamp Foxes",35038,19836,35140,0,0,0,0,4
 406,2017,160,0,2,"New York N (GCL)","PSL","Mets",39820,21408,21408,0,0,0,0,4
 406,2018,160,0,2,"New York N (GCL)","PSL","Mets",20463,39240,21537,0,0,0,0,4
 406,2019,160,0,2,"New York N (GCL)","PSL","Mets",27229,235,27229,0,0,0,0,3
@@ -7060,6 +7486,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 406,2035,160,0,2,"New York N (GCL)","PSL","Mets",46897,42907,24720,0,0,0,0,4
 406,2036,160,0,2,"New York N (GCL)","PSL","Mets",46890,46883,45262,0,0,0,0,4
 406,2037,160,0,2,"New York N (GCL)","PSL","Mets",46897,37836,20679,0,0,0,0,4
+406,2038,160,0,2,"New York N (GCL)","PSL","Mets",20679,34939,35391,0,0,0,0,4
+406,2039,160,0,2,"New York N (GCL)","PSL","Mets",49841,42051,40094,0,0,0,0,4
 408,2017,160,0,1,"New York A W (GCL)","GNYW","Yankees West",39058,28374,39058,0,0,0,0,4
 408,2018,160,0,1,"New York A W (GCL)","GNYW","Yankees West",39058,22754,22754,0,1,0,0,2
 408,2019,160,0,1,"New York A W (GCL)","GNYW","Yankees West",39017,25326,24029,0,0,0,0,3
@@ -7081,6 +7509,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 408,2035,160,0,1,"New York A W (GCL)","GNYW","Yankees West",44573,736,1935,0,0,0,0,3
 408,2036,160,0,1,"New York A W (GCL)","GNYW","Yankees West",44897,1588,39493,0,0,0,0,4
 408,2037,160,0,1,"New York A W (GCL)","GNYW","Yankees West",20708,1935,38655,0,0,0,0,4
+408,2038,160,0,1,"New York A W (GCL)","GNYW","Yankees West",45376,621,37867,0,0,0,0,4
+408,2039,160,0,1,"New York A W (GCL)","GNYW","Yankees West",49861,20920,48748,0,0,0,0,4
 584,2017,172,0,2,"Boston (DSL)","RSo","Red Sox",20718,392,20718,0,0,0,0,3
 584,2018,172,0,2,"Boston (DSL)","RSo","Red Sox",28324,20381,20897,0,0,0,0,3
 584,2019,172,0,2,"Boston (DSL)","RSo","Red Sox",38479,19232,39865,0,0,0,0,4
@@ -7102,6 +7532,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 584,2035,172,0,2,"Boston (DSL)","RSo","Red Sox",23437,980,1332,0,0,0,0,4
 584,2036,172,0,2,"Boston (DSL)","RSo","Red Sox",44105,38765,37616,0,0,0,0,3
 584,2037,172,0,2,"Boston (DSL)","RSo","Red Sox",45281,22502,41838,0,1,0,0,1
+584,2038,172,0,2,"Boston (DSL)","RSo","Red Sox",41790,43090,166,0,0,0,0,5
+584,2039,172,0,2,"Boston (DSL)","RSo","Red Sox",46386,1393,49411,0,0,0,0,7
 585,2017,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",20480,35264,34914,0,1,0,0,1
 585,2018,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",19340,23381,23043,0,0,0,0,6
 585,2019,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",38396,23728,22397,0,0,0,0,5
@@ -7123,6 +7555,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 585,2035,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",21807,42239,36399,0,1,0,0,1
 585,2036,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",177,32764,21396,0,1,0,0,2
 585,2037,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",43303,44938,44938,0,1,0,0,1
+585,2038,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",21396,44986,39915,0,1,0,0,1
+585,2039,172,0,1,"Texas 1 (DSL)","Ran1","Rangers 1",41873,20275,47142,0,1,0,0,1
 586,2017,172,0,2,"Kansas City (DSL)","Roy","Royals",1427,1247,1247,0,0,0,0,7
 586,2018,172,0,2,"Kansas City (DSL)","Roy","Royals",38197,36802,19619,0,1,0,0,1
 586,2019,172,0,2,"Kansas City (DSL)","Roy","Royals",27339,38208,22793,0,1,0,0,1
@@ -7144,6 +7578,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 586,2035,172,0,2,"Vegas (DSL)","Veg","Royal Flushes",41963,21940,1268,0,1,0,0,1
 586,2036,172,0,2,"Vegas (DSL)","Veg","Royal Flushes",21390,44966,35091,0,0,0,0,8
 586,2037,172,0,2,"Vegas (DSL)","Veg","Royal Flushes",105,44966,28529,0,0,0,0,5
+586,2038,172,0,2,"Vegas (DSL)","Veg","Royal Flushes",20751,44852,33020,0,1,0,0,2
+586,2039,172,0,2,"Vegas (DSL)","Veg","Royal Flushes",46211,47364,33020,0,1,0,0,1
 587,2017,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",327,23308,23308,0,0,0,0,5
 587,2018,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",35005,22584,23317,0,0,0,0,3
 587,2019,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",23700,1414,23700,0,1,0,0,1
@@ -7165,6 +7601,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 587,2035,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",42861,998,44741,0,0,0,0,5
 587,2036,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",41782,20728,46880,0,0,0,0,5
 587,2037,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",21874,21024,42200,0,0,0,0,4
+587,2038,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",43054,43002,46880,0,0,0,0,4
+587,2039,172,0,5,"New York N 2 (DSL)","Met2","Mets 2",21112,37845,45453,0,0,0,0,5
 588,2017,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",39254,591,36773,0,1,0,0,2
 588,2018,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",35573,19449,33350,0,0,0,0,2
 588,2019,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",35319,22093,0,0,0,0,0,5
@@ -7186,6 +7624,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 588,2035,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",23630,115,44486,0,0,0,0,3
 588,2036,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",44771,115,24030,0,0,0,0,4
 588,2037,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",43,43235,46231,0,0,0,0,4
+588,2038,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",47062,43354,23720,0,0,0,0,7
+588,2039,172,0,2,"Houston 1 (DSL)","AstB","Astros Blue",21856,43354,46126,0,0,0,0,4
 589,2017,172,0,3,"Seattle (DSL)","Mari","Mariners",35499,1687,19574,0,0,0,0,3
 589,2018,172,0,3,"Seattle (DSL)","Mari","Mariners",38922,39653,20417,0,0,0,0,7
 589,2019,172,0,3,"Seattle (DSL)","Mari","Mariners",24133,40444,20279,0,0,0,0,7
@@ -7207,6 +7647,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 589,2035,172,0,3,"Seattle (DSL)","Mari","Mariners",21204,548,382,0,0,0,0,4
 589,2036,172,0,3,"Seattle (DSL)","Mari","Mariners",22265,44974,382,0,0,0,0,5
 589,2037,172,0,3,"Seattle (DSL)","Mari","Mariners",45758,44780,44758,0,0,0,0,7
+589,2038,172,0,3,"Seattle (DSL)","Mari","Mariners",42963,47522,38044,0,0,0,0,6
+589,2039,172,0,3,"Seattle (DSL)","Mari","Mariners",25578,37548,24454,0,0,0,0,6
 590,2017,172,0,3,"San Francisco (DSL)","Gian","Giants",35247,1235,35247,0,0,0,0,2
 590,2018,172,0,3,"San Francisco (DSL)","Gian","Giants",23555,38772,23555,0,0,0,0,6
 590,2019,172,0,3,"San Francisco (DSL)","Gian","Giants",23560,22492,36404,0,0,0,0,3
@@ -7228,6 +7670,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 590,2035,172,0,3,"San Francisco (DSL)","Gian","Giants",20247,1364,44400,0,0,0,0,6
 590,2036,172,0,3,"San Francisco (DSL)","Gian","Giants",21801,1364,43339,0,0,0,0,3
 590,2037,172,0,3,"San Francisco (DSL)","Gian","Giants",44869,20137,1124,0,0,0,0,4
+590,2038,172,0,3,"San Francisco (DSL)","Gian","Giants",45879,44886,47329,0,0,0,0,4
+590,2039,172,0,3,"San Francisco (DSL)","Gian","Giants",46232,43722,45722,0,0,0,0,3
 591,2017,172,0,3,"Minnesota (DSL)","Twin","Twins",38253,19482,33430,0,0,0,0,5
 591,2018,172,0,3,"Minnesota (DSL)","Twin","Twins",35123,20441,28460,0,0,0,0,3
 591,2019,172,0,3,"Minnesota (DSL)","Twin","Twins",38701,38518,23004,0,0,0,0,6
@@ -7249,6 +7693,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 591,2035,172,0,3,"Minnesota (DSL)","Twin","Twins",38930,24151,43465,0,0,0,0,3
 591,2036,172,0,3,"Minnesota (DSL)","Twin","Twins",43389,43023,44705,0,0,0,0,4
 591,2037,172,0,3,"Minnesota (DSL)","Twin","Twins",44601,1998,44717,0,0,0,0,2
+591,2038,172,0,3,"Minnesota (DSL)","Twin","Twins",42799,1932,27527,0,0,0,0,2
+591,2039,172,0,3,"Minnesota (DSL)","Twin","Twins",44176,46671,43675,0,0,0,0,2
 592,2017,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",35466,23122,23122,0,0,0,0,3
 592,2018,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",34215,21292,1996,0,0,0,0,5
 592,2019,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",23142,21292,23144,0,0,0,0,4
@@ -7270,6 +7716,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 592,2035,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",1234,44783,21686,0,0,0,0,2
 592,2036,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",40367,30504,35337,0,1,0,0,1
 592,2037,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",46677,1819,44915,0,0,0,0,4
+592,2038,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",46006,43434,37473,0,0,0,0,3
+592,2039,172,0,1,"Pittsburgh (DSL)","Pir1","Pirates 1",33818,33453,37473,0,0,0,0,2
 593,2017,172,0,0,"Chicago A (DSL)","WS","White Sox",35147,34757,35147,0,1,0,0,1
 593,2018,172,0,0,"Chicago A (DSL)","WS","White Sox",38614,39283,37055,0,0,0,0,5
 593,2019,172,0,0,"Chicago A (DSL)","WS","White Sox",19662,36545,37619,0,1,0,0,2
@@ -7291,6 +7739,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 593,2035,172,0,0,"Chicago A (DSL)","WS","White Sox",20314,44303,42154,0,0,0,0,5
 593,2036,172,0,0,"Chicago A (DSL)","WS","White Sox",19735,19404,22618,0,0,0,0,5
 593,2037,172,0,0,"Chicago A (DSL)","WS","White Sox",43777,1362,1867,0,1,0,0,1
+593,2038,172,0,0,"Chicago A (DSL)","WS","White Sox",46651,22142,45963,0,0,0,0,2
+593,2039,172,0,0,"Chicago A (DSL)","WS","White Sox",46365,46665,46586,0,1,0,0,2
 594,2017,172,0,0,"Cincinnati (DSL)","Reds","Reds",36575,34367,36575,0,0,0,0,5
 594,2018,172,0,0,"Cincinnati (DSL)","Reds","Reds",38123,38093,39442,0,0,0,0,6
 594,2019,172,0,0,"Cincinnati (DSL)","Reds","Reds",39442,1379,28067,0,1,0,0,1
@@ -7312,6 +7762,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 594,2035,172,0,0,"Cincinnati (DSL)","Reds","Reds",40396,21488,42908,0,1,0,0,1
 594,2036,172,0,0,"Cincinnati (DSL)","Reds","Reds",43284,1747,44238,0,0,0,0,4
 594,2037,172,0,0,"Cincinnati (DSL)","Reds","Reds",43284,43957,45868,0,0,0,0,2
+594,2038,172,0,0,"Cincinnati (DSL)","Reds","Reds",890,1947,46320,0,1,1,0,1
+594,2039,172,0,0,"Cincinnati (DSL)","Reds","Reds",46320,44647,46541,0,1,0,0,1
 595,2017,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",20257,23087,20257,0,0,0,0,5
 595,2018,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",22386,22167,22386,0,0,0,0,6
 595,2019,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",1096,27597,23088,0,0,0,0,6
@@ -7333,6 +7785,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 595,2035,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",42225,42877,45706,0,0,0,0,5
 595,2036,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",42225,20388,46451,0,0,0,0,2
 595,2037,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",44405,46022,21113,0,0,0,0,7
+595,2038,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",46702,47227,45896,0,0,0,0,4
+595,2039,172,0,2,"Philadelphia 1 (DSL)","Phi1","Phillies 1",41131,44183,49620,0,0,0,0,5
 596,2017,172,0,4,"Los Angeles (DSL)","Ang","Angels",39550,38213,38213,0,1,0,0,2
 596,2018,172,0,4,"Los Angeles (DSL)","Ang","Angels",437,35179,35179,0,1,0,0,1
 596,2019,172,0,4,"Los Angeles (DSL)","Ang","Angels",1703,38212,40191,0,0,0,0,2
@@ -7354,6 +7808,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 596,2035,172,0,4,"Los Angeles (DSL)","Ang","Angels",21873,44490,44624,0,0,0,0,3
 596,2036,172,0,4,"Los Angeles (DSL)","Ang","Angels",652,43916,331,0,0,0,0,4
 596,2037,172,0,4,"Los Angeles (DSL)","Ang","Angels",43130,22386,44803,0,0,0,0,4
+596,2038,172,0,4,"Los Angeles (DSL)","Ang","Angels",46497,19936,19817,0,0,0,0,5
+596,2039,172,0,4,"Los Angeles (DSL)","Ang","Angels",46202,44935,42901,0,0,0,0,5
 597,2017,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",29148,212,39908,0,0,0,0,4
 597,2018,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",19633,23717,35214,0,0,0,0,8
 597,2019,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",38241,37665,34923,0,0,0,0,2
@@ -7375,6 +7831,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 597,2035,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",44272,19283,1991,0,1,0,0,2
 597,2036,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",947,362,43694,0,1,0,0,1
 597,2037,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",947,20132,46084,0,0,0,0,2
+597,2038,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",44718,43514,26644,0,1,0,0,1
+597,2039,172,0,2,"Tampa Bay 1 (DSL)","Ray1","Rays ",889,39215,43611,0,0,0,0,6
 598,2017,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",25065,35053,36481,0,0,0,0,2
 598,2018,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",35192,36831,19761,0,0,0,0,4
 598,2019,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",36497,35053,1313,0,0,0,0,6
@@ -7396,6 +7854,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 598,2035,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",34757,19281,2067,0,0,0,0,6
 598,2036,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",41308,43878,20986,0,0,0,0,6
 598,2037,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",46853,43878,21701,0,0,0,0,6
+598,2038,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",1902,1251,21039,0,0,0,0,6
+598,2039,172,0,0,"Baltimore (DSL)","Ori1","Orioles 1",50161,42870,42870,0,0,0,0,6
 599,2017,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",35467,37579,38271,0,0,0,0,2
 599,2018,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",37561,38271,37555,0,1,1,0,1
 599,2019,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",18848,1895,28044,0,1,0,0,2
@@ -7417,6 +7877,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 599,2035,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",44338,44973,43043,0,0,0,0,4
 599,2036,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",21087,43203,44746,0,0,0,0,3
 599,2037,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",44573,43203,43187,0,0,0,0,3
+599,2038,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",46953,26668,46953,0,0,0,0,2
+599,2039,172,0,1,"New York A 1 (DSL)","Yan1","Yankees 1",44759,26668,46989,0,0,0,0,5
 600,2017,172,0,0,"San Diego 1 (DSL)","Pad1","Padres 1",20944,20462,20462,0,0,0,0,4
 600,2018,172,0,0,"San Diego 1 (DSL)","Pad1","Padres 1",23211,971,23211,0,0,0,0,3
 600,2019,172,0,0,"San Diego 1 (DSL)","Pad1","Padres 1",23211,23204,18977,0,0,0,0,4
@@ -7438,6 +7900,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 600,2035,172,0,0,"Portland (DSL)","Por","Lumberjacks",43367,44731,43962,0,0,0,0,3
 600,2036,172,0,0,"Portland (DSL)","Por","Lumberjacks",27286,23675,44510,0,0,0,0,2
 600,2037,172,0,0,"Portland (DSL)","Por","Lumberjacks",1510,46229,45916,0,0,0,0,4
+600,2038,172,0,0,"Portland (DSL)","Por","Lumberjacks",44703,561,35671,0,0,0,0,3
+600,2039,172,0,0,"Portland (DSL)","Por","Lumberjacks",44517,49380,23565,0,0,0,0,5
 601,2017,172,0,4,"Colorado (DSL)","Rock","Rockies",20590,36331,36331,0,0,0,0,7
 601,2018,172,0,4,"Colorado (DSL)","Rock","Rockies",1278,21112,21159,0,0,0,0,6
 601,2019,172,0,4,"Colorado (DSL)","Rock","Rockies",646,38505,39941,0,0,0,0,3
@@ -7459,6 +7923,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 601,2035,172,0,4,"Colorado (DSL)","Rock","Rockies",44258,20374,26101,0,0,0,0,4
 601,2036,172,0,4,"Colorado (DSL)","Rock","Rockies",43768,46127,27272,0,1,0,0,1
 601,2037,172,0,4,"Colorado (DSL)","Rock","Rockies",27272,44053,21530,0,1,1,0,1
+601,2038,172,0,4,"Colorado (DSL)","Rock","Rockies",27272,44093,46490,0,1,0,0,1
+601,2039,172,0,4,"Colorado (DSL)","Rock","Rockies",27272,46345,46385,0,1,1,0,1
 602,2017,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",36067,37514,36063,0,0,0,0,5
 602,2018,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",20585,37516,23673,0,0,0,0,3
 602,2019,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",20585,23307,0,0,0,0,0,3
@@ -7480,6 +7946,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 602,2035,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",44143,270,23175,0,0,0,0,6
 602,2036,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",44753,44741,2134,0,0,0,0,6
 602,2037,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",46393,45736,44009,0,0,0,0,6
+602,2038,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",36771,46546,42968,0,0,0,0,4
+602,2039,172,0,1,"New York N 1 (DSL)","Met1","Mets 1",46590,38244,908,0,0,0,0,6
 603,2017,172,0,2,"Oakland (DSL)","Ath","Athletics",34216,21414,295,0,0,0,0,6
 603,2018,172,0,2,"Oakland (DSL)","Ath","Athletics",35037,21414,23981,0,0,0,0,5
 603,2019,172,0,2,"Oakland (DSL)","Ath","Athletics",23565,21415,23565,0,0,0,0,8
@@ -7501,6 +7969,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 603,2035,172,0,2,"Oakland (DSL)","Ath","Athletics",44210,20413,23081,0,0,0,0,7
 603,2036,172,0,2,"Oakland (DSL)","Ath","Athletics",23812,23108,40795,0,0,0,0,6
 603,2037,172,0,2,"Oakland (DSL)","Ath","Athletics",23081,2128,34165,0,0,0,0,8
+603,2038,172,0,2,"Oakland (DSL)","Ath","Athletics",27897,31966,44845,0,0,0,0,8
+603,2039,172,0,2,"Oakland (DSL)","Ath","Athletics",47175,0,41499,0,0,0,0,8
 604,2017,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",36940,39343,34366,0,0,0,0,7
 604,2018,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",34999,35278,31575,0,1,0,0,2
 604,2019,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",34999,20063,22925,0,1,1,0,1
@@ -7522,6 +7992,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 604,2035,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",20322,20184,20373,0,1,0,0,2
 604,2036,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",20879,20294,44088,0,0,0,0,6
 604,2037,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",44773,44821,22800,0,0,0,0,6
+604,2038,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",44773,43977,40555,0,0,0,0,3
+604,2039,172,0,3,"Los Angeles 1 (DSL)","Dod1","Dodgers 1",45755,22387,50729,0,0,0,0,7
 605,2017,172,0,4,"Washington (DSL)","Nat","Nationals",27560,37655,27560,0,1,0,0,1
 605,2018,172,0,4,"Washington (DSL)","Nat","Nationals",557,22408,20250,0,0,0,0,7
 605,2019,172,0,4,"Washington (DSL)","Nat","Nationals",20319,37655,20319,0,0,0,0,4
@@ -7543,6 +8015,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 605,2035,172,0,4,"Washington (DSL)","Nat","Nationals",22421,27336,43823,0,0,0,0,6
 605,2036,172,0,4,"Washington (DSL)","Nat","Nationals",35364,23700,44491,0,0,0,0,5
 605,2037,172,0,4,"Washington (DSL)","Nat","Nationals",42599,2063,38585,0,0,0,0,5
+605,2038,172,0,4,"Washington (DSL)","Nat","Nationals",20959,44862,42347,0,0,0,0,3
+605,2039,172,0,4,"Washington (DSL)","Nat","Nationals",48920,49048,40967,0,0,0,0,3
 606,2017,172,0,2,"Miami (DSL)","Mar","Marlins",19412,26470,19412,0,1,0,0,1
 606,2018,172,0,2,"Miami (DSL)","Mar","Marlins",38223,1761,22106,0,0,0,0,4
 606,2019,172,0,2,"Miami (DSL)","Mar","Marlins",24107,22698,22698,0,0,0,0,3
@@ -7564,6 +8038,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 606,2035,172,0,2,"Miami (DSL)","Mar","Marlins",19354,648,44443,0,0,0,0,6
 606,2036,172,0,2,"Miami (DSL)","Mar","Marlins",22624,20628,23085,0,0,0,0,5
 606,2037,172,0,2,"Miami (DSL)","Mar","Marlins",45908,20628,45908,0,0,0,0,3
+606,2038,172,0,2,"Miami (DSL)","Mar","Marlins",43502,47275,45847,0,0,0,0,3
+606,2039,172,0,2,"Miami (DSL)","Mar","Marlins",45927,45886,45927,0,1,0,0,2
 607,2017,172,0,4,"St. Louis (DSL)","Card","Cardinals",19155,35215,35211,0,0,0,0,5
 607,2018,172,0,4,"St. Louis (DSL)","Card","Cardinals",38785,357,357,0,0,0,0,4
 607,2019,172,0,4,"St. Louis (DSL)","Card","Cardinals",19155,35215,33732,0,0,0,0,6
@@ -7585,6 +8061,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 607,2035,172,0,4,"St. Louis (DSL)","Card","Cardinals",44004,23088,44826,0,0,0,0,2
 607,2036,172,0,4,"St. Louis (DSL)","Card","Cardinals",44205,42763,47126,0,0,0,0,3
 607,2037,172,0,4,"St. Louis (DSL)","Card","Cardinals",44864,42763,23478,0,1,0,0,2
+607,2038,172,0,4,"St. Louis (DSL)","Card","Cardinals",46149,39890,46149,0,0,0,0,4
+607,2039,172,0,4,"St. Louis (DSL)","Card","Cardinals",49766,49314,43288,0,0,0,0,4
 608,2017,172,0,0,"Arizona 1 (DSL)","Dba1","Diamondbacks 1",22785,1265,22785,0,0,0,0,6
 608,2018,172,0,0,"Arizona 1 (DSL)","Dba1","Diamondbacks 1",36008,21403,1298,0,1,0,0,1
 608,2019,172,0,0,"Arizona 1 (DSL)","Dba1","Diamondbacks 1",20039,34504,34504,0,0,0,0,5
@@ -7606,6 +8084,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 608,2035,172,0,0,"Carolinia (DSL)","CSF1","Swamp Foxes 1",973,25658,40236,0,0,0,0,2
 608,2036,172,0,0,"Carolinia (DSL)","CSF1","Swamp Foxes 1",40260,43144,45025,0,1,1,0,1
 608,2037,172,0,0,"Carolinia (DSL)","CSF1","Swamp Foxes 1",34836,38629,25173,0,0,0,0,3
+608,2038,172,0,0,"Carolinia (DSL)","CSF1","Swamp Foxes 1",19771,33453,19309,0,0,0,0,5
+608,2039,172,0,0,"Carolinia (DSL)","CSF1","Swamp Foxes 1",41913,41603,46584,0,0,0,0,4
 609,2017,172,0,1,"Cleveland (DSL)","Ind","Indians",38919,23470,23470,0,0,0,0,6
 609,2018,172,0,1,"Cleveland (DSL)","Ind","Indians",38916,21641,1018,0,0,0,0,4
 609,2019,172,0,1,"Cleveland (DSL)","Ind","Indians",1470,1450,27962,0,0,0,0,6
@@ -7627,6 +8107,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 609,2035,172,0,1,"Cleveland (DSL)","Ind","Indians",44403,44468,45994,0,0,0,0,5
 609,2036,172,0,1,"Cleveland (DSL)","Ind","Indians",20540,47303,45994,0,0,0,0,4
 609,2037,172,0,1,"Cleveland (DSL)","Ind","Indians",20540,47303,46839,0,0,0,0,5
+609,2038,172,0,1,"Cleveland (DSL)","Ind","Indians",44541,20532,38499,0,0,0,0,6
+609,2039,172,0,1,"Cleveland (DSL)","Ind","Indians",47021,43337,14039,0,0,0,0,4
 611,2017,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",18260,36527,26696,0,0,0,0,4
 611,2018,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",18260,5241,22604,0,0,0,0,2
 611,2019,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",237,1327,40249,0,1,0,0,1
@@ -7648,6 +8130,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 611,2035,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",39531,42822,19692,0,0,0,0,3
 611,2036,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",20516,194,28450,0,0,0,0,5
 611,2037,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",43247,44112,28450,0,0,0,0,2
+611,2038,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",46144,46251,44709,0,0,0,0,5
+611,2039,172,0,1,"Chicago N (DSL)","Cub1","Cubs 1",43524,44470,47186,0,0,0,0,3
 613,2017,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",2166,34724,2166,0,1,1,0,1
 613,2018,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",22111,38025,25147,0,1,0,0,1
 613,2019,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",36751,23381,40105,0,0,0,0,3
@@ -7669,6 +8153,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 613,2035,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",177,42353,44873,0,1,0,0,1
 613,2036,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",23984,44616,44873,0,1,0,0,1
 613,2037,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",41032,20275,44643,0,0,0,0,2
+613,2038,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",45544,19253,35112,0,0,0,0,3
+613,2039,172,0,5,"Texas 2 (DSL)","Ran2","Rangers 2",45185,45813,35112,0,0,0,0,2
 616,2017,172,0,4,"Detroit (DSL)","Tig","Tigers",1978,1641,1978,0,0,0,0,4
 616,2018,172,0,4,"Detroit (DSL)","Tig","Tigers",22426,19451,20334,0,0,0,0,3
 616,2019,172,0,4,"Detroit (DSL)","Tig","Tigers",26708,40503,23507,0,0,0,0,7
@@ -7690,6 +8176,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 616,2035,172,0,4,"Detroit (DSL)","Tig","Tigers",42864,21599,40957,0,0,0,0,5
 616,2036,172,0,4,"Detroit (DSL)","Tig","Tigers",44945,1639,46041,0,0,0,0,6
 616,2037,172,0,4,"Detroit (DSL)","Tig","Tigers",44589,34408,44296,0,0,0,0,7
+616,2038,172,0,4,"Detroit (DSL)","Tig","Tigers",47390,43271,20305,0,0,0,0,6
+616,2039,172,0,4,"Detroit (DSL)","Tig","Tigers",47390,38435,46535,0,0,0,0,6
 617,2017,172,0,0,"Toronto (DSL)","Jays","Blue Jays",37424,37421,37421,0,0,0,0,3
 617,2018,172,0,0,"Toronto (DSL)","Jays","Blue Jays",35496,24104,37927,0,0,0,0,2
 617,2019,172,0,0,"Toronto (DSL)","Jays","Blue Jays",19920,38424,21155,0,0,0,0,3
@@ -7711,6 +8199,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 617,2035,172,0,0,"Toronto (DSL)","Jays","Blue Jays",43545,20742,27281,0,0,0,0,4
 617,2036,172,0,0,"Toronto (DSL)","Jays","Blue Jays",44804,42448,42526,0,0,0,0,3
 617,2037,172,0,0,"Toronto (DSL)","Jays","Blue Jays",42620,44466,44578,0,0,0,0,5
+617,2038,172,0,0,"Toronto (DSL)","Jays","Blue Jays",44106,44585,21046,0,0,0,0,4
+617,2039,172,0,0,"Toronto (DSL)","Jays","Blue Jays",44724,47405,45977,0,0,0,0,3
 618,2017,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",37011,1204,1204,0,1,0,0,1
 618,2018,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",25832,19586,25832,0,0,0,0,4
 618,2019,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",38125,23340,39535,0,0,0,0,5
@@ -7732,6 +8222,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 618,2035,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",890,847,46164,0,0,0,0,5
 618,2036,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",46164,43957,47377,0,0,0,0,7
 618,2037,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",1165,19578,45712,0,0,0,0,5
+618,2038,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",45729,29533,45760,0,1,0,0,1
+618,2039,172,0,3,"Cincinnati (DSL)","Rojo","Rojos",22705,1715,46993,0,0,0,0,5
 619,2017,172,0,4,"Atlanta (DSL)","Brav","Braves",36055,37725,36055,0,0,0,0,3
 619,2018,172,0,4,"Atlanta (DSL)","Brav","Braves",36313,27517,36313,0,1,0,0,2
 619,2019,172,0,4,"Atlanta (DSL)","Brav","Braves",30527,1419,30527,0,1,0,0,1
@@ -7753,6 +8245,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 619,2035,172,0,4,"Montgomery (DSL)","MON","Herons",30369,24056,19345,0,0,0,0,7
 619,2036,172,0,4,"Montgomery (DSL)","MON","Herons",44884,46359,44061,0,0,0,0,7
 619,2037,172,0,4,"Montgomery (DSL)","MON","Herons",45975,43534,44327,0,0,0,0,6
+619,2038,172,0,4,"Montgomery (DSL)","MON","Herons",46020,20925,47397,0,0,0,0,7
+619,2039,172,0,4,"Montgomery (DSL)","MON","Herons",42565,46306,4122,0,0,0,0,7
 620,2017,172,0,4,"Milwaukee (DSL)","Brew","Brewers",35381,38239,38484,0,0,0,0,6
 620,2018,172,0,4,"Milwaukee (DSL)","Brew","Brewers",37439,456,22133,0,0,0,0,5
 620,2019,172,0,4,"Milwaukee (DSL)","Brew","Brewers",37439,20305,20285,0,0,0,0,5
@@ -7774,6 +8268,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 620,2035,172,0,4,"Milwaukee (DSL)","Brew","Brewers",41466,35070,35245,0,1,0,0,1
 620,2036,172,0,4,"Milwaukee (DSL)","Brew","Brewers",1011,28035,25089,0,0,0,0,2
 620,2037,172,0,4,"Milwaukee (DSL)","Brew","Brewers",41987,39061,46259,0,1,0,0,3
+620,2038,172,0,4,"Milwaukee (DSL)","Brew","Brewers",2087,46214,47237,0,1,0,0,2
+620,2039,172,0,4,"Milwaukee (DSL)","Brew","Brewers",2087,47555,20069,0,0,0,0,2
 649,2017,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",35390,1538,1538,0,0,0,0,3
 649,2018,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",1553,20403,2131,0,0,0,0,2
 649,2019,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",24026,1538,24026,0,0,0,0,2
@@ -7795,6 +8291,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 649,2035,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",44556,44407,44669,0,0,0,0,4
 649,2036,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",44669,1445,44684,0,0,0,0,4
 649,2037,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",34723,211,20855,0,0,0,0,3
+649,2038,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",46834,211,44402,0,0,0,0,2
+649,2039,172,0,5,"Houston 2 (DSL)","AstO","Astros Orange",46929,44418,46092,0,1,0,0,1
 651,2017,159,0,2,"Chicago A (AZL)","ACHA","White Sox",39407,39539,39539,0,1,0,0,1
 651,2018,159,0,2,"Chicago A (AZL)","ACHA","White Sox",20584,39812,20584,0,0,0,0,4
 651,2019,159,0,2,"Chicago A (AZL)","ACHA","White Sox",20584,18310,19993,0,0,0,0,4
@@ -7816,6 +8314,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 651,2035,159,0,2,"Chicago A (AZL)","ACHA","White Sox",484,36314,44498,0,0,0,0,5
 651,2036,159,0,2,"Chicago A (AZL)","ACHA","White Sox",40914,43320,39352,0,0,0,0,4
 651,2037,159,0,2,"Chicago A (AZL)","ACHA","White Sox",46651,1676,957,0,0,0,0,4
+651,2038,159,0,2,"Chicago A (AZL)","ACHA","White Sox",39997,45362,46263,0,0,0,0,5
+651,2039,159,0,2,"Chicago A (AZL)","ACHA","White Sox",37624,43133,535,0,0,0,0,5
 736,2017,159,0,2,"Kansas City (AZL)","AKC","Royals",39015,9589,39015,0,0,0,0,5
 736,2018,159,0,2,"Kansas City (AZL)","AKC","Royals",36803,22852,36803,0,0,0,0,5
 736,2019,159,0,2,"Kansas City (AZL)","AKC","Royals",38992,23833,38992,0,0,0,0,5
@@ -7837,6 +8337,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 736,2035,159,0,2,"Kansas City (AZL)","AKC","Royals",27979,18349,24132,0,0,0,0,3
 736,2036,159,0,2,"Kansas City (AZL)","AKC","Royals",22623,22799,45252,0,0,0,0,5
 736,2037,159,0,2,"Kansas City (AZL)","AKC","Royals",45273,22706,20027,0,0,0,0,5
+736,2038,159,0,2,"Kansas City (AZL)","AKC","Royals",18286,38059,42373,0,0,0,0,4
+736,2039,159,0,2,"Kansas City (AZL)","AKC","Royals",18286,27456,43299,0,1,0,0,2
 742,2017,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",1654,21311,1353,0,0,0,0,6
 742,2018,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",18142,34844,1662,0,1,0,0,1
 742,2019,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",1652,39431,1652,0,0,0,0,4
@@ -7858,6 +8360,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 742,2035,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",35462,22929,42107,0,0,0,0,7
 742,2036,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",22857,23504,22857,0,1,0,0,2
 742,2037,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",38208,39276,43148,0,0,0,0,3
+742,2038,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",44809,20805,19763,0,0,0,0,7
+742,2039,172,0,3,"Chicago N 2 (DSL)","Cub2","Cubs 2",45106,27451,41713,0,0,0,0,4
 745,2017,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",20691,18495,20691,0,1,0,0,1
 745,2018,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",39881,36303,21715,0,0,0,0,3
 745,2019,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",26818,22430,26818,0,0,0,0,5
@@ -7879,6 +8383,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 745,2035,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",21424,0,19517,0,0,0,0,5
 745,2036,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",43190,1954,45131,0,0,0,0,5
 745,2037,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",41634,42791,42791,0,0,0,0,5
+745,2038,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",40188,21541,40333,0,0,0,0,4
+745,2039,160,0,0,"Detroit W (GCL)","GDEW","Tigers West",554,46797,50269,0,0,0,0,4
 751,2017,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",37427,23349,23349,0,0,0,0,8
 751,2018,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",39055,20421,20428,0,0,0,0,7
 751,2019,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",35292,20421,22912,0,0,0,0,7
@@ -7900,6 +8406,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 751,2035,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",43805,43977,42653,0,0,0,0,8
 751,2036,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",40013,46598,44871,0,0,0,0,7
 751,2037,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",44311,46598,44162,0,0,0,0,6
+751,2038,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",43457,44162,47165,0,0,0,0,6
+751,2039,172,0,2,"Los Angeles 2 (DSL)","Dod2","Dodgers 2",30931,46629,47560,0,0,0,0,3
 753,2017,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",38690,34345,34345,0,0,0,0,4
 753,2018,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",22783,1301,22783,0,0,0,0,5
 753,2019,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",20364,22501,22530,0,0,0,0,2
@@ -7921,6 +8429,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 753,2035,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",40584,1303,20054,0,1,1,0,1
 753,2036,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",43399,43132,22825,0,1,0,0,1
 753,2037,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",43399,43144,43756,0,1,0,0,1
+753,2038,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",19541,24277,19852,0,0,0,0,5
+753,2039,172,0,3,"Arizona 2 (DSL)","Dba2","Diamonbacks 2",1296,45856,49914,0,1,0,0,1
 754,2017,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",38556,39668,38556,0,0,0,0,2
 754,2018,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",256,19349,39596,0,0,0,0,5
 754,2019,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",23477,39506,1593,0,0,0,0,4
@@ -7942,6 +8452,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 754,2035,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",32889,45858,23340,0,0,0,0,3
 754,2036,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",44649,44632,46702,0,0,0,0,3
 754,2037,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",46994,23886,41131,0,0,0,0,5
+754,2038,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",45807,41315,47476,0,0,0,0,5
+754,2039,172,0,5,"Philadelphia 2 (DSL)","Phi2","Phillies 2",44429,45761,49887,0,0,0,0,4
 755,2017,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",35195,23139,35195,0,0,0,0,4
 755,2018,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",205,20484,38292,0,0,0,0,4
 755,2019,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",2102,23351,40323,0,0,0,0,5
@@ -7963,6 +8475,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 755,2035,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",44519,44706,43898,0,0,0,0,2
 755,2036,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",44519,44195,35372,0,0,0,0,2
 755,2037,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",44519,44777,45979,0,1,0,0,1
+755,2038,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",19397,948,45979,0,1,0,0,1
+755,2039,172,0,5,"Tampa Bay 2 (DSL)","Ray2","Rays 2",46024,47423,43032,0,0,0,0,3
 756,2017,152,0,1,"Down East","DE","Wood Ducks",35198,28972,35198,0,0,0,0,3
 756,2018,152,0,1,"Down East","DE","Wood Ducks",35337,377,35337,0,1,0,0,2
 756,2019,152,0,1,"Down East","DE","Wood Ducks",21298,21458,21298,0,0,0,0,3
@@ -7984,6 +8498,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 756,2035,152,0,1,"Down East","DE","Wood Ducks",43400,22391,39947,0,1,0,0,2
 756,2036,152,0,1,"Down East","DE","Wood Ducks",42939,22924,41418,0,1,1,0,1
 756,2037,152,0,1,"Down East","DE","Wood Ducks",41313,39154,31644,0,1,1,0,1
+756,2038,152,0,1,"Down East","DE","Wood Ducks",37718,23072,27098,0,1,1,0,1
+756,2039,152,0,1,"Down East","DE","Wood Ducks",1010,22913,26893,0,1,1,0,1
 757,2017,153,0,0,"Florida","FLO","Fire Frogs",233,1064,233,0,0,0,0,4
 757,2018,153,0,0,"Florida","FLO","Fire Frogs",33390,27334,33390,0,0,0,0,5
 757,2019,153,0,0,"Florida","FLO","Fire Frogs",36055,39612,0,0,0,0,0,6
@@ -8005,6 +8521,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 757,2035,153,0,0,"Charleston","CHA","Hammerheads",41414,34629,39169,0,0,0,0,5
 757,2036,153,0,0,"Charleston","CHA","Hammerheads",1201,19216,34032,0,0,0,0,5
 757,2037,153,0,0,"Charleston","CHA","Hammerheads",38330,42277,45899,0,0,0,0,6
+757,2038,153,0,0,"Charleston","CHA","Hammerheads",46391,40225,46279,0,0,0,0,5
+757,2039,153,0,0,"Charleston","CHA","Hammerheads",19610,47342,43999,0,0,0,0,6
 758,2017,152,0,0,"Buies Creek","BC","Astros",19958,6521,19958,0,0,0,0,3
 758,2018,152,0,0,"Buies Creek","BC","Astros",19606,32979,19606,0,0,0,0,4
 758,2019,152,0,0,"Buies Creek","BC","Astros",38462,38974,38462,0,0,0,0,3
@@ -8026,6 +8544,8 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 758,2035,152,0,0,"Buies Creek","BC","Astros",40554,1636,32510,0,0,0,0,3
 758,2036,152,0,0,"Buies Creek","BC","Astros",38981,44645,37430,0,1,0,0,2
 758,2037,152,0,0,"Buies Creek","BC","Astros",24022,44559,42297,0,1,0,0,1
+758,2038,152,0,0,"Buies Creek","BC","Astros",36578,23715,13176,0,1,0,0,1
+758,2039,152,0,0,"Buies Creek","BC","Astros",46729,19744,19632,0,1,0,0,2
 785,2017,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",20341,23498,22509,0,0,0,0,5
 785,2018,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",28024,23170,23195,0,0,0,0,5
 785,2019,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",22697,23195,22697,0,0,0,0,4
@@ -8047,3 +8567,201 @@ team_id,year,league_id,sub_league_id,division_id,name,abbr,nickname,best_hitter_
 785,2035,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",40596,26024,19666,0,0,0,0,5
 785,2036,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",40596,20129,45001,0,1,1,0,1
 785,2037,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",45297,44851,43044,0,0,0,0,2
+785,2038,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",45297,44846,45740,0,0,0,0,2
+785,2039,159,0,1,"San Diego 2 (AZL)","ASD2","Padres2",38658,35288,44384,0,0,0,0,3
+791,2039,100,0,0,"Virginia Beach HS","VB","Judges",47280,47472,47229,0,0,0,0,3
+791,2040,100,0,0,"Virginia Beach HS","VB","Judges",47320,47471,44297,0,0,0,0,5
+792,2039,100,0,2,"Santa Ana HS","SA","Bruins",43786,43821,43738,0,1,0,0,2
+792,2040,100,0,2,"Santa Ana HS","SA","Bruins",43773,42944,42917,0,1,0,0,1
+793,2039,100,0,1,"Mesa HS","MES","Frozen Ropes",44060,44103,44051,0,0,0,0,2
+793,2040,100,0,1,"Mesa HS","MES","Frozen Ropes",44056,43400,43280,0,0,0,0,2
+794,2039,100,0,2,"Honolulu HS","HON","Wild Riders",42794,42907,42775,0,0,0,0,4
+794,2040,100,0,2,"Honolulu HS","HON","Wild Riders",42376,42467,42775,0,1,0,0,3
+795,2039,100,0,2,"Garden Grove HS","GG","Cardinals",43633,43653,43510,0,1,0,0,1
+795,2040,100,0,2,"Garden Grove HS","GG","Cardinals",42865,42871,42825,0,0,0,0,4
+796,2039,100,0,1,"Garland HS","GAR","Spirit",45038,45254,45019,0,0,0,0,4
+796,2040,100,0,1,"Garland HS","GAR","Spirit",43620,43680,43617,0,1,0,0,1
+797,2039,100,0,2,"Santa Rosa HS","SR","Deputies",43210,43300,43206,0,0,0,0,6
+797,2040,100,0,2,"Santa Rosa HS","SR","Deputies",43210,43300,42623,0,0,0,0,5
+798,2039,100,0,0,"Medford HS","MED","Lions",47489,47525,47478,0,0,0,0,6
+798,2040,100,0,0,"Medford HS","MED","Lions",44325,44338,44323,0,0,0,0,2
+799,2039,100,0,1,"Santa Ana HS","SA","Makos",43874,43913,43874,0,0,0,0,5
+799,2040,100,0,1,"Santa Ana HS","SA","Makos",43013,43062,42985,0,0,0,0,4
+800,2039,100,0,0,"Atlanta HS","ATL","Cubs",46822,47195,46798,0,0,0,0,5
+800,2040,100,0,0,"Atlanta HS","ATL","Cubs",46994,44266,46801,0,0,0,0,3
+801,2039,100,0,2,"Anchorage HS","ANC","Mariners",42928,43176,42928,0,0,0,0,5
+801,2040,100,0,2,"Anchorage HS","ANC","Mariners",43064,42609,42497,0,1,0,0,2
+802,2039,100,0,1,"El Paso HS","EP","Steelhounds",44169,44257,44166,0,0,0,0,3
+802,2040,100,0,1,"El Paso HS","EP","Steelhounds",43425,43508,43425,0,0,0,0,6
+803,2039,100,0,1,"San Diego HS","SD","Diamond Cats",43971,44013,43963,0,0,0,0,6
+803,2040,100,0,1,"San Diego HS","SD","Diamond Cats",43178,43240,43163,0,0,0,0,5
+804,2039,100,0,0,"Nashville HS","NAS","Defenders",46433,46700,46423,0,1,0,0,1
+804,2040,100,0,0,"Nashville HS","NAS","Defenders",46474,44164,46426,0,1,0,0,1
+805,2039,100,0,0,"Minneapolis HS","MIN","Speed Devils",45706,46086,45706,0,0,0,0,4
+805,2040,100,0,0,"Minneapolis HS","MIN","Speed Devils",43765,46081,43765,0,0,0,0,6
+806,2039,100,0,1,"Denver HS","DEN","Bayhawks",44375,44956,44269,0,1,0,0,1
+806,2040,100,0,1,"Denver HS","DEN","Bayhawks",43554,43578,43545,0,0,0,0,3
+807,2039,100,0,2,"Oxnard HS","OXN","Arrows",43392,43456,43366,0,1,0,0,3
+807,2040,100,0,2,"Oxnard HS","OXN","Arrows",42743,42764,42741,0,0,0,0,6
+808,2039,100,0,0,"Baton Rouge HS","BR","Wolves",46170,46313,46134,0,0,0,0,2
+808,2040,100,0,0,"Baton Rouge HS","BR","Wolves",46181,46289,43928,0,0,0,0,4
+809,2039,100,1,0,"New York HS","NY","Bay Hawks",42420,42567,42408,0,0,0,0,2
+809,2040,100,1,0,"New York HS","NY","Bay Hawks",42470,42567,42193,0,1,0,0,2
+810,2039,100,1,0,"Newport News HS","NN","Waveriders",42093,42275,42037,0,0,0,0,6
+810,2040,100,1,0,"Newport News HS","NN","Waveriders",41988,42052,41969,0,0,0,0,3
+811,2039,100,1,2,"Spring Valley HS","SV","Westerners",37515,38055,37490,0,0,0,0,2
+811,2040,100,1,2,"Spring Valley HS","SV","Westerners",37586,40863,37490,0,0,0,0,6
+812,2039,100,1,2,"Vancouver HS","VAN","Blazers",35569,36016,35471,0,0,0,0,6
+812,2040,100,1,2,"Vancouver HS","VAN","Blazers",40386,40574,40338,0,0,0,0,3
+813,2039,100,1,1,"Chicago HS","CHI","Motors",40347,40609,40336,0,1,0,0,1
+813,2040,100,1,1,"Chicago HS","CHI","Motors",41500,40616,41500,0,1,0,0,1
+814,2039,100,1,2,"Fremont HS","FRE","Music",36141,36279,36036,0,1,0,0,1
+814,2040,100,1,2,"Fremont HS","FRE","Music",40634,36600,40590,0,0,0,0,5
+815,2039,100,1,0,"Columbus HS","COL","Peregrines",41487,41680,41448,0,0,0,0,4
+815,2040,100,1,0,"Columbus HS","COL","Peregrines",41487,41866,41747,0,0,0,0,4
+816,2039,100,1,0,"Springfield HS","SPR","Peacocks",42677,42758,42653,0,0,0,0,5
+816,2040,100,1,0,"Springfield HS","SPR","Peacocks",42301,42343,42283,0,0,0,0,6
+817,2039,100,1,1,"Omaha HS","OMA","Explosion",38902,39121,38813,0,0,0,0,6
+817,2040,100,1,1,"Omaha HS","OMA","Explosion",41186,41237,41186,0,0,0,0,2
+818,2039,100,1,2,"Sacramento HS","SAC","Cheetahs",36726,36908,36632,0,0,0,0,5
+818,2040,100,1,2,"Sacramento HS","SAC","Cheetahs",36632,40734,40703,0,1,0,0,2
+819,2039,100,1,1,"Little Rock HS","LR","Rawhide",39550,39860,39550,0,0,0,0,5
+819,2040,100,1,1,"Little Rock HS","LR","Rawhide",41267,41317,41267,0,0,0,0,6
+820,2039,100,1,0,"Orlando HS","ORL","Highlanders",41853,41983,41718,0,0,0,0,3
+820,2040,100,1,0,"Orlando HS","ORL","Highlanders",41885,41983,41872,0,1,1,0,1
+821,2039,100,1,0,"Brooklyn HS","BRO","Gamblers",42292,42352,42276,0,1,0,0,1
+821,2040,100,1,0,"Brooklyn HS","BRO","Gamblers",42307,42164,42070,0,0,0,0,5
+822,2039,100,1,1,"Chicago HS","CHI","Rattlers",40857,41040,40678,0,1,1,0,2
+822,2040,100,1,1,"Chicago HS","CHI","Rattlers",41567,41030,41565,0,0,0,0,5
+823,2039,100,1,1,"Memphis HS","MEM","Giants",40033,40265,40021,0,1,0,0,3
+823,2040,100,1,1,"Memphis HS","MEM","Giants",41352,41430,41346,0,0,0,0,4
+824,2039,100,1,2,"Albuquerque HS","ALB","Lancers",38408,38794,38398,0,0,0,0,3
+824,2040,100,1,2,"Albuquerque HS","ALB","Lancers",41079,38794,41016,0,1,0,0,1
+825,2039,100,1,2,"Chandler HS","CHA","Swallows",38139,38360,38080,0,0,0,0,4
+825,2040,100,1,2,"Chandler HS","CHA","Swallows",38109,38310,40884,0,0,0,0,4
+826,2039,100,1,1,"Chicago HS","CHI","Robins",41246,41381,41097,0,0,0,0,4
+826,2040,100,1,1,"Chicago HS","CHI","Robins",41097,41708,41651,0,0,0,0,3
+827,2039,101,0,1,"New Orleans HS","NO","Bulldogs",25890,27315,25890,0,1,0,0,1
+827,2040,101,0,1,"New Orleans HS","NO","Bulldogs",39471,39534,39458,0,0,0,0,3
+828,2039,101,0,0,"St. Petersburg HS","SP","Rampage",32941,33712,32848,0,0,0,0,5
+828,2040,101,0,0,"St. Petersburg HS","SP","Rampage",39993,33531,39993,0,0,0,0,4
+829,2039,101,0,2,"North Las Vegas HS","NL","Hounds",21024,21210,20942,0,0,0,0,6
+829,2040,101,0,2,"North Las Vegas HS","NL","Hounds",38320,38371,38312,0,0,0,0,3
+830,2039,101,0,0,"Indianapolis HS","IND","River Hawks",28540,31337,28236,0,0,0,0,4
+830,2040,101,0,0,"Indianapolis HS","IND","River Hawks",39829,39885,39788,0,1,1,0,1
+831,2039,101,0,2,"San Jose HS","SJ","Abbots",20510,20605,20480,0,0,0,0,5
+831,2040,101,0,2,"San Jose HS","SJ","Abbots",20512,38169,38088,0,0,0,0,5
+832,2039,101,0,1,"Kansas City HS","KC","Golden Knights",23141,23350,23122,0,0,0,0,5
+832,2040,101,0,1,"Kansas City HS","KC","Golden Knights",23122,23365,39031,0,0,0,0,5
+833,2039,101,0,1,"Kansas City HS","KC","Avengers",23760,24365,23633,0,0,0,0,6
+833,2040,101,0,1,"Kansas City HS","KC","Avengers",39167,39300,39164,0,1,0,0,1
+834,2039,101,0,0,"Newark HS","NEW","Magicians",35003,35280,35003,0,1,0,0,1
+834,2040,101,0,0,"Newark HS","NEW","Magicians",35053,40327,40251,0,0,0,0,6
+835,2039,101,0,1,"Garland HS","GAR","Cats",22655,23009,22547,0,0,0,0,3
+835,2040,101,0,1,"Garland HS","GAR","Cats",38912,38979,38904,0,1,0,0,2
+836,2039,101,0,0,"Columbus HS","COL","Colonials",31928,32633,31591,0,0,0,0,3
+836,2040,101,0,0,"Columbus HS","COL","Colonials",39912,39933,39886,0,1,0,0,2
+837,2039,101,0,0,"Pembroke Pines HS","PP","Superstars",34599,34981,34511,0,0,0,0,6
+837,2040,101,0,0,"Pembroke Pines HS","PP","Superstars",34630,40246,40139,0,0,0,0,5
+838,2039,101,0,1,"Kansas City HS","KC","Power",24516,25071,24438,0,0,0,0,4
+838,2040,101,0,1,"Kansas City HS","KC","Power",24449,39441,39382,0,0,0,0,4
+839,2039,101,0,2,"Pomona HS","POM","Storm Kings",20734,20923,20704,0,1,0,0,1
+839,2040,101,0,2,"Pomona HS","POM","Storm Kings",20754,20851,38189,0,0,0,0,2
+840,2039,101,0,1,"Milwaukee HS","MIL","Dingos",27340,27968,27340,0,1,0,0,2
+840,2040,101,0,1,"Milwaukee HS","MIL","Dingos",27575,27992,39557,0,0,0,0,6
+841,2039,101,0,2,"Oklahoma City HS","OC","Moose",22135,22537,22113,0,0,0,0,4
+841,2040,101,0,2,"Oklahoma City HS","OC","Moose",22113,38862,22189,0,1,0,0,1
+842,2039,101,0,0,"Cleveland HS","CLE","Salmon Kings",33904,34146,33793,0,1,0,0,2
+842,2040,101,0,0,"Cleveland HS","CLE","Salmon Kings",33793,34327,40076,0,0,0,0,3
+843,2039,101,0,2,"Tempe HS","TEM","Dukes",21368,21451,21293,0,0,0,0,3
+843,2040,101,0,2,"Tempe HS","TEM","Dukes",21321,38626,38533,0,0,0,0,6
+844,2039,101,0,2,"Scottsdale HS","SCO","Browns",21855,22022,21681,0,0,0,0,2
+844,2040,101,0,2,"Scottsdale HS","SCO","Browns",21769,22006,21729,0,0,0,0,4
+845,2039,101,1,2,"Tucson HS","TUC","Pipeliners",48843,22,48845,0,0,0,0,6
+845,2040,101,1,2,"Tucson HS","TUC","Pipeliners",48844,34825,34789,0,0,0,0,4
+846,2039,101,1,2,"Las Vegas HS","LV","Devil Rays",48894,48877,48895,0,1,1,0,1
+846,2040,101,1,2,"Las Vegas HS","LV","Devil Rays",34330,34541,34318,0,1,0,0,1
+847,2039,101,1,1,"Colorado Springs HS","CS","Swarm",270,479,135,0,0,0,0,5
+847,2040,101,1,1,"Colorado Springs HS","CS","Swarm",270,35127,34993,0,1,0,0,1
+848,2039,101,1,0,"Worcester HS","WOR","River Sharks",20350,20475,20317,0,1,0,0,1
+848,2040,101,1,0,"Worcester HS","WOR","River Sharks",20345,38047,20317,0,0,0,0,6
+849,2039,101,1,1,"Atlanta HS","ATL","Angels",1906,2096,1874,0,0,0,0,2
+849,2040,101,1,1,"Atlanta HS","ATL","Angels",36298,36376,36298,0,0,0,0,3
+850,2039,101,1,0,"Philadelphia HS","PHI","Swamp Bats",20093,20150,20051,0,1,0,0,2
+850,2040,101,1,0,"Philadelphia HS","PHI","Swamp Bats",37570,20302,37564,0,0,0,0,2
+851,2039,101,1,0,"Ft. Lauderdale HS","FL","Ghostriders",19262,19446,19262,0,0,0,0,6
+851,2040,101,1,0,"Ft. Lauderdale HS","FL","Ghostriders",36575,36676,36575,0,1,0,0,1
+852,2039,101,1,0,"Washington HS","WAS","Rockies",19917,20050,19854,0,0,0,0,3
+852,2040,101,1,0,"Washington HS","WAS","Rockies",36909,37438,36909,0,0,0,0,4
+853,2039,101,1,1,"Huntsville HS","HUN","Marshals",1655,1753,1529,0,0,0,0,6
+853,2040,101,1,1,"Huntsville HS","HUN","Marshals",36069,36237,36046,0,0,0,0,4
+854,2039,101,1,1,"Colorado Springs HS","CS","Lumber Kings",713,785,498,0,1,0,0,1
+854,2040,101,1,1,"Colorado Springs HS","CS","Lumber Kings",35290,785,35271,0,0,0,0,2
+855,2039,101,1,1,"Aurora HS","AUR","Tribe",1174,1382,1152,0,0,0,0,3
+855,2040,101,1,1,"Aurora HS","AUR","Tribe",35778,35875,35724,0,0,0,0,5
+856,2039,101,1,2,"Ontario HS","ONT","Tornado",48920,48902,48920,0,0,0,0,5
+856,2040,101,1,2,"Ontario HS","ONT","Tornado",48908,34302,34088,0,1,0,0,3
+857,2039,101,1,1,"Kansas City HS","KC","Jackrabbits",924,1112,873,0,0,0,0,4
+857,2040,101,1,1,"Kansas City HS","KC","Jackrabbits",35566,35637,35559,0,0,0,0,6
+858,2039,101,1,2,"Sacramento HS","SAC","Senators",48942,48925,48945,0,0,0,0,4
+858,2040,101,1,2,"Sacramento HS","SAC","Senators",33619,33911,33583,0,0,0,0,6
+859,2039,101,1,2,"Honolulu HS","HON","Silver Hawks",48950,48956,48970,0,0,0,0,3
+859,2040,101,1,2,"Honolulu HS","HON","Silver Hawks",48963,33574,33556,0,0,0,0,5
+860,2039,101,1,0,"Arlington HS","ARL","Smokies",19528,19781,19506,0,0,0,0,5
+860,2040,101,1,0,"Arlington HS","ARL","Smokies",19634,36817,36719,0,0,0,0,5
+861,2039,101,1,2,"Las Vegas HS","LV","Blackhawks",48866,48847,48870,0,1,0,0,2
+861,2040,101,1,2,"Las Vegas HS","LV","Blackhawks",34580,48855,48868,0,1,0,0,2
+862,2039,101,1,0,"Tallahassee HS","TAL","Emeralds",7578,19208,3785,0,0,0,0,4
+862,2040,101,1,0,"Tallahassee HS","TAL","Emeralds",7578,19260,36442,0,0,0,0,3
+863,2039,102,0,0,"Charlotte College","CHA","Biplanes",49090,49080,49095,0,1,0,0,2
+864,2039,102,0,3,"Anaheim College","ANA","Mutiny",49387,49380,49395,0,1,0,0,2
+865,2039,102,0,1,"Jacksonville College","JAC","Freedom",49117,49102,49120,0,1,0,0,2
+866,2039,102,0,3,"Gilbert College","GIL","Norsemen",49361,49349,49370,0,0,0,0,3
+867,2039,102,0,2,"Kansas City College","KC","Raptors",49244,49221,49245,0,0,0,0,4
+868,2039,102,0,2,"Austin College","AUS","Metro Stars",49294,49272,49295,0,0,0,0,2
+869,2039,102,0,2,"Irving College","IRV","Hot Rods",49267,49250,49270,0,0,0,0,3
+870,2039,102,0,3,"Seattle College","SEA","Maroons",49462,49451,49470,0,0,0,0,5
+871,2039,102,0,1,"Toledo College","TOL","Blizzard",49133,49126,49145,0,0,0,0,5
+872,2039,102,0,0,"Washington College","WAS","Flying Squirrels",49017,49001,49020,0,1,0,0,3
+873,2039,102,0,3,"Sacramento College","SAC","Reds",49443,49423,49445,0,0,0,0,4
+874,2039,102,0,2,"El Paso College","EP","Pilgrims",49344,49329,49345,0,0,0,0,5
+875,2039,102,0,1,"Milwaukee College","MIL","Mavericks",49168,49152,49170,0,0,0,0,3
+876,2039,102,0,0,"Boston College","BOS","Emeralds",48990,48978,48995,0,0,0,0,5
+877,2039,102,0,2,"San Antonio College","SA","River Otters",49308,49297,49320,0,1,0,0,1
+878,2039,102,0,3,"Los Angeles College","LA","Blue Sox",49420,49405,49420,0,1,0,0,1
+879,2039,102,0,1,"Madison College","MAD","Thunder Dogs",49186,49174,49195,0,1,0,0,1
+880,2039,102,0,0,"Charlotte College","CHA","Jays",49063,49055,49070,0,1,0,0,1
+881,2039,102,0,1,"New Orleans College","NO","Bengals",49217,49199,49220,0,0,0,0,4
+882,2039,102,0,0,"Hialeah College","HIA","Oilmen",49040,49022,49045,0,0,0,0,4
+883,2039,102,1,2,"Ft. Worth College","FW","Wolfhounds",49766,49751,49770,0,1,0,0,1
+884,2039,102,1,2,"Austin College","AUS","Snake Eyes",49788,49779,49795,0,0,0,0,3
+885,2039,102,1,0,"Indianapolis College","IND","Sun Sox",49595,49576,49595,0,0,0,0,4
+886,2039,102,1,3,"Bakersfield College","BAK","Lake Monsters",49911,49901,49920,0,1,0,0,1
+887,2039,102,1,0,"Hampton College","HAM","Volcanoes",49511,49506,49520,0,0,0,0,5
+888,2039,102,1,0,"Detroit College","DET","Lugnuts",49543,49522,49545,0,0,0,0,2
+889,2039,102,1,2,"Ft. Worth College","FW","Red Foxes",49743,49725,49745,0,0,0,0,4
+890,2039,102,1,0,"Philadelphia College","PHI","Colonials",49492,49475,49495,0,1,0,0,1
+891,2039,102,1,0,"Indianapolis College","IND","Gold Rush",49563,49547,49570,0,0,0,0,3
+892,2039,102,1,3,"Fontana College","FON","Commodores",49859,49850,49870,0,1,0,0,4
+893,2039,102,1,1,"Tulsa College","TUL","Barbarians",49667,49649,49670,0,0,0,0,3
+894,2039,102,1,3,"Oakland College","OAK","Rogues",49966,49946,49970,0,1,0,0,3
+895,2039,102,1,1,"Omaha College","OMA","Mohawks",49690,49679,49695,0,0,0,0,4
+896,2039,102,1,1,"Ft. Worth College","FW","Hornets",49717,49707,49720,0,1,0,0,1
+897,2039,102,1,2,"San Diego College","SD","Sea Lions",49840,49823,49845,0,0,0,0,5
+898,2039,102,1,2,"San Diego College","SD","Capitals",49811,49801,49820,0,1,0,0,2
+899,2039,102,1,1,"Houston College","HOU","Hawks",49642,49634,49645,0,0,0,0,2
+900,2039,102,1,3,"Santa Clarita College","SC","Fisher Cats",49894,49880,49895,0,0,0,0,5
+901,2039,102,1,1,"St. Louis College","SL","76ers",49618,49596,49620,0,0,0,0,5
+902,2039,102,1,3,"San Jose College","SJ","Rainiers",49940,49928,49945,0,1,1,0,2
+903,2039,103,0,0,"Brooklyn College","BRO","Isotopes",49988,49981,49995,0,0,0,0,4
+904,2039,103,0,0,"Memphis College","MEM","Yaks",50069,50054,50070,0,0,0,0,5
+905,2039,103,0,0,"Phoenix College","PHO","Rivermen",50091,50079,50095,0,0,0,0,3
+906,2039,103,0,0,"Los Angeles College","LA","Grasshoppers",50120,50102,50120,0,0,0,0,6
+907,2039,103,0,0,"Columbus College","COL","Zebras",50039,50032,50045,0,1,1,0,2
+908,2039,103,0,0,"Jersey City College","JC","Swordsmen",50017,50004,50020,0,1,0,0,1
+909,2039,103,1,0,"Austin College","AUS","Mutiny",50263,50246,50270,0,0,0,0,5
+910,2039,103,1,0,"Chicago College","CHI","Red Raiders",50245,50221,50245,0,0,0,0,6
+911,2039,103,1,0,"Chicago College","CHI","Cubs",50219,50202,50220,0,1,0,0,2
+912,2039,103,1,0,"Indianapolis College","IND","Thrashers",50191,50173,50195,0,0,0,0,3
+913,2039,103,1,0,"Jacksonville College","JAC","Sundevils",50136,50129,50145,0,0,0,0,4
+914,2039,103,1,0,"Indianapolis College","IND","Rush",50166,50147,50170,0,1,0,0,1
